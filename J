@@ -1,0 +1,52 @@
+<item><title>Jexi: Um Celular Sem Filtro
+( 2019 )</title>
+<link>https://video.wixstatic.com/video/16f3d4_a385baccbd7a4230a6ef459cc5a2c4d2/480p/mp4/file.mp4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/lmsKVJbOuSFYzBazWm8djmiCcNg.jpg</thumbnail>
+<fanart>https://vitaminanerd.com.br/wp-content/uploads/2020/03/Jexi-Capa.png</fanart>
+<info>O novo celular de Phil se transforma em um pesadelo tecnológico quando o programa de inteligência artificial do aparelho fica obcecado por ele.</info>
+</item>
+
+<item><title>Jogos Mortais
+( 2004 )</title>
+<link>https://video.wixstatic.com/video/16f3d4_d7da793562044cddbea072596ece684b/720p/mp4/file.mp4</link>
+<thumbnail>https://media.fstatic.com/RqQMzPWnN_Ig_jFO6g44FMYe200=/290x478/smart/media/movies/covers/2018/08/Jogos_Mortais.jpg</thumbnail>
+<fanart>https://www.planocritico.com/wp-content/uploads/2015/07/Jogos-Mortais-1.jpg</fanart>
+<info>Dois homens acordam acorrentados em um banheiro como prisioneiros de um assassino em série que leva suas vítimas a situações limítrofes em um jogo macabro. Para sobreviver, eles terão de desvendar juntos as peças desse quebra-cabeças doentio.</info>
+</item>
+
+<item><title>Jogos Mortais 2
+( 2005 )</title>
+<link>https://video.wixstatic.com/video/16f3d4_12e4a70f4f5f4aa691c34d5207b23e2e/720p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/kkQWU1hjgkqbWqFo6Vfu2V4Qm9f.jpg</thumbnail>
+<fanart>http://images4.wikia.nocookie.net/sawfilms/images/2/26/Sawiipic.jpg</fanart>
+<info>O detetive Eric Matthews consegue prender Jigsaw, o qual está morrendo. O que ele desconhece é que isso faz parte de um plano ainda maior do assassino sádico, que agora mantém o filho do policial como refém e pretende torná-lo uma de suas vítimas.</info>
+</item>
+
+<item><title>John Wick: De Volta ao Jogo</title>
+<link>https://x.filmes.click/m0/d/245891-720p.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w185/rboZslo3eQWKBQ3QvlO6wGV0J3K.jpg</thumbnail>
+<fanart>https://img.ibxk.com.br//ms/images/highlights/000/051/758/48820.jpg</fanart>
+<info>John Wick é um lendário assassino de aluguel aposentado, lidando com o luto após perder o grande amor de sua vida. Quando um gângster invade sua casa, mata seu cachorro e rouba seu carro, ele é forçado a voltar à ativa e inicia sua vingança.</info>
+</item>
+
+<item><title>John Wick 2: Um Novo Dia para Matar</title>
+<link>https://x.filmes.click/m0/d/324552-720p.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w185/k36UzsRQaY6E055cdYPdYbyREer.jpg</thumbnail>
+<fanart>https://miro.medium.com/max/1838/1*xkZ_dNrgxGpcMdhKwV4D8Q.jpeg</fanart>
+<info>Por causa de uma promessa antiga, John Wick viaja para Roma com o objetivo de ajudar um velho amigo a derrubar uma organização secreta, perigosa e mortal de assassinos procurados em todo o mundo</info>
+</item>
+
+<item><title>John Wick 3: Prepare-se Para a Guerra</title>
+<link>https://x.filmes.click/m0/d/458156-720p.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w185/mOoERCQCGrgFHOrco7wLy6CAYfp.jpg</thumbnail>
+<fanart>https://kanto.legiaodosherois.com.br/w760-h398-cfill/wp-content/uploads/2019/05/legiao_ah1KDxL8ovYTZRmwtsM2UWq7lcIFVn50kejX4yQJPp.jpg.jpeg</fanart>
+<info>O lendário John Wick luta para sair de Nova York quando um contrato de 14 milhões de dólares faz dele o alvo dos maiores assassinos do mundo.</info>
+</item>
+
+<item><title>Jumanji
+( 1995 )</title>
+<link>https://video.wixstatic.com/video/16f3d4_8346c9ad661c4573bd819c04fe1e0ee6/720p/mp4/file.mp4</link>
+<thumbnail>https://br.web.img3.acsta.net/medias/nmedia/18/96/54/75/20474449.jpg</thumbnail>
+<fanart>https://hqscomcafe.com.br/wp-content/uploads/2020/01/Jumanfi-frases-800x445.jpg</fanart>
+<info>Alan Parrish desapareceu quando era menino e ninguém acredita na história de seu amigo de que ele foi sugado por um jogo. Vinte e seis anos depois, duas crianças acham o jogo no sótão e, quando começam a jogar, Alan é libertado. Mas o jogo ainda não acabou e Alan precisa terminar antes de ser realmente libertado.</info>
+</item>
