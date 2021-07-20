@@ -1,0 +1,65 @@
+<item><title>De Volta à Casa da Colina
+( 2017 )</title>
+<link>https://video.wixstatic.com/video/16f3d4_6fc8b743c77c4eff97aac703383f4a98/480p/mp4/file.mp4</link>
+<thumbnail>https://br.web.img2.acsta.net/medias/nmedia/18/97/09/34/20507407.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/aOeHOD4ZthU/maxresdefault.jpg</fanart>
+<info> A editora de moda Ariel se recusa a acreditar nas histórias assustadoras de sua irmã sobre um manicômio. Mas, quando ela é encontrada morta, Ariel e seu namorado descobrem um diário com informações sobre uma estátua amaldiçoada que vale milhões escondida no manicômio. Um estudante de antropologia sequestra o casal, forcando-os a ajudar a encontrar a estátua.</info>
+</item>
+
+<item><title>Deadpool </title>
+<link>https://x.filmes.click/m0/d/293660-720p.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w185/swS3PsQYD3wGEWZwtgpUlGRMv1G.jpg</thumbnail>
+<fanart>https://difusora.thathi.com.br/wp-content/uploads/2018/11/deadpool-2-2.jpg</fanart>
+<info> Baseado no anti-herói não convencional da Marvel Comics, Deadpool conta a história da origem do ex-agente das Forças Especiais que se tornou o mercenário Wade Wilson. Depois de ser submetido a um desonesto experimento que o deixa com poderes de cura acelerada, Wade adota o alter ego de Deadpool. Armado com suas novas habilidades e um senso de humor negro e distorcido, Deadpool persegue o homem que quase destruiu sua vida.</info>
+</item>
+
+<item><title>Deadpool 2</title>
+<link>https://x.filmes.click/m0/d/383498-720p.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w185/6CABdPx68rYoLdvXhIJkilOj6XZ.jpg</thumbnail>
+<fanart>https://assets.papelpop.com/wp-content/uploads/2018/08/thumb_deadpool-2-novo-poster.jpg</fanart>
+<info> Quando o super soldado Cable chega em uma missão para assassinar o jovem mutante Russel, o mercenário Deadpool precisa aprender o que é ser herói de verdade para salvá-lo. Para isso, ele recruta seu velho amigo Colossus e forma o novo grupo X-Force, sempre com o apoio do fiel escudeiro Dopinder.</info>
+</item>
+
+<item><title>Descobrindo a Vida
+( 2019 )</title>
+<link>https://video.wixstatic.com/video/16f3d4_a8ff8dcc36a443c4ac1949aca38ce51e/480p/mp4/file.mp4</link>
+<thumbnail>https://gfilmes.net/wp-content/uploads/2019/02/zokQMbuBst9z0dP5UKi9EkCSSnV.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w780/b3oAuzWkJ120zXQ32dWUtZ1cc2F.jpg</fanart>
+<info> A namorada de Nick termina a relação, e ele tem uma crise nervosa colossal na frente de toda a universidade. Para salvá-lo, o melhor amigo tem uma solução perfeita: três dias em um épico festival de música.</info>
+</item>
+
+<item><title>Dia do Sim</title>
+<link>https://x.filmes.click/m0/d/638597-720p.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w185/wiluKb3NgB6QmuN8hWLKIUxBxxU.jpg</thumbnail>
+<fanart>https://universoreverso.com.br/wp-content/uploads/2021/02/dia-do-sim.jpg</fanart>
+<info> Cansado de dizer não para tudo, um casal permite que os filhos ditem as regras durante um dia inteirinho. Essa vai ser uma aventura e tanto!</info>
+</item>
+
+<item><title>Doom - Aniquilação
+( 2019 )</title>
+<link>https://video.wixstatic.com/video/16f3d4_1d55719a0cdc420086be61a42149c54f/720p/mp4/file.mp4</link>
+<thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcStzsZLf43cIVNiEUP_k-uJt2Kxl0sbgRn7HH3uWLxaBFLCAxXd</thumbnail>
+<fanart>https://sm.ign.com/t/ign_in/review/d/doom-annih/doom-annihilation-review_vzuz.1200.jpg</fanart>
+<info> Ao viajar pelo espaço, um grupo de fuzileiros navais responde a uma chamada de socorro vinda de uma base em uma lua alienígena. Lá, eles descobrem que o lugar for tomado por demônios.</info>
+</item>
+
+<item><title>Don Oscar</title>
+<link>https://x.filmes.click/m0/d/725649-720p.mp4</link>
+<thumbnail>https://torrentoon.org/imagens/don-oscar-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://occ-0-1723-92.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABYLtEuVejY2OvHGBDqtewxBQ-2mkgyhMypTOo5Tnzigs-91igFStOAebGdpRHxc41pZCLpMFr7lrNt9x0a_wgadVdhIN.jpg?r=625</fanart>
+<info> Um traficante em decadência se recusa a pagar uma dívida para um novato, e só um dinheiro escondido pode salvá-lo. Mas adivinha o que o jardineiro acabou de encontrar?</info>
+</item>
+
+<item><title>Doutor Estranho</title>
+<link>https://x.filmes.click/m0/d/284052-720p.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w300/t0amAZ8KJFxBQZOxOnWlKVT4STi.jpg</thumbnail>
+<fanart>https://s.aficionados.com.br/imagens/poderes-artefatos-doutor-estranho_f.jpg</fanart>
+<info> A história do mundialmente famoso neurocirurgião Dr. Stephen Strange, cuja vida muda para sempre depois de um terrível acidente de carro, que o rouba do uso de suas mãos. Quando a medicina tradicional o falha, ele é forçado a procurar por cura e esperança, em um lugar improvável – um enclave misterioso conhecido como Kamar-Taj. Ele rapidamente descobre que isso não é apenas um centro de cura, mas também a linha de frente de uma batalha contra as forças ocultas invisíveis empenhadas em destruir nossa realidade. Em pouco tempo, Strange – armado com poderes mágicos recém-adquiridos – é forçado a escolher se quer retornar à sua vida de fortuna e status ou deixar tudo para trás para defender o mundo como o mais poderoso feiticeiro existente.</info>
+</item>
+
+<item><title>Dumbo</title>
+<link>https://x.filmes.click/m0/d/329996-720p.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w185/fiycp1NSeVdIhyGD6uPFRWNTExk.jpg</thumbnail>
+<fanart>https://www.acritica.com/uploads/news/image/758620/show_Dumbo_Disney_Banner_967724D3-A0B8-4649-8824-2C69B8940CAF.jpg</fanart>
+<info> 1919, Joplin, Estados Unidos. Holt Farrier (Colin Farrell) é uma ex-estrela de circo que retorna da guerra e encontra seu mundo virado de cabeça para baixo. O circo em que trabalhava está passando por grandes dificuldades, e ele fica encarregado de cuidar de um elefante recém-nascido, cujas orelhas gigantes fazem dele motivo de piada. No entanto, seus filhos Milly (Nico Parker) e Joe (Finley Hobbins) descobrem que o pequeno elefante é capaz de uma façanha enorme.</info>
+</item>
