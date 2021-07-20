@@ -1,0 +1,79 @@
+<item><title>Tarzan</title>
+<link>https://video.wixstatic.com/video/16f3d4_0876466fc6e64fbba6b1b807420ce7f7/720p/mp4/file.mp4</link>
+<thumbnail>https://i.pinimg.com/originals/66/e0/18/66e018ddf2d291109cae598ba345ba99.jpg</thumbnail>
+<fanart>https://pm1.narvii.com/6918/8ade0339468b41c75fe27be27861237d3de923c2r1-2048-1356v2_hq.jpg</fanart>
+<info>Um bebê perde os pais na selva. Órfão e sozinho, ele é encontrado por uma macaca que o cria como se fosse seu próprio filho. Tarzan cresce pensando ser um gorila, agindo e vivendo como tal. Quando uma equipe de pesquisadores chega à floresta, o rapaz percebe que é igual a eles. Tarzan encontra a bela Jane correndo perigo e a salva, apaixonando-se por ela. Ele se vê dividido entre o desejo de estar com gente da sua espécie e a lealdade com a família de gorilas que o criou.</info>
+</item>
+
+<item><title>Ted</title>
+<link>https://video.wixstatic.com/video/16f3d4_e41965eb67e24f2c91f78a7ef96f4368/720p/mp4/file.mp4</link>
+<thumbnail>https://br.web.img3.acsta.net/medias/nmedia/18/91/00/23/20238224.jpg</thumbnail>
+<fanart>https://cosmonerd.com.br//uploads/2020/04/TED-filme-mark-wahlberg-seth-macfarlane.jpg</fanart>
+<info>Quando criança, John desejou que seu ursinho Ted ganhasse vida e, surpreendentemente, foi atendido. Porém, agora que é adulto, ele precisa lidar com as consequências de seu pedido, já que Ted não vai parar de atormentar a sua vida.</info>
+</item>
+
+<item><title>The Flash - O Último Vingador
+( 1990 )</title>
+<link>https://video.wixstatic.com/video/16f3d4_35cf24d5372744ca89423a86a1b07d97/360p/mp4/file.mp4</link>
+<thumbnail>https://media.fstatic.com/PCc1yHlNm5qPwodtPO9BCoHIlUk=/290x478/smart/media/movies/covers/2010/12/fffe84f28355fdde212c912fd7836d64.jpg</thumbnail>
+<fanart>https://noticiasdatv.uol.com.br/media/uploads/artigos/the-flash-1990-credito-cbs-grande.jpg</fanart>
+<info>Barry Allen é um cientista que trabalha na polícia e quando ganha super-poderes, precisa da ajuda de Cristina McGee para se adaptar aos seus novos dons. Além disso tudo, tem que enfrentar uma gangue de motoqueiros que vem infernizando a cidade.</info>
+</item>
+
+<item><title>Todo Mundo em Pânico </title>
+<link>https://x.filmes.click/m0/d/4247-720p.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w300/qqOcBboLed2U0zHgiKZYNTvU2lv.jpg</thumbnail>
+<fanart>https://deveserisso.com.br/blog/wp-content/uploads/2020/05/todo-mudo-em-panico.jpg</fanart>
+<info>Depois do assassinato de uma bela colega de classe, um grupo de adolescentes desorientados descobre que há um assassino entre eles. A heroína Cindy Campbell e a sua turma de amigos tentam se proteger do perigo, mas Gail Hailstorm, uma repórter irritante, simplesmente não os deixa em paz.</info>
+</item>
+
+<item><title>Todo Mundo em Pânico 2</title>
+<link>https://x.filmes.click/m0/d/4248-720p.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w300/549UoU38uoikbqgXG09rkkfIEWf.jpg</thumbnail>
+<fanart>http://2.bp.blogspot.com/_I1VRaj3_viw/TAAmI0N4RkI/AAAAAAAAAKs/CWlXDiIh2vc/s1600/todo+mundo+em+panico+2.jpg</fanart>
+<info>Dois padres, um grupo de estudantes e um professor são seduzidos e atormentados por um fantasma que vive numa mansão assombrada.</info>
+</item>
+
+<item><title>Todo Mundo em Pânico 3
+( 2003 )</title>
+<link>https://video.wixstatic.com/video/16f3d4_a3c8b05243704cd9adfada6a76240f50/720p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w300/4eGdcLg9dWxUv3dSY7tIz5EX9sz.jpg</thumbnail>
+<fanart>http://3.bp.blogspot.com/-CIYWKoT2TGU/VT5qerpzmII/AAAAAAAAAgk/azEnNp5UKGs/s1600/2.jpg</fanart>
+<info>Depois de a repórter de jornal Cindy assistir acidentalmente uma estranha fita de vídeo que faz com que o espectador morra dentro de uma semana, ela descobre que a fita é apenas um dos muitos acontecimentos estranhos recentes. Os agricultores locais Tom e George relataram círculos enormes que aparecem durante a noite em seus campos. Cindy encontra uma ligação entre a fita e os círculos nas plantações com a ajuda do presidente dos Estados Unidos e uma tia gentil.</info>
+</item>
+
+<item><title>Todo Mundo em Pânico 4</title>
+<link>https://x.filmes.click/m0/d/4257-720p.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w300/lCTKVVQmBxjTWAQSZOpLPbBdBVL.jpg</thumbnail>
+<fanart>https://www.planocritico.com/wp-content/uploads/2021/02/todo_mundo_em_anico_4.jpg</fanart>
+<info>Mais uma continuação da franquia de filmes que faz sátiras das produções mais recentes de terror, como Jogos Mortais e O Grito. Desta vez, duas jovens tentam salvar o mundo de uma invasão alienígena.</info>
+</item>
+
+<item><title>Todo Mundo em Pânico 5</title>
+<link>https://video.wixstatic.com/video/16f3d4_9f1c736bb7b94688b3161a877c26d893/720p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w300/14mLzrL5d9ykeEy0L9RGSit6PXN.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/MfOslLcBIL8/maxresdefault.jpg</fanart>
+<info>Após noite juntos, Charlie é morto por Lindsay, que foi possuída por um demônio, com isso, os três filhos dele desaparecem, sendo encontrados por dois amigos em uma cabana abandonada. Lá duas das crianças passaram a agir de forma estranha, obedecendo as ordens de um ser invisível quem chamam de Mama. Após serem levados para orfanato, os três passam a viver com os tios Dan e Jody. Entretanto, é lá que estranhos eventos acontecem tendo Mama como responsável.</info>
+</item>
+
+<item><title>Togo</title>
+<link>https://x.filmes.click/m0/d/606856-720p.mp4</link>
+<thumbnail>https://br.web.img2.acsta.net/pictures/19/12/04/09/48/0873092.jpg</thumbnail>
+<fanart>https://www.protocoloxp.com.br/wp-content/uploads/2020/06/togo_capa_pxp.jpg</fanart>
+<info>A história de um homem e sua equipe de cães puxadores de trenó liderados pela cadela Togo, que transportaram remédios para a população do Alasca a fim de combater uma epidemia durante a década de 20. Togo, que liderou a Grande Corrida da Misericórdia ou Corrida do Soro de 1925, era considerada pela maioria das pessoas como pequena e fraca demais para liderar uma corrida tão difícil.</info>
+</item>
+
+<item><title>Tom & Jerry – O Filme</title>
+<link>https://x.filmes.click/m0/d/587807-720p.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w185/6KErczPBROQty7QoIsaa6wJYXZi.jpg</thumbnail>
+<fanart>https://cinepop.com.br/wp-content/uploads/2021/01/tom_and_jerry_ver2_xlg.jpg</fanart>
+<info>Um gato de rua chamado Tom é contratado por uma garota chamada Kayla, uma jovem empregada que trabalha em um hotel glamouroso em Nova York, para se livrar de Jerry, um rato travesso que se mudou para o hotel, antes que ele seja a ruína de um importante casamento.</info>
+</item>
+
+<item><title>Tropa de Elite
+( 2007 )</title>
+<link>https://video.wixstatic.com/video/16f3d4_ed253a4ababa4700aec703e9a979a2b7/720p/mp4/file.mp4</link>
+<thumbnail>https://s2.glbimg.com/hiM7-jubCm1UdYZ4Q42c1KDYMX0=/362x536/https://s2.glbimg.com/gTW5Vt_lxmJFGaSluIRUhKJUG0M=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2021/P/r/BQv2jORCOX9RCPMvTt5A/2020-1332-tropa-de-elite-poster.jpg</thumbnail>
+<fanart>https://cdn.falauniversidades.com.br/wp-content/uploads/2018/09/1820c6be-tropa-de-elite-resenha-resumo-critica.jpg</fanart>
+<info>Nascimento, capitão da Tropa de Elite do Rio de Janeiro, é designado para chefiar uma das equipes que tem como missão apaziguar o Morro do Turano. Ele precisa cumprir as ordens enquanto procura por um substituto para ficar em seu lugar. Em meio a um tiroteio, Nascimento e sua equipe resgatam Neto e Matias, dois aspirantes a oficiais da PM. Ansiosos para entrar em ação e impressionados com a eficiência de seus salvadores, os dois se candidatam ao curso de formação da Tropa de Elite.</info>
+</item>
