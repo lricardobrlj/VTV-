@@ -1,0 +1,77 @@
+<item>
+<title>Rambo: Até o Fim</title>
+<link>https://x.filmes.click/m0/d/522938-720p.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w300/vaoCd6iZ6xmBTvsiuWjcMWY6wdm.jpg</thumbnail>
+<fanart>http://www.californiafilmes.com.br/wp-content/uploads/2019/09/ART-FINISHED-R4.jpg</fanart>
+<info>O tempo passou para Rambo, agora ele vive recluso e trabalha em um rancho que fica na fronteira entre os Estados Unidos e o México. Sua vida antiga marcada por lutas violentas, mas quase sempre vitoriosas, ficou no passado. No entanto, quando a filha de um amigo é sequestrada, Rambo não consegue controlar seu ímpeto por justiça e resolve enfrentar um dos mais perigosos cartéis do México.</info>
+</item>
+
+<item>
+<title>Raya e o Último Dragão</title>
+<link>https://x.filmes.click/m0/d/527774-720p.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/yXrb84zJidCefyhTWHwo4yCDvwz.jpg</thumbnail>
+<fanart>https://ovicio.com.br/wp-content/uploads/2021/02/20210205-raya-and-the-last-dragon-trailer-1200x675.jpg</fanart>
+<info>Há muito tempo, no mundo de fantasia de Kumandra, humanos e dragões viviam juntos em harmonia. No entanto, quando monstros sinistros conhecidos como Druun ameaçaram a terra, os dragões se sacrificaram para salvar a humanidade. Agora, 500 anos depois, esses mesmos monstros voltaram, e cabe a um guerreiro solitário rastrear o último dragão e parar o Druun para sempre.</info>
+</item>
+
+<item>
+<title>Rédeas da Redenção
+( 2019 )</title>
+<link>https://video.wixstatic.com/video/16f3d4_f87a3b5c0a3d47bfb2a029a2a4c5b729/720p/mp4/file.mp4</link>
+<thumbnail>https://br.web.img3.acsta.net/pictures/20/05/11/20/56/1632281.jpg</thumbnail>
+<fanart>https://cenasdecinema.com/wp-content/uploads/2020/07/Redeas-do-destino_destaque1.jpg</fanart>
+<info> Julgado como um homem violentamente convicto, Roman Coleman (Matthias Schoenaerts) recebe a chance de participar de uma nova terapia de reabilitação. O inovador programa de treinamento procura mudar suas raízes violentas de uma maneira pouco ortodoxa.</info>
+</item>
+
+<item>
+<title>Rei dos Ladrões
+( 2018 )</title>
+<link>https://video.wixstatic.com/video/16f3d4_132b1efbfe3e44dbba7abb81da41fa9d/480p/mp4/file.mp4</link>
+<thumbnail>https://static.wikia.nocookie.net/dublagempedia/images/c/ca/Ladroes.jpg/revision/latest?cb=20201111170210&path-prefix=pt-br</thumbnail>
+<fanart>https://cdn-images.rtp.pt/EPG/imagens/40250_60954_28325.png?amp;w=270</fanart>
+<info>Brian Reader é um criminoso que, no auge dos seus 77 anos, reúne um grupo de aposentados para realizar um roubo. Juntos, eles fazem o que ficou conhecido como o maior assalto da história da Grã-Bretanha.</info>
+</item>
+
+<item>
+<title>Resgate no Oeste
+( 2016 )</title>
+<link>https://video.wixstatic.com/video/16f3d4_34a479fa73a7449a97b429873edc9b89/720p/mp4/file.mp4</link>
+<thumbnail>https://media.fstatic.com/7213QXQPV4lN_TYyzPYDF3cdT1s=/290x478/smart/media/movies/covers/2016/04/traded_t195329.jpg</thumbnail>
+<fanart>https://a2filmesblog.files.wordpress.com/2019/01/maxresdefault-e1547114668350.jpg?w=1200&h=675&crop=1</fanart>
+<info>Kansas, 1880. Depois de experienciar uma tragédia familiar, a vida do pistoleiro Clay Travis vira de cabeça para baixo. Acostumado a uma rotina estável e harmoniosa, o homem é forçado a encarar uma realidade dura: seu filho está morto e sua filha desaparecida. Ao descobrir que a menina foi vendida como escrava para um bordel, Travis se atém a esperança e ao sentimento de vingança para engatar em uma busca incessável pela filha. </info>
+</item>
+
+<item>
+<title>Resident Evil: A Vingança
+( 2017 )</title>
+<link>https://video.wixstatic.com/video/16f3d4_c1d3ebc6ebbd4305b76de6ff276bd641/720p/mp4/file.mp4</link>
+<thumbnail>https://i.imgur.com/XYPJ1zT.jpg</thumbnail>
+<fanart>https://www.aumanack.etc.br/wp-content/uploads/2017/06/15155618702207-t1200x480.jpg</fanart>
+<info>Chris Redfield (Kevin Dorman) pede a ajuda do agente do governo Leon S. Kennedy (Matthew Mercer) e de uma professora do Instituto Alexander de Biotecnologia para deter um comerciante que pretendia espalhar um vírus mortal em Nova York como vingança.</info>
+</item>
+
+<item>
+<title>Rua do Medo: 1994 - Parte 1
+( 2021 )</title>
+<link>https://video.wixstatic.com/video/16f3d4_8727c9daec4d47b7b0ccc99ac1b57a50/1080p/mp4/file.mp4</link>
+<thumbnail>https://br.web.img3.acsta.net/pictures/21/06/28/15/53/0645594.jpg</thumbnail>
+<fanart>https://entreterse.com.br/wp-content/uploads/2021/07/Rua-do-Medo-1994-%E2%80%93-Parte-1.jpg</fanart>
+<info>Depois da colega Heather (Maya Hawke) ser morta na saída do trabalho, um grupo de adolescentes passa a ser perseguido por um grupo de assassinos mascarados em 1994, na pequena cidade de Shadyside. Quando começam a investigar as mortes, eles descobrem que não são as primeiras vítimas e que a cidade tem uma longa história de assassinatos brutais que acontecem há anos. Agora eles precisarão descobrir uma forma de impedir os assassinos ou, então, não sobreviverão até o dia seguinte.</info>
+</item>
+
+<item>
+<title>Rua do Medo: 1978 - Parte 2
+( 2021 )</title>
+<link>https://video.wixstatic.com/video/16f3d4_23f1096a34ab40a8ae9bc8d13dea4a20/720p/mp4/file.mp4</link>
+<thumbnail>https://i1.wp.com/trilhadomedo.com/wp-content/uploads/2021/07/rua-do-medo-1978.jpg?fit=426%2C597&ssl=1</thumbnail>
+<fanart>https://cinepop.com.br/wp-content/uploads/2021/07/rua-do-medo-1978-1.jpg</fanart>
+<info>Stine e acompanha um grupo de adolescentes que descobrem eventos aterrorizantes sobre sua cidade, onde há gerações acontecem assassinatos brutais. Todos essas mortes parecem estar conectadas e eles podem ser as próximas vítimas. O segundo longa se passa em um acampamento onde jovens das cidades de Shadyside e Sunnyvale se encontram e descobrem que as duas cidades estão unidas por esse mistério.</info>
+</item>
+
+<item>
+<title>Ruas em Guerra</title>
+<link>https://video.wixstatic.com/video/16f3d4_975d98de72b34ba089d35953041e92bd/480p/mp4/file.mp4</link>
+<thumbnail>https://br.web.img3.acsta.net/pictures/20/06/09/20/30/1184329.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/YcYuWgnmd3o/maxresdefault.jpg</fanart>
+<info>Um veterano de guerra tenta ajudar um garoto e seu irmão mais novo quando eles se envolvem com um viciado em drogas e sua gangue.</info>
+</item>
