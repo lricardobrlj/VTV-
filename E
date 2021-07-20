@@ -1,0 +1,38 @@
+<item><title>El Chicano
+( 2018 )</title>
+<link>https://video.wixstatic.com/video/16f3d4_71b8e676c064462b904eb96ce8505b28/480p/mp4/file.mp4</link>
+<thumbnail>https://www.telechargement-film.co/affiche-film/el-chicano.jpg</thumbnail>
+<fanart>https://images.justwatch.com/backdrop/133757837/s1920/el-chicano</fanart>
+<info> Um grupo de policiais é brutalmente assassinado por um cartel mexicano. O caso se torna pessoal para o policial de Los Angeles Diego Hernandez, que se transforma no lendário El Chicano e busca vingança.</info>
+</item>
+
+<item><title>Elysion
+( 2013 )</title>
+<link>https://video.wixstatic.com/video/16f3d4_d1003d0f2470414d921d720d351c8cf1/720p/mp4/file.mp4</link>
+<thumbnail>https://s2.glbimg.com/Ha-YMw7sarP_6fJ7r7GLSZqaS70=/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2019/e/p/qfKzDPStODpx84JE9i0A/elysium-regposter-brazil.jpg</thumbnail>
+<fanart>https://www.thunderwave.com.br/wp-content/uploads/2017/04/92cQf4qI1f8eJt76ljxgasnl59I.jpg</fanart>
+<info> No ano de 2154, os mais ricos vivem em uma estação espacial enquanto o resto da população mora em uma Terra arruinada. Um homem assume a missão de tentar trazer igualdade aos mundos polarizados.</info>
+</item>
+
+<item><title>Era Uma Vez em… Hollywood</title>
+<link>https://x.filmes.click/m0/d/466272-720p.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w185/gMEKjlq4JcLR93oAVSD47MSeO9h.jpg</thumbnail>
+<fanart>https://super.abril.com.br/wp-content/uploads/2019/08/eraumavez.png</fanart>
+<info> Los Angeles, 1969. Rick Dalton (Leonardo DiCaprio) é um ator de TV que, juntamente com seu dublê, está decidido a fazer o nome em Hollywood. Para tanto, ele conhece muitas pessoas influentes na indústria cinematográfica, o que os acaba levando aos assassinatos realizados por Charles Manson na época, entre eles o da atriz Sharon Tate (Margot Robbie), que na época estava grávida do diretor Roman Polanski (Rafal Zawierucha).</info>
+</item>
+
+<item><title>Era Uma Vez um Boneco de Neve
+( 2021 )</title>
+<link>https://video.wixstatic.com/video/16f3d4_1978841a1a264cc5bc704cad87091414/1080p/mp4/file.mp4</link>
+<thumbnail>https://media.fstatic.com/ufCV2ppetou32GUT2QkmP6FIX6o=/290x478/smart/media/movies/covers/2020/11/cats1_EBNIQco.jpg</thumbnail>
+<fanart>https://nerdsdagalaxia.com.br/wp-content/uploads/2020/09/Olaf--1024x567.jpg</fanart>
+<info> Era uma Vez um Boneco de Neve é um curta-metragem com Olaf, o boneco de neve de Frozen, em sua origem e procura por identidade nas geladas montanhas ao redor de Arendelle.</info>
+</item>
+
+<item><title>Extermínio
+( 2002 )</title>
+<link>https://video.wixstatic.com/video/16f3d4_a8ac429f8722416aadefd0aac196deb1/720p/mp4/file.mp4</link>
+<thumbnail>https://www.cafecomfilme.com.br/media/k2/items/cache/671e1b97d5db31a8bc1d973f463cac5a_XL.jpg</thumbnail>
+<fanart>https://i2.wp.com/cinemacao.com/wp-content/uploads/2016/08/28-days-later-2002-image-1.jpg</fanart>
+<info> Uma praga transforma a maioria da humanidade em zumbis sedentos de sangue. Um grupo ainda não afetado se prepara para a mais perigosa jornada de suas vidas: tentar chegar a uma fortaleza militar em Manchester.</info>
+</item>
