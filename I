@@ -1,0 +1,15 @@
+<item><title>Inatividade Paranormal 2
+( 2014 )</title>
+<link>https://video.wixstatic.com/video/16f3d4_926f383e30864f52a23281c9642f19a6/720p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/7xvLGlzqlMdJi7b2w1SKycsbpVI.jpg</thumbnail>
+<fanart>https://is5-ssl.mzstatic.com/image/thumb/Xg1Ehe8-O5rpqylvtoNfkw/1200x675.jpg</fanart>
+<info>Malcolm está tentando reiniciar a vida ao lado de outra mulher, junto dos dois filhos dela. A família se muda para uma casa nova. Ele permanece com mania de filmar tudo o que acontece à sua volta, com diversas câmeras. Entretanto, não demora muito para que Malcolm volte a ser afetado por acontecimentos sobrenaturais, especialmente quando inicia um caso com uma estranha boneca.</info>
+</item>
+
+<item><title>Invocação do Mal 3: A Ordem do Demônio
+( 2021 )</title>
+<link>https://video.wixstatic.com/video/16f3d4_d3ebecd8299e43a68f04c5ae82a02a28/720p/mp4/file.mp4</link>
+<thumbnail>https://br.web.img3.acsta.net/pictures/20/08/14/17/35/2504537.jpg</thumbnail>
+<fanart>https://clube-static.clubegazetadopovo.com.br/portal/wp-content/uploads/2021/06/invocacaodomal3_15-696x418-1.jpg</fanart>
+<info>O casal Ed e Lorraine Warren investigam um assassino que alega ter sido possuído por um demônio.</info>
+</item>
