@@ -1,0 +1,112 @@
+<item><title>Harry Potter e a Pedra Filosofal</title>
+<link>https://x.filmes.click/m0/d/671-720p.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/qnw9610ojLT0jU3lMSZOAFttt1e.jpg</thumbnail>
+<fanart>https://www.copeltelecom.com/site/wp-content/uploads/2020/09/Curiosidades-em-Harry-Potter-e-a-Pedra-Filosofal_.jpg</fanart>
+<info>Harry Potter é um garoto órfão que vive infeliz com seus tios, os Dursleys. Ele recebe uma carta contendo um convite para ingressar em Hogwarts, uma famosa escola especializada em formar jovens bruxos. Inicialmente, Harry é impedido de ler a carta por seu tio, mas logo recebe a visita de Hagrid, o guarda-caça de Hogwarts, que chega para levá-lo até a escola. Harry adentra um mundo mágico que jamais imaginara, vivendo diversas aventuras com seus novos amigos, Rony Weasley e Hermione Granger.</info>
+</item>
+
+<item><title>Harry Potter e o Prisioneiro de Azkaban</title>
+<link>https://x.filmes.click/m0/d/673-720p.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/1HdMUghqlgOIvbsU9ZtO40IPRzl.jpg</thumbnail>
+<fanart>https://spotlight.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F03%2F42%2F3428533_D96E10BFF8272AB0.jpg&width=1400&height=787&resize=CROP&format=JPEG</fanart>
+<info>O 3º ano de ensino na Escola de Magia e Bruxaria de Hogwarts se aproxima. Porém um grande perigo ronda a escola: o assassino Sirius Black fugiu da prisão de Azkaban, considerada até então como à prova de fugas. Para proteger a escola são enviados os Dementadores, estranhos seres que sugam a energia vital de quem se aproxima deles, que tanto podem defender a escola como piorar ainda mais a situação.</info>
+</item>
+
+<item><title>Harry Potter e o Cálice de Fogo</title>
+<link>https://x.filmes.click/m0/d/674-720p.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w185/5oWB3hjzyECRBAjgWkmZinxl9qA.jpg</thumbnail>
+<fanart>https://4.bp.blogspot.com/-qS9Yeg-i98o/WPucHO31OpI/AAAAAAAAOVc/PXtID955o3kMM4oNsFVau-onagkOyYg2wCLcB/s1600/O%2Bc%25C3%25A1lice%2Bde%2Bfogo.png</fanart>
+<info>Em seu 4º ano na Escola de Magia e Bruxaria de Hogwarts, Harry Potter é misteriosamente selecionado para participar do Torneio Tribruxo, uma competição internacional em que precisará enfrentar alunos mais velhos e experientes de Hogwarts e também de outras escolas de magia. Além disso a aparição da marca negra de Voldemort ao término da Copa do Mundo de Quadribol põe a comunidade de bruxos em pânico, já que sinaliza que o temido bruxo está prestes a retornar.</info>
+</item>
+
+<item><title>Harry Potter e a Ordem da Fênix</title>
+<link>https://video.wixstatic.com/video/16f3d4_38e4f42180f04937b36cd9db4ab12e7a/480p/mp4/file.mp4</link>
+<thumbnail>https://static.wikia.nocookie.net/vvikipedia/images/d/d5/Poster_Harry_Potter_e_a_Ordem_da_F%C3%AAnix.jpg/revision/latest?cb=20200413044832&path-prefix=pt</thumbnail>
+<fanart>https://i.ytimg.com/vi/VERzIqLlzYQ/maxresdefault.jpg</fanart>
+<info>Harry Potter está em seu quinto ano em Hogwarts e acaba ouvindo que muitos não sabem a verdade sobre seu encontro com Lord Voldemort. O Ministro de Mágica, Cornelius Fudge, indica Dolores Umbridge para ser a nova professora de Defesa Contra as Artes das Trevas, por acreditar que Dumbledore planeja tomar seu lugar. Porém, os métodos que ela usa são totalmente inapropriados. Harry, então, se reúne com um grupo de alunos para defender sua escola.</info>
+</item>
+
+<item><title>Harry Potter e o Enigma do Príncipe</title>
+<link>https://x.filmes.click/m0/d/767-720p.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w185/hTQQ5l9mxA3Rob8PTyvrNNGuj6y.jpg</thumbnail>
+<fanart>https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/harry-potter-and-the-half-blood-prince-5b3419dee0a7b.jpg</fanart>
+<info>No sexto ano de Harry em Hogwarts, Lord Voldemort e seus Comensais da Morte estão criando o terror nos mundos bruxo e trouxa. Dumbledore convence seu velho amigo Horácio Slughorn para retornar a Hogwarts como professor de poções após Harry encontrar um estranho livro escolar. Draco Malfoy se esforça para realizar uma ação destinada por Voldemort, enquanto Dumbledore e Harry secretamente trabalham juntos a fim de descobrir o método para destruir o Lorde das Trevas uma vez por todas.</info>
+</item>
+
+<item><title>Harry Potter e as Relíquias da Morte – Parte 1</title>
+<link>https://x.filmes.click/m0/d/12444-720p.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w185/67FVFOTaeBUQnimhCWpUkDawDct.jpg</thumbnail>
+<fanart>https://2.bp.blogspot.com/-VmaAmdWx6Dk/XD4AC1JHOqI/AAAAAAAAc3A/keioFwDTgcUBc71wWcCNBe8or_GB3Q8IQCLcBGAs/w1200-h630-p-k-no-nu/harry-potter-e-as-reliquias-da-morte-parte-1-netflix.jpg</fanart>
+<info>Sem a orientação e proteção de seus professores, Harry, Rony e Hermione iniciam uma missão para destruir as horcruxes, que são as fontes da imortalidade de Voldemort. Embora devam confiar um no outro mais do que nunca, forças das trevas ameaçam separá-los. Os Comensais da Morte de Voldemort tomaram o controle do Ministério da Magia e de Hogwarts, e eles estão procurando por Harry enquanto ele e seus amigos se preparam para o confronto final.</info>
+</item>
+
+<item><title>Homem-Aranha </title>
+<link>https://x.filmes.click/m0/d/557-720p.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w300/2T3GkzO6Ar5dlp6Bet43UnxZfQr.jpg</thumbnail>
+<fanart>https://sm.ign.com/ign_br/screenshot/default/spider-man-2002-banner_k5qn.jpg</fanart>
+<info>Peter Parker é um jovem estudioso que vive com seus tios, Ben e May, desde que seus pais faleceram. Peter tem dificuldade em se relacionar com seus colegas, por ser tímido e por eles o considerarem um nerd. Até que, em uma demonstração científica, um acidente inesperado faz com que aranha modificada geneticamente pique Peter. A partir de então seu corpo é quimicamente alterado pela picada da aranha.</info>
+</item>
+
+<item><title>Homem-Aranha 2</title>
+<link>https://x.filmes.click/m0/d/558-720p.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w300/ulY3TIeF3cNZKmLmrnQueNYZ0gn.jpg</thumbnail>
+<fanart>https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/spider-man-2-503bb08d5950c.jpg</fanart>
+<info>Após derrotar o Duende Verde a vida de Peter Parker (Tobey Maguire) muda por completo. Temendo que Mary Jane (Kirsten Dunst) sofra algum risco por ser ele o Homem-Aranha, Peter continua escondendo o amor que sente e se mantém longe dela. Ao mesmo tempo precisa lidar com Harry (James Franco), seu melhor amigo, cuja raiva pelo Homem-Aranha aumenta cada vez mais por considerá-lo como sendo o assassino de seu pai.</info>
+</item>
+
+<item><title>Homem-Aranha 3</title>
+<link>https://x.filmes.click/m0/d/559-720p.mp4</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/S/pv-target-images/1a2928be407af02f857eb84806baf85f9718ece8867bb227636a4db0ad00813d._RI_V_TTW_.jpg</thumbnail>
+<fanart>http://pm1.narvii.com/7136/c70e2ba69a3d2fd96165c8e65c19cef34f9b7c47r1-1024-627v2_uhq.jpg</fanart>
+<info>O relacionamento entre Peter Parker e Mary Jane parece estar dando certo, mas outros problemas começam a surgir. A roupa de Homem-Aranha torna-se preta e acaba controlando Peter, que apesar de aumentar seus poderes, revela o lado obscuro de sua personalidade. Os vilões Venon e Homem-Areia tentam destruir o super-herói.</info>
+</item>
+
+<item><title>Homem-Aranha: De Volta ao Lar</title>
+<link>https://x.filmes.click/m0/d/315635-720p.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w300/9Fgs1ewIZiBBTto1XDHeBN0D8ug.jpg</thumbnail>
+<fanart>https://sm.ign.com/t/ign_br/screenshot/8/817125jpg/817125jpg_85zk.1280.jpg</fanart>
+<info>Depois de atuar ao lado dos Vingadores, chegou a hora do pequeno Peter Parker (Tom Holland) voltar para casa e para a sua vida, já não mais tão normal. Lutando diariamente contra pequenos crimes nas redondezas, ele pensa ter encontrado a missão de sua vida quando o terrível vilão Abutre (Michael Keaton) surge amedrontando a cidade. O problema é que a tarefa não será tão fácil como ele imaginava.</info>
+</item>
+
+<item><title>Homem-Aranha: Longe de Casa</title>
+<link>https://x.filmes.click/m0/d/429617-720p.mp4</link>
+<thumbnail>https://www.themoviedb.org/t/p/w500/tX0o4AdHpidgniTWwfzK0dNTKrc.jpg</thumbnail>
+<fanart>https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/06/spider-man-far-from-home-mysterio.jpg</fanart>
+<info>Peter Parker está em uma viagem de duas semanas pela Europa, ao lado de seus amigos de colégio, quando é surpreendido pela visita de Nick Fury. Convocado para mais uma missão heroica, ele precisa enfrentar vários vilões que surgem em cidades-símbolo do continente, como Londres, Paris e Veneza, e também a aparição do enigmático Mysterio.</info>
+</item>
+
+<item><title>Homem de Ferro </title>
+<link>https://x.filmes.click/m0/d/1726-720p.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w300/7w6s8TdJ0Wdayz2MCHZA5wIk9nq.jpg</thumbnail>
+<fanart>https://observatoriodocinema.uol.com.br/wp-content/uploads/2021/02/homem-de-ferro-tony-divulgacao.jpg</fanart>
+<info>Tony Stark (Robert Downey Jr.) é um industrial bilionário, que também é um brilhante inventor. Ao ser sequestrado ele é obrigado por terroristas a construir uma arma devastadora mas, ao invés disto, constrói uma armadura de alta tecnologia que permite que fuja de seu cativeiro. A partir de então ele passa a usá-la para combater o crime, sob o alter-ego do Homem de Ferro.</info>
+</item>
+
+<item><title>Homem de Ferro 2</title>
+<link>https://x.filmes.click/m0/d/10138-720p.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w300/vzROjQbgKWMVf2EldXipCcjpuBL.jpg</thumbnail>
+<fanart>https://entreterse.com.br/wp-content/uploads/2019/01/homem-de-ferro.jpeg</fanart>
+<info>Em um mundo ciente da existência do Homem de Ferro, o inventor bilionário Tony Stark sofre pressão de todos os lados para compartilhar sua tecnologia com as forças armadas. Ele resiste para divulgar os segredos de sua inigualável armadura, com medo de que estas informações caiam nas mãos erradas.</info>
+</item>
+
+<item><title>Homem de Ferro 3</title>
+<link>https://x.filmes.click/m0/d/68721-720p.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w300/C7MZwRTjvEy7gkWcLJeBGZFE1w.jpg</thumbnail>
+<fanart>https://reservacinefila.com.br/wp-content/uploads/2019/07/homem-de-ferro-3.jpg</fanart>
+<info>Depois de um inimigo reduzir o mundo de Tony Stark a destroços, o Homem de Ferro precisa aprender a confiar em seus instintos para proteger aqueles que ama, especialmente sua namorada, e lutar contra seu maior medo: o fracasso.</info>
+</item>
+
+<item><title>Hospedagem Mortal
+( 2020 )</title>
+<link>https://video.wixstatic.com/video/16f3d4_a1df233f737c40f18c384b605a498184/720p/mp4/file.mp4</link>
+<thumbnail>https://ottvsimg.ottvs.com.br/cov/acg.168247/0168247_335.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/1GAtnSAznVo/maxresdefault.jpg</fanart>
+<info>Joyce perde o marido e começa a ter dificuldades financeiras. Para ganhar dinheiro, decide transformar sua propriedade em um tipo de pensão. Ela conhece Bob, um rapaz muito mais novo que aluga um quarto em sua casa.</info>
+</item>
+
+<item><title>Hulk</title>
+<link>https://x.filmes.click/m0/d/1927-720p.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w185/1Kl74sn1p6thqUFU6atZA81NHfi.jpg</thumbnail>
+<fanart>https://www.torredevigilancia.com/wp-content/uploads/2020/02/hulkang-810x456.jpg</fanart>
+<info>Bruce Banner é um cientista e trabalha ao lado de sua grande paixão, a bela Betty Ross, em um projeto que envolve a reconstituição de tecidos com a utilização da radiação gama. O problema todo começa quando, após ter seus genes alterados por um acidente envolvendo a radiação gama, Bruce Banner passa a se transformar em um ser gigantesco e verde que expressa no corpo todos os seus demônios mais íntimos e pessoais.</info>
+</item>
