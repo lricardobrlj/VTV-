@@ -1,0 +1,6 @@
+<item><title>Wolverine: Imortal</title>
+<link>https://x.filmes.click/m0/d/76170-720p.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w185/wCP2JfaRFdrFjxiXTUdNnfvyJ2K.jpg</thumbnail>
+<fanart>https://images7.alphacoders.com/112/1124461.jpg</fanart>
+<info>Após matar Jean Grey para salvar a humanidade, Logan passou a viver na selva. Deprimido, ele é encontrado em um bar pela jovem Yukio, filha de Yashida, que foi salvo por Logan em Nagasaki na época da bomba atômica. Yashima deseja reencontrar Logan para fazer-lhe uma proposta: transferir seu fator de cura para ele, de forma que Logan possa, enfim, se tornar mortal e levar uma vida como uma pessoa qualquer. Ele recusa o convite, mas acaba infectado por uma mutante imune a venenos de todo tipo.</info>
+</item>
