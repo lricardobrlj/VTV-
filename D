@@ -20,6 +20,22 @@
 <info> Quando o super soldado Cable chega em uma missão para assassinar o jovem mutante Russel, o mercenário Deadpool precisa aprender o que é ser herói de verdade para salvá-lo. Para isso, ele recruta seu velho amigo Colossus e forma o novo grupo X-Force, sempre com o apoio do fiel escudeiro Dopinder.</info>
 </item>
 
+<item>
+<title>Deep</title>
+<link>https://video.wixstatic.com/video/16f3d4_9f73f270e3334fa9857051f1b6a05c11/1080p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/jhbJCqSUmhFJJYo27DP44kdN6Fb.jpg</thumbnail>
+<fanart>https://www.heavenofhorror.com/wp-content/uploads/2021/07/deep-netflix-review.jpg</fanart>
+<info>
+
+[B] Lançamento: [/B] [COLOR hotpink][B] 2021 [/B][/COLOR]  
+[B] Gênero: [/B] [COLOR hotpink] Ficção Científica, Suspense [/COLOR] 
+[B] Duração:[/B] [COLOR hotpink] 101 min. [/COLOR] 
+
+Quatro estudantes de medicina que sofrem de insônia são atraídos para um experimento que sai do controle. Agora eles precisam escapar antes que seja tarde demais.
+
+</info>
+</item>
+
 <item><title>Descobrindo a Vida
 ( 2019 )</title>
 <link>https://video.wixstatic.com/video/16f3d4_a8ff8dcc36a443c4ac1949aca38ce51e/480p/mp4/file.mp4</link>
