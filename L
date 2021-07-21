@@ -21,6 +21,23 @@
 <info>A Liga da Justiça encontra uma força sobrenatural contra a qual seus poderes parecem ser inúteis, e Batman reúne uma nova equipe formada por heróis míticos como o Monstro do Pântano, o Demônio e Constantine.</info>
 </item>
 
+<item>
+<title>Lisbela e o Prisioneiro</title>
+<link>https://video.wixstatic.com/video/16f3d4_c93eff69c6f340178ded0196df12ac8d/720p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/cZoykE7XMqPBdZBfM6ncSVMT8Wh.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/UXxUYWxzBEA/maxresdefault.jpg</fanart>
+<info>
+
+[B] Lançamento: [/B] [COLOR hotpink][B] 2003 [/B][/COLOR]  
+[B] Gênero: [/B] [COLOR hotpink] Comédia, Romance [/COLOR] 
+[B] Duração:[/B] [COLOR hotpink] 104 min. [/COLOR] 
+
+A jovem Lisbela adora ir ao cinema e vive sonhando com os galãs de Hollywood dos filmes que assiste. Leléu é um malandro conquistador, que em meio a uma de suas muitas aventuras chega à cidade da moça. Após se conhecerem eles logo se apaixonam, mas Lisbela está de casamento marcado. Em meio às dúvidas e aos problemas familiares que a nova paixão desperta, há ainda a presença de um matador que está atrás de Leléu, devido a ele ter se envolvido com sua esposa no passado.
+
+</info>
+</item>
+
+
 <item><title>Logan
 ( 2017 )</title>
 <link>https://video.wixstatic.com/video/16f3d4_a69d6c6b9ea14f32b7ee7d827fa3379f/720p/mp4/file.mp4</link>
