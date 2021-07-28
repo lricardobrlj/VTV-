@@ -5,8 +5,7 @@
 <info> Na trama, Bruceuilis (Filho) é um policial do interior do Ceará que, para resgatar Celestina, uma cabra considerada patrimônio da cidade, viaja até São Paulo. Lá encontra Trindade (Nachtergaele), um escrivão da polícia que resolve se aventurar em campo, mesmo não sendo sua especialidade. O longa tem o estilo conhecido como buddy cop, mas com um toque à brasileira.</info>
 </item>
 
-<item><title>Cão de Briga
-( 2005 )</title>
+<item><title>Cão de Briga</title>
 <link>https://video.wixstatic.com/video/16f3d4_62d1b1c567db4f1a9fcc06d34af85b3d/720p/mp4/file.mp4</link>
 <thumbnail>https://i.imgur.com/r0VXJR3.jpg</thumbnail>
 <fanart>https://images-na.ssl-images-amazon.com/images/S/pv-target-images/c23c8ac07d49db7fc3ebcdf2e198919e4e3d86a35b08c98e590e3360427bd61c._RI_V_TTW_.jpg</fanart>
@@ -77,8 +76,23 @@ Cosmoball é um jogo intergaláctico hipnotizante do futuro, jogado entre humano
 </info>
 </item>
 
-<item><title>Cruella
-( 2021 )</title>
+<item>
+<title>Constantine</title>
+<link>https://video.wixstatic.com/video/16f3d4_ce2df7ee15444efca4bc7526bf3258e4/720p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/yCAdtxQZQEavxGPFfLBwJ9JY17s.jpg</thumbnail>
+<fanart>https://teoriageek.com.br/wp-content/uploads/2019/11/constantine.png</fanart>
+<info>
+
+[B] Lançamento: [/B] [COLOR hotpink][B] 2005 [/B][/COLOR]  
+[B] Gênero: [/B] [COLOR hotpink] Drama, Fantasia, Terror[/COLOR] 
+[B] Duração:[/B] [COLOR hotpink] 121 min. [/COLOR] 
+
+John Constantine (Keanu Reeves) é um experiente ocultista e exorcista, que literalmente chegou ao inferno. Juntamente com Angela Dodson (Rachel Weisz), uma policial cética, ele investiga o misterioso assassinato da irmã gêmea dela, Isabel. As investigações levam a dupla a um mundo sombrio, em que precisam lidar com demônios e anjos malvados.
+
+</info>
+</item>
+
+<item><title>Cruella</title>
 <link>https://video.wixstatic.com/video/16f3d4_9aaf88aa16154eae81eb40b5dc0c9892/1080p/mp4/file.mp4</link>
 <thumbnail>https://img.ibxk.com.br/2021/02/17/17115012456154.jpg?w=328</thumbnail>
 <fanart>https://disneyplusbrasil.com.br/wp-content/uploads/2021/06/Cruella-de-Vil-Emma-Stone-Disney-Plus.jpg</fanart>
