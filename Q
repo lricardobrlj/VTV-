@@ -1,1 +1,15 @@
+<item>
+<title>Quem Vai Ficar com Mário?</title>
+<link>https://video.wixstatic.com/video/16f3d4_8dbdf6a7ab7748d49eecf4b3aed7f12f/720p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/xYZJVlX3BryIbsTEJ0YaVfr9uAs.jpg</thumbnail>
+<fanart>https://www.atrevida.com.br/wp-content/uploads/2021/05/Quem-vai-ficar-com-Mario.jpg</fanart>
+<info>
 
+[B] Lançamento: [/B] [COLOR hotpink][B] 2021 [/B][/COLOR]  
+[B] Gênero: [/B] [COLOR hotpink] Comédia[/COLOR] 
+[B] Duração:[/B] [COLOR hotpink] 90 min. [/COLOR] 
+
+Mário, um jovem escritor que resolve oficializar a relação com Fernando, seu namorado e diretor da companhia de teatro em que trabalha no Rio de Janeiro. Mário viaja para o sul, decidido a revelar sua verdadeira identidade para o pai que desconhece tanto sua profissão quanto sua orientação sexual. Quando cria coragem, o que era difícil se torna impossível. Mario se vê obrigado a assumir os negócios da família, uma tradicional cervejaria, e acaba tendo que adiar suas revelações, além de conhecer Ana… o amor é imprevisível.
+
+</info>
+</item>
