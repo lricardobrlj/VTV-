@@ -114,6 +114,22 @@ Quando um adolescente tem uma premonição de que o avião em que está vai expl
 </info>
 </item>
 
+<item>
+<title>Premonição 2</title>
+<link>https://video.wixstatic.com/video/16f3d4_78e65643eb614034bd562c86cd462329/1080p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/mjxV1LFghlyNFnsFoISuNXGQtk.jpg</thumbnail>
+<fanart>https://2.bp.blogspot.com/-p5t1ky1aSUg/WZEmkfRCpvI/AAAAAAAAxCE/maMGO6onNUUAPLiWwK62xU0BvSo8soplQCLcBGAs/s1600/Premoni%25C3%25A7%25C3%25A3o%2B2%2B%2528Final%2BDestination%2B2%252C%2B2003%2529%2BCAPA%2B-%2BC%25C3%25B3pia.png</fanart>
+<info>
+
+[B] Lançamento: [/B] [COLOR hotpink][B] 2003 [/B][/COLOR]  
+[B] Gênero: [/B] [COLOR hotpink] Terror, Suspense[/COLOR] 
+[B] Duração:[/B] [COLOR hotpink] 90 min. [/COLOR] 
+
+Kimberly tem a premonição de que um horrível acidente na estrada matará muitas pessoas, inclusive ela e seus amigos. Assustada com a visão, ela para o carro e impede os que estão atrás de passar. Logo, um policial rodoviário chega e o acidente realmente acontece. Agora, a morte está perseguindo esse grupo de sobreviventes e, um a um, eles estão morrendo como deveriam: na estrada.
+
+</info>
+</item>
+
 <item><title>Premonição 3</title>
 <link>https://video.wixstatic.com/video/16f3d4_de9ebf5603ef46f7b4a5d299aac2a77a/720p/mp4/file.mp4</link>
 <thumbnail>https://s2.glbimg.com/kPUyj6vWw3oMfsJfghEugdAtDtM=/362x536/https://s2.glbimg.com/Ps8KXRQeLOdR_LBc2sGDhFqQ-LA=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2021/e/q/5CAncFTF68JuKinSlB0g/2021-1458-premonicao-3-poster.jpg</thumbnail>
