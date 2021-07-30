@@ -52,6 +52,22 @@
 <info>Frank é o proprietário de uma loja de manequins, que mata mulheres e depois as escalpela. As coisas mudam quando ele conhece a fotógrafa Anna, por quem desenvolve uma relação mais afetuosa. Entretanto, seus impulsos de matar continuam a persegui-lo.</info>
 </item>
 
+<item>
+<title>Matrix</title>
+<link>https://video.wixstatic.com/video/16f3d4_ce181a981a6a4de6b39d79ad89603e40/720p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/etJHvVsM9aefWWrW23r5BXgVK1F.jpg</thumbnail>
+<fanart>https://cdn.ome.lt/_YJ8KsC3g0eGXHQA-NwwF1mzcms=/1200x630/smart/extras/conteudos/matrix_9yMKypp.png</fanart>
+<info>
+
+[B] Lançamento: [/B] [COLOR hotpink][B] 1999 [/B][/COLOR]  
+[B] Gênero: [/B] [COLOR hotpink] Ação, Ficção Científica[/COLOR] 
+[B] Duração:[/B] [COLOR hotpink] 136 min. [/COLOR] 
+
+Um jovem programador é atormentado por estranhos pesadelos nos quais sempre está conectado por cabos a um imenso sistema de computadores do futuro. À medida que o sonho se repete, ele começa a levantar dúvidas sobre a realidade. E quando encontra os misteriosos Morpheus e Trinity, ele descobre que é vítima do Matrix, um sistema inteligente e artificial que manipula a mente das pessoas e cria a ilusão de um mundo real enquanto usa os cérebros e corpos dos indivíduos para produzir energia.
+
+</info>
+</item>
+
 <item><title>Medo da Chuva</title>
 <link>https://x.filmes.click/m0/d/599281-720p.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w185/gw5WSquF8joM6lcP2KNoMDXJ2Z3.jpg</thumbnail>
