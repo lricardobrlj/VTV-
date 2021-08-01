@@ -46,6 +46,22 @@ Sean Boswell é um piloto de rua que desafia seu rival e bate o carro no fim da 
 </info>
 </item>
 
+<item>
+<title>Velozes & Furiosos 4</title>
+<link>https://video.wixstatic.com/video/16f3d4_9cbe13e01dcd4d12936a4f204258f86d/720p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/zvjQPVttJWaCSbzMijyc2x2MLr4.jpg</thumbnail>
+<fanart>https://entreterse.com.br/wp-content/uploads/2019/09/Velozes-e-Furiosos-4-e1567792881143.jpg</fanart>
+<info>
+
+[B] Lançamento: [/B] [COLOR hotpink][B] 2009 [/B][/COLOR]  
+[B] Gênero: [/B] [COLOR hotpink] Ação, Crime, Drama, Suspense[/COLOR] 
+[B] Duração:[/B] [COLOR hotpink] 107 min. [/COLOR] 
+
+Depois de ser visto rumo ao México no filme que deu origem a série, Dominic “Dom” Toretto reaparece na República Dominicana praticando seus golpes ao lado de sua namorada Letty e sua gangue. Com o FBI na sua cola, Dom decide fugir para não comprometer seus comparsas. Contudo, um assassinato cometido por um traficante de drogas acende nele uma sede de vingança que o faz cruzar novamente com o agente Brian O’Conner numa perigosa missão.
+
+</info>
+</item>
+
 <item><title>Venom</title>
 <link>https://x.filmes.click/m0/d/335983-720p.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w300/qZK4LSj7crL6RNGUfD1LSJioA4u.jpg</thumbnail>
