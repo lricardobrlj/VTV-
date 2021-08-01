@@ -102,6 +102,22 @@ Passaram-se dois anos desde que Sam Witwicky e os Autobots salvaram a raça huma
 </info>
 </item>
 
+<item>
+<title>Transformers: O Lado Oculto da Lua</title>
+<link>https://video.wixstatic.com/video/16f3d4_ab5b70ec8a7046b5a3de7babe33affb4/720p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/ks8rCjVBG7clohwHVu0TIpEB4Q.jpg</thumbnail>
+<fanart>https://nosbastidores.com.br/wp-content/uploads/2021/03/critica_Transformers_O_Lado_Oculto_da_Lua_bastidores.jpg</fanart>
+<info>
+
+[B] Lançamento: [/B] [COLOR hotpink][B] 2011 [/B][/COLOR]  
+[B] Gênero: [/B] [COLOR hotpink] Ação, Ficção Científica, Aventura[/COLOR] 
+[B] Duração:[/B] [COLOR hotpink] 154 min. [/COLOR] 
+
+Sam Witwicky e sua nova namorada, Carly, entram na briga quando os Decepticons renovam sua guerra contra os Autobots. Optimus Prime acredita que ressuscitar o antigo Transformer Sentinel Prime, ex-líder dos Autobots, pode levar à vitória. Essa decisão tem consequências devastadoras e a guerra parece pender a favor dos Decepticons, causando um conflito épico em Chicago.
+
+</info>
+</item>
+
 <item><title>Tropa de Elite
 ( 2007 )</title>
 <link>https://video.wixstatic.com/video/16f3d4_ed253a4ababa4700aec703e9a979a2b7/720p/mp4/file.mp4</link>
