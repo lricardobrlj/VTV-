@@ -1,20 +1,4 @@
 <item>
-<title>Rambo: Até o Fim</title>
-<link>https://x.filmes.click/m0/d/522938-720p.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/w300/vaoCd6iZ6xmBTvsiuWjcMWY6wdm.jpg</thumbnail>
-<fanart>http://www.californiafilmes.com.br/wp-content/uploads/2019/09/ART-FINISHED-R4.jpg</fanart>
-<info>O tempo passou para Rambo, agora ele vive recluso e trabalha em um rancho que fica na fronteira entre os Estados Unidos e o México. Sua vida antiga marcada por lutas violentas, mas quase sempre vitoriosas, ficou no passado. No entanto, quando a filha de um amigo é sequestrada, Rambo não consegue controlar seu ímpeto por justiça e resolve enfrentar um dos mais perigosos cartéis do México.</info>
-</item>
-
-<item>
-<title>Raya e o Último Dragão</title>
-<link>https://x.filmes.click/m0/d/527774-720p.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/w342/yXrb84zJidCefyhTWHwo4yCDvwz.jpg</thumbnail>
-<fanart>https://ovicio.com.br/wp-content/uploads/2021/02/20210205-raya-and-the-last-dragon-trailer-1200x675.jpg</fanart>
-<info>Há muito tempo, no mundo de fantasia de Kumandra, humanos e dragões viviam juntos em harmonia. No entanto, quando monstros sinistros conhecidos como Druun ameaçaram a terra, os dragões se sacrificaram para salvar a humanidade. Agora, 500 anos depois, esses mesmos monstros voltaram, e cabe a um guerreiro solitário rastrear o último dragão e parar o Druun para sempre.</info>
-</item>
-
-<item>
 <title>Rédeas da Redenção
 ( 2019 )</title>
 <link>https://video.wixstatic.com/video/16f3d4_f87a3b5c0a3d47bfb2a029a2a4c5b729/720p/mp4/file.mp4</link>
