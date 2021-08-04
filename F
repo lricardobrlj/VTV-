@@ -1,16 +1,3 @@
-<item><title>Ferry</title>
-<link>https://x.filmes.click/m0/d/717192-720p.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/w300/w6n1pu9thpCVHILejsuhKf3tNCV.jpg</thumbnail>
-<fanart>https://observatoriodocinema.uol.com.br/wp-content/uploads/2021/05/ferry-netflix.jpg</fanart>
-<info> Antes de construir um império de droga, Ferry Bouman regressa a casa numa missão de vingança em que a sua lealdade é posta à prova e um amor lhe muda a vida.</info>
-</item>
-
-<item><title>Filhos de Istambul</title>
-<link>https://x.filmes.click/m0/d/785534-720p.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/w185/5Dh2dds2dNsPnBPOmCJymQElJay.jpg</thumbnail>
-<fanart>https://entreterse.com.br/wp-content/uploads/2021/03/Filhos-de-Istambul-4.jpg</fanart>
-<info> Nas ruas de Istambul, Mehmet, um catador de papel, decide ajudar um garoto e acaba tendo que confrontar os traumas da própria infância.</info>
-</item>
 
 <item><title>Fim dos Tempos
 ( 2008 )</title>
@@ -18,13 +5,6 @@
 <thumbnail>https://media.fstatic.com/TCLH-_Mv2WILDtPcbYjeF6ZTafI=/290x478/smart/media/movies/covers/2011/06/bd6314eaf44a21575fc5011142253696_1.jpg</thumbnail>
 <fanart>https://acessocultural.com.br/wp-content/uploads/2021/01/destruicao-final.jpg</fanart>
 <info> Uma ameaça apocalíptica chega do céu trazendo uma série de mortes violentas e inexplicáveis que se espalham pelo país. A causa do fenômeno estarrecente permanece desconhecida. O professor de ciências, Elliot Moore, ao lado de sua esposa Alma e seu colega Julian, tenta escapar do assassino invisível indo para a Pensilvânia, mas logo torna-se evidente que ninguém está fora de perigo.</info>
-</item>
-
-<item><title>Flora e Ulysses</title>
-<link>https://x.filmes.click/m0/d/621876-720p.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/w185/zv1NUGF2nv3smvfsLDIXEwstWpC.jpg</thumbnail>
-<fanart>https://i1.wp.com/sitedosgeeks.com/wp-content/uploads/2021/01/flora-e-ulisses-Disney.jpg?fit=1463%2C857&ssl=1</fanart>
-<info> Flora, uma fã de histórias em quadrinhos de 10 anos, é uma cínica autodeclarada que acabou de passar pela separação de seus pais. Depois de resgatar um esquilo, batizado por ela de Ulisses, Flora se surpreende ao descobrir que ele possui superpoderes típicos de um super-herói. Os dois acabam entrando em uma aventura cheia de divertidas complicações que mudam a vida – e a perspectiva – de Flora, para sempre.</info>
 </item>
 
 <item><title>Frozen - Uma Aventura Congelante
