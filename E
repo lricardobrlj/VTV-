@@ -62,13 +62,6 @@ Em Bali, uma blogueira de moda conhece um talentoso sapateiro que mexe com seu c
 </info>
 </item>
 
-<item><title>Era Uma Vez em… Hollywood</title>
-<link>https://x.filmes.click/m0/d/466272-720p.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/w185/gMEKjlq4JcLR93oAVSD47MSeO9h.jpg</thumbnail>
-<fanart>https://super.abril.com.br/wp-content/uploads/2019/08/eraumavez.png</fanart>
-<info> Los Angeles, 1969. Rick Dalton (Leonardo DiCaprio) é um ator de TV que, juntamente com seu dublê, está decidido a fazer o nome em Hollywood. Para tanto, ele conhece muitas pessoas influentes na indústria cinematográfica, o que os acaba levando aos assassinatos realizados por Charles Manson na época, entre eles o da atriz Sharon Tate (Margot Robbie), que na época estava grávida do diretor Roman Polanski (Rafal Zawierucha).</info>
-</item>
-
 <item><title>Era Uma Vez um Boneco de Neve
 ( 2021 )</title>
 <link>https://video.wixstatic.com/video/16f3d4_1978841a1a264cc5bc704cad87091414/1080p/mp4/file.mp4</link>
