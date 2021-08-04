@@ -35,6 +35,22 @@
 </item>
 
 <item>
+<title>Rogai por Nós</title>
+<link>https://video.wixstatic.com/video/16f3d4_0d1d9f3fae5646e8a5a7b03f19d63e4a/720p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/zduyzcjyahZtP4fGZE6789h04IM.jpg</thumbnail>
+<fanart>https://rciararaquara.com.br/wp-content/uploads/2021/05/the-unholy-review_6jda.1200.jpg</fanart>
+<info>
+
+[B] Lançamento: [/B] [COLOR hotpink][B] 2021 [/B][/COLOR]  
+[B] Gênero: [/B] [COLOR hotpink] Terror[/COLOR] 
+[B] Duração:[/B] [COLOR hotpink] 100 min. [/COLOR] 
+
+Conheça Alice, uma jovem com deficiência auditiva que, após uma suposta visita da Virgem Maria, é inexplicavelmente capaz de ouvir, falar e curar os enfermos. À medida que a notícia se espalha e pessoas de perto e de longe se reúnem para testemunhar seus milagres, um jornalista decadente (Jeffrey Dean Morgan), que espera reviver sua carreira, visita a pequena cidade da Nova Inglaterra para investigar o fenômeno. Quando eventos terríveis começam a acontecer por toda parte, ele começa a questionar se esses fenômenos são obras da Virgem Maria ou algo muito mais sinistro.
+
+</info>
+</item>
+
+<item>
 <title>Rua do Medo: 1994 - Parte 1
 ( 2021 )</title>
 <link>https://video.wixstatic.com/video/16f3d4_8727c9daec4d47b7b0ccc99ac1b57a50/1080p/mp4/file.mp4</link>
