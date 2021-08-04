@@ -6,13 +6,6 @@
 <info>Um autoritário e rígido sistema escolar para meninas esconde grandes mistérios. Após descobrirem informações perturbadoras, algumas alunas iniciam um motim.</info>
 </item>
 
-<item><title>Liga da Justiça de Zack Snyder</title>
-<link>https://x.filmes.click/m0/d/791373-720p.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/w342/yox4nyshPZkAwRchjat37fmVhQ.jpg</thumbnail>
-<fanart>https://static.ricmais.com.br/uploads/2021/01/snyder-cut-1067x600.jpg</fanart>
-<info>Determinado a garantir que o sacrifício final do Superman não fosse em vão, Bruce Wayne alinha forças com Diana Prince com planos de recrutar uma equipe de metahumanos para proteger o mundo de uma ameaça de proporções catastróficas que se aproxima. A tarefa se mostra mais difícil do que Bruce imaginava, já que cada um dos recrutas deve enfrentar os demônios de seu próprio passado para transcender o que os impedia, permitindo que se unissem, finalmente formando uma liga de heróis sem precedentes. Agora unidos, Batman, Mulher Maravilha, Aquaman, Cyborg e The Flash podem ser tarde demais para salvar o planeta de Steppenwolf, DeSaad e Darkseid e suas intenções terríveis.</info>
-</item>
-
 <item><title>Liga da Justiça Sombria
 ( 2017 )</title>
 <link>https://video.wixstatic.com/video/16f3d4_4c8a532493bc41f2bddd8e543e0d513c/720p/mp4/file.mp4</link>
@@ -60,11 +53,4 @@ A jovem Lisbela adora ir ao cinema e vive sonhando com os galãs de Hollywood do
 <thumbnail>https://br.web.img3.acsta.net/pictures/18/07/02/09/55/5510870.jpg</thumbnail>
 <fanart>https://i1.wp.com/imagens.formigaeletrica.com.br/2019/01/lukas-imagem.jpg?fit=720%2C400&ssl=1</fanart>
 <info>Para não perder a custódia de sua filha de oito anos, um segurança de boate é obrigado a colaborar com a polícia. Ele precisa se infiltrar em uma organização holandesa especializada em falsificar dinheiro.</info>
-</item>
-
-<item><title>Loucura de Amor</title>
-<link>https://x.filmes.click/m0/d/778730-720p.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/w185/28g5rvH7PlYB3CmilKWW20GcQkp.jpg</thumbnail>
-<fanart>https://i.ytimg.com/vi/tMtd79u4wTM/maxresdefault.jpg</fanart>
-<info>Depois de se internar no centro psiquiátrico onde vive a mulher por quem ele se apaixonou, Adri descobre que sair de lá não vai ser tão fácil assim.</info>
 </item>
