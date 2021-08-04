@@ -78,13 +78,6 @@ Desde que o ex-policial Brian O’Conner e Mia Torretto libertaram Dom da prisã
 </info>
 </item>
 
-<item><title>Venom</title>
-<link>https://x.filmes.click/m0/d/335983-720p.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/w300/qZK4LSj7crL6RNGUfD1LSJioA4u.jpg</thumbnail>
-<fanart>https://www.torredevigilancia.com/wp-content/uploads/2018/10/venom-capa-76.jpg</fanart>
-<info>O jornalista Eddie Brock desenvolve força e poder sobre-humanos quando seu corpo se funde com o alienígena Venom. Dominado pela raiva, Venom tenta controlar as novas e perigosas habilidades de Eddie</info>
-</item>
-
 <item><title>Vingança Fm</title>
 <link>https://video.wixstatic.com/video/16f3d4_eec15b81ce9040af82e5d179f9b345d2/480p/mp4/file.mp4</link>
 <thumbnail>https://i.imgur.com/5GjZXsO.jpg</thumbnail>
@@ -113,18 +106,4 @@ Desde que o ex-policial Brian O’Conner e Mia Torretto libertaram Dom da prisã
 <thumbnail>https://i.imgur.com/HfOpcgQ.jpg</thumbnail>
 <fanart>https://nosbastidores.com.br/wp-content/uploads/2020/05/cr%C3%ADtica_Vivarium_bastidores.jpg</fanart>
 <info>Na esperança de encontrar o lugar perfeito para morar, um jovem casal acompanha um estranho corretor de imóveis até um bairro misterioso repleto de casas idênticas. Ao tentarem sair do local, eles percebem que estão presos em um labirinto surreal que misteriosamente os leva de volta para onde começaram.</info>
-</item>
-
-<item><title>Vingadores: Guerra Infinita</title>
-<link>https://x.filmes.click/m0/d/299536-720p.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/w185/89QTZmn34iwXYeCpVxhC9UrT8sX.jpg</thumbnail>
-<fanart>https://s2.glbimg.com/S7FJgGNQZ5TorW_xdxoMYmpIhHY=/e.glbimg.com/og/ed/f/original/2018/04/26/vingadores-guerra-infinita.jpg</fanart>
-<info>Homem de Ferro, Thor, Hulk e os Vingadores se unem para combater seu inimigo mais poderoso, o maligno Thanos. Em uma missão para coletar todas as seis pedras infinitas, Thanos planeja usá-las para infligir sua vontade maléfica sobre a realidade.</info>
-</item>
-
-<item><title>Vingadores: Ultimato</title>
-<link>https://x.filmes.click/m0/d/299534-720p.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/w185/q6725aR8Zs4IwGMXzZT8aC8lh41.jpg</thumbnail>
-<fanart>https://seriemaniacos.tv/wp-content/uploads/2019/10/Vingadores.jpg</fanart>
-<info>Após os eventos devastadores de “Vingadores: Guerra Infinita”, o universo está em ruínas devido aos esforços do Titã Louco, Thanos. Com a ajuda de aliados remanescentes, os Vingadores devem se reunir mais uma vez a fim de desfazer as ações de Thanos e restaurar a ordem no universo de uma vez por todas, não importando as consequências.</info>
 </item>
