@@ -22,26 +22,12 @@
 <info>Nossos amigos animais Alex, Marty, Glória e Melman vão para a Europa e passam a ser perseguidos por uma agente de controle de animais. Para despistá-la, eles se juntam a um grupo circense que sonha em se apresentar em Nova York, o lar dos animais.</info>
 </item>
 
-<item><title>Malcolm e Marie</title>
-<link>https://x.filmes.click/m0/d/722913-720p.mp4</link>
-<thumbnail>https://static.wixstatic.com/media/99d92a_7604f7e555f347d2bc68082b8a178edb~mv2.png/v1/fit/w_748,h_1022,al_c,q_80/file.png</thumbnail>
-<fanart>https://www.cabanadoleitor.com.br/wp-content/uploads/2021/01/Malcolm_Marie_Filme_Netflix_CDL_1280x720_01.jpg</fanart>
-<info>Um cineasta chega em casa após a première de seu novo filme. Enquanto aguarda a liberação das críticas, ele e sua namorada se veem desenrolando os muitos problemas e segredos do seu relacionamento.</info>
-</item>
-
 <item><title>Malévola
 ( 2014 )</title>
 <link>https://video.wixstatic.com/video/16f3d4_5d5d48779fa442759cbcad12816cc316/480p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/aGhxIqSi49oW5oAgokZ00aoykZE.jpg</thumbnail>
 <fanart>https://assets.b9.com.br/wp-content/uploads/2014/06/male1.jpg</fanart>
 <info>Malévola, uma jovem de coração puro, vive em um pacífico reino na floresta, até o dia em que um exército invasor ameaça a harmonia da região, fazendo com que ela se torne a mais feroz protetora do reino. No entanto, uma terrível traição a transforma em uma mulher amarga e vingativa. Como consequência, amaldiçoa Aurora, sua filha recém-nascida. Mas, aos poucos, Malévola percebe que a criança é a chave para a paz no reino e para sua verdadeira felicidade também.</info>
-</item>
-
-<item><title>Malévola: Dona do Mal</title>
-<link>https://x.filmes.click/m0/d/420809-720p.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/w185/oP3TasnCKqSvGDv0sHLUhpioNVb.jpg</thumbnail>
-<fanart>https://blogdoversaomasculina.files.wordpress.com/2019/10/ang-766b210484e85c07168ea0d3cc085468-1200x600.jpg</fanart>
-<info>Após aceitar se casar com o Príncipe Phillip (Harris Dickinson), Aurora (Elle Fanning) é imediatamente acolhida pela rainha, sua futura sogra (Michelle Pfeiffer), como se fosse sua própria filha. Revoltada, Malévola (Angelina Jolie) se opõe ao reino e reúne novos aliados para proteger as terras mágicas que compartilham.</info>
 </item>
 
 <item><title>Maníaco
@@ -101,12 +87,7 @@ Após enfrentar os sentinelas no mundo real, Neo, a maior esperança da humanida
 </item>
 
 
-<item><title>Medo da Chuva</title>
-<link>https://x.filmes.click/m0/d/599281-720p.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/w185/gw5WSquF8joM6lcP2KNoMDXJ2Z3.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/GzRIvVkz8DoTECWdWZhZrs1I6C.jpg</fanart>
-<info>Uma adolescente que vive com esquizofrenia começa a suspeitar que o vizinho sequestrou uma criança. Seus pais tentam desesperadamente ajudá-la a viver uma vida normal, sem expor seus próprios segredos trágicos, e a única pessoa que acredita nela é Caleb – um menino que ela nem tem certeza de que existe.</info>
-</item>
+
 
 <item><title>Meios-irmãos
 ( 2021 )</title>
@@ -138,13 +119,6 @@ Após enfrentar os sentinelas no mundo real, Neo, a maior esperança da humanida
 <thumbnail>https://media.fstatic.com/xi0uVvXT-KSJszvtWoblzpc_AaM=/290x478/smart/media/movies/covers/2020/02/Miss%C3%A3o-de-Honra-scaled.jpg</thumbnail>
 <fanart>https://i.ytimg.com/vi/Q6WIraFcJbA/maxresdefault.jpg</fanart>
 <info>Os pilotos poloneses superam o preconceito para lutar ao lado da Royal Air Force contra a Luftwaffe durante a Segunda Guerra Mundial, na esperança de proteger a Grã Bretanha e a própria Polônia dos avanços alemães.</info>
-</item>
-
-<item><title>Mormaço</title>
-<link>https://x.filmes.click/m0/d/498086-720p.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/w185/sITpE5aFi2avN6YBFjU03uYH6H3.jpg</thumbnail>
-<fanart>https://s2.glbimg.com/2xsThoRKqdDiViJnz_Qt824VhGE=/smart/e.glbimg.com/og/ed/f/original/2019/05/08/mormaco-filme-02.jpg</fanart>
-<info>Conta a história de uma jovem advogada carioca se divide entre seu trabalho em uma comunidade prestes a ser despejada por conta dos Jogos Olímpicos do Rio, um novo amor e uma doença misteriosa.</info>
 </item>
 
 <item><title>Mortal Kombat
@@ -185,18 +159,4 @@ Após enfrentar os sentinelas no mundo real, Neo, a maior esperança da humanida
 <thumbnail>https://br.web.img3.acsta.net/c_310_420/medias/nmedia/18/87/82/86/19961967.jpg</thumbnail>
 <fanart>https://br.web.img3.acsta.net/newsv7/20/08/11/17/29/3046354.jpg</fanart>
 <info>A maior fábrica de monstros do mundo conta com James Sullivan, um dos monstros mais assustadores, que tem o pelo azul e chifres, além de seu assistente e melhor amigo Mike, um monstro verde de um olho só. Eles têm por missão assustar as crianças, que são consideradas tóxicas pelos monstros e cujo contato com eles seria catastrófico para seu mundo. Porém, ao visitar o mundo dos humanos a trabalho, Mike e Sully conhecem a garota Boo, que acaba sem querer indo parar no mundo dos monstros.</info>
-</item>
-
-<item><title>Mulher-Maravilha </title>
-<link>https://x.filmes.click/m0/d/297762-720p.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/w185/ujQthWB6c0ojlARk28NSTmqidbF.jpg</thumbnail>
-<fanart>https://cinepop.com.br/wp-content/uploads/2021/03/mulher-maravilha-1.jpg</fanart>
-<info>Treinada desde cedo para ser uma guerreira imbatível, Diana Prince (Gal Gadot) nunca saiu da paradisíaca ilha em que é reconhecida como Princesa das Amazonas. Quando o piloto Steve Trevor (Chris Pine) se acidenta e cai numa praia do local, ela descobre que uma guerra sem precedentes está se espalhando pelo mundo e decide deixar seu lar certa de que pode parar o conflito. Lutando para acabar com todas as lutas, Diana percebe o alcance de seus poderes e sua verdadeira missão na Terra.</info>
-</item>
-
-<item><title>Mulher-Maravilha 1984</title>
-<link>https://x.filmes.click/m0/d/464052-720p.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/w342/qDA95ebiy3W3m8hTRB3xZNZVVBM.jpg</thumbnail>
-<fanart>https://poltronanerd.com.br/wp-content/uploads/2020/06/wonder-woman-1984.jpg</fanart>
-<info>Em 1984, Diana Prince entra em conflito com dois inimigos formidáveis, Maxwell Lord e a Mulher-Leopardo, enquanto reencontra misteriosamente com seu antigo interesse amoroso Steve Trevor.</info>
 </item>
