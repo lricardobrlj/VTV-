@@ -1,9 +1,3 @@
-<item><title>Cabras da Peste</title>
-<link>https://x.filmes.click/m0/d/799497-720p.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/w300/bpW9lrpPGV9FeIk1AjxnhUY6g58.jpg</thumbnail>
-<fanart>https://noticiasdatv.uol.com.br/media/_versions/artigos/cabras-da-peste-edmilson-filho-matheus-nachtergeale-netflix_fixed_large.jpg</fanart>
-<info> Na trama, Bruceuilis (Filho) é um policial do interior do Ceará que, para resgatar Celestina, uma cabra considerada patrimônio da cidade, viaja até São Paulo. Lá encontra Trindade (Nachtergaele), um escrivão da polícia que resolve se aventurar em campo, mesmo não sendo sua especialidade. O longa tem o estilo conhecido como buddy cop, mas com um toque à brasileira.</info>
-</item>
 
 <item><title>Cão de Briga</title>
 <link>https://video.wixstatic.com/video/16f3d4_62d1b1c567db4f1a9fcc06d34af85b3d/720p/mp4/file.mp4</link>
@@ -36,12 +30,6 @@
 <info> O rico e bem sucedido Will (Sam Claflin) leva uma vida repleta de conquistas, viagens e esportes radicais até ser atingido por uma moto. O acidente o torna tetraplégico, obrigando-o a permanecer em uma cadeira de rodas. A situação o torna depressivo e extremamente cínico, para a preocupação de seus pais (Janet McTeer e Charles Dance). É neste contexto que Louisa Clark (Emilia Clarke) é contratada para cuidar de Will. De origem modesta, com dificuldades financeiras e sem grandes aspirações na vida, ela faz o possível para melhorar o estado de espírito de Will e, aos poucos, acaba se envolvendo com ele.</info>
 </item>
 
-<item><title>Capitã Marvel</title>
-<link>https://x.filmes.click/m0/d/299537-720p.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/w300/hVgLHgnsO46oSHJy5I4ekhqtoYv.jpg</thumbnail>
-<fanart>https://studiosol-a.akamaihd.net/uploadfile/letras/playlists/0/c/c/2/0cc2c336d9a740ca9f9037380c3bccff.jpg</fanart>
-<info> Capitã Marvel, parte do exército de elite dos Kree, uma raça alienígena, encontra-se no meio de uma batalha entre seu povo e os Skrulls. Ao tentar impedir uma invasão de larga escala na Terra, em 1995, ela tem memórias recorrentes de uma outra vida, como Carol Danvers, agente da Força Aérea norte-americana. Com a ajuda de Nick Fury, Capitã Marvel precisa descobrir os segredos de seu passado e pôr um fim ao conflito intergalático com os Skrulls.</info>
-</item>
 
 <item><title>Com a cor e a coragem 2
 ( 2019 )</title>
