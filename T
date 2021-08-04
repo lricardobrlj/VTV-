@@ -52,20 +52,6 @@ Após a desastrosa tempestade de comida no primeiro filme, Flint (Bill Hader) e 
 <info>Barry Allen é um cientista que trabalha na polícia e quando ganha super-poderes, precisa da ajuda de Cristina McGee para se adaptar aos seus novos dons. Além disso tudo, tem que enfrentar uma gangue de motoqueiros que vem infernizando a cidade.</info>
 </item>
 
-<item><title>Todo Mundo em Pânico </title>
-<link>https://x.filmes.click/m0/d/4247-720p.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/w300/qqOcBboLed2U0zHgiKZYNTvU2lv.jpg</thumbnail>
-<fanart>https://deveserisso.com.br/blog/wp-content/uploads/2020/05/todo-mudo-em-panico.jpg</fanart>
-<info>Depois do assassinato de uma bela colega de classe, um grupo de adolescentes desorientados descobre que há um assassino entre eles. A heroína Cindy Campbell e a sua turma de amigos tentam se proteger do perigo, mas Gail Hailstorm, uma repórter irritante, simplesmente não os deixa em paz.</info>
-</item>
-
-<item><title>Todo Mundo em Pânico 2</title>
-<link>https://x.filmes.click/m0/d/4248-720p.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/w300/549UoU38uoikbqgXG09rkkfIEWf.jpg</thumbnail>
-<fanart>http://2.bp.blogspot.com/_I1VRaj3_viw/TAAmI0N4RkI/AAAAAAAAAKs/CWlXDiIh2vc/s1600/todo+mundo+em+panico+2.jpg</fanart>
-<info>Dois padres, um grupo de estudantes e um professor são seduzidos e atormentados por um fantasma que vive numa mansão assombrada.</info>
-</item>
-
 <item><title>Todo Mundo em Pânico 3
 ( 2003 )</title>
 <link>https://video.wixstatic.com/video/16f3d4_a3c8b05243704cd9adfada6a76240f50/720p/mp4/file.mp4</link>
@@ -74,32 +60,11 @@ Após a desastrosa tempestade de comida no primeiro filme, Flint (Bill Hader) e 
 <info>Depois de a repórter de jornal Cindy assistir acidentalmente uma estranha fita de vídeo que faz com que o espectador morra dentro de uma semana, ela descobre que a fita é apenas um dos muitos acontecimentos estranhos recentes. Os agricultores locais Tom e George relataram círculos enormes que aparecem durante a noite em seus campos. Cindy encontra uma ligação entre a fita e os círculos nas plantações com a ajuda do presidente dos Estados Unidos e uma tia gentil.</info>
 </item>
 
-<item><title>Todo Mundo em Pânico 4</title>
-<link>https://x.filmes.click/m0/d/4257-720p.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/w300/lCTKVVQmBxjTWAQSZOpLPbBdBVL.jpg</thumbnail>
-<fanart>https://www.planocritico.com/wp-content/uploads/2021/02/todo_mundo_em_anico_4.jpg</fanart>
-<info>Mais uma continuação da franquia de filmes que faz sátiras das produções mais recentes de terror, como Jogos Mortais e O Grito. Desta vez, duas jovens tentam salvar o mundo de uma invasão alienígena.</info>
-</item>
-
 <item><title>Todo Mundo em Pânico 5</title>
 <link>https://video.wixstatic.com/video/16f3d4_9f1c736bb7b94688b3161a877c26d893/720p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w300/14mLzrL5d9ykeEy0L9RGSit6PXN.jpg</thumbnail>
 <fanart>https://i.ytimg.com/vi/MfOslLcBIL8/maxresdefault.jpg</fanart>
 <info>Após noite juntos, Charlie é morto por Lindsay, que foi possuída por um demônio, com isso, os três filhos dele desaparecem, sendo encontrados por dois amigos em uma cabana abandonada. Lá duas das crianças passaram a agir de forma estranha, obedecendo as ordens de um ser invisível quem chamam de Mama. Após serem levados para orfanato, os três passam a viver com os tios Dan e Jody. Entretanto, é lá que estranhos eventos acontecem tendo Mama como responsável.</info>
-</item>
-
-<item><title>Togo</title>
-<link>https://x.filmes.click/m0/d/606856-720p.mp4</link>
-<thumbnail>https://br.web.img2.acsta.net/pictures/19/12/04/09/48/0873092.jpg</thumbnail>
-<fanart>https://www.protocoloxp.com.br/wp-content/uploads/2020/06/togo_capa_pxp.jpg</fanart>
-<info>A história de um homem e sua equipe de cães puxadores de trenó liderados pela cadela Togo, que transportaram remédios para a população do Alasca a fim de combater uma epidemia durante a década de 20. Togo, que liderou a Grande Corrida da Misericórdia ou Corrida do Soro de 1925, era considerada pela maioria das pessoas como pequena e fraca demais para liderar uma corrida tão difícil.</info>
-</item>
-
-<item><title>Tom & Jerry – O Filme</title>
-<link>https://x.filmes.click/m0/d/587807-720p.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/w185/6KErczPBROQty7QoIsaa6wJYXZi.jpg</thumbnail>
-<fanart>https://cinepop.com.br/wp-content/uploads/2021/01/tom_and_jerry_ver2_xlg.jpg</fanart>
-<info>Um gato de rua chamado Tom é contratado por uma garota chamada Kayla, uma jovem empregada que trabalha em um hotel glamouroso em Nova York, para se livrar de Jerry, um rato travesso que se mudou para o hotel, antes que ele seja a ruína de um importante casamento.</info>
 </item>
 
 <item>
