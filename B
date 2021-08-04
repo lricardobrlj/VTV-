@@ -1,22 +1,9 @@
-<item><title>Bad Boys Para Sempre</title>
-<link>https://x.filmes.click/m0/d/38700-720p.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/w342/lkWYrzLIclGj56r4NJxuWeisK9R.jpg</thumbnail>
-<fanart>https://br.sonychannel.com/sites/br.set/files/ct_movie_f_primary_image/bad-boys-br.jpg</fanart>
-<info> Marcus Burnett agora é um inspetor e Mike Lowrey se encontra numa crise de meia-idade. Mas a dupla tem que se juntar novamente quando um mercenário albanês, cujo irmão foi capturado por eles, promete um bônus de vingança justamente quando eles estão prestes a se aposentar.</info>
-</item>
 
 <item><title>Batman: Batman Begins</title>
 <link>https://video.wixstatic.com/video/16f3d4_e36ad42ba71a496799e4254d9f15f77b/480p/mp4/file.mp4</link>
 <thumbnail>http://vortexcultural.com.br/images/2015/11/Batman_Begins_poster.jpg</thumbnail>
 <fanart>https://hips.hearstapps.com/digitalspyuk.cdnds.net/18/41/1539361797-batman-begins-christian-bale.jpg</fanart>
 <info> O jovem Bruce Wayne viaja para o Extremo Oriente, onde recebe treinamento em artes marciais do mestre Henri Ducard, um membro da misteriosa Liga das Sombras. Quando Ducard revela que a verdadeira proposta da Liga é a destruição completa da cidade de Gotham, Wayne retorna à sua cidade com o intuito de livrá-la de criminosos e assassinos. Com a ajuda do mordomo Alfred e do expert Lucius Fox, nasce Batman.</info>
-</item>
-
-<item><title>Batman: O Cavaleiro das Trevas</title>
-<link>https://x.filmes.click/m0/d/155-720p.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/w300/iGZX91hIqM9Uu0KGhd4MUaJ0Rtm.jpg</thumbnail>
-<fanart>https://cdn.ome.lt/mh6XMd4Afy_Tig0Pq1Vhxk9yxJo=/1200x630/smart/extras/conteudos/Batman1_IrC6uc1.jpg</fanart>
-<info> Após dois anos desde o surgimento do Batman, os criminosos de Gotham City têm muito o que temer. Com a ajuda do tenente James Gordon e do promotor público Harvey Dent, Batman luta contra o crime organizado. Acuados com o combate, os chefes do crime aceitam a proposta feita pelo Coringa e o contratam para combater o Homem-Morcego.</info>
 </item>
 
 <item><title>Batman: O Longo Dia das Bruxas: Parte 1
@@ -35,45 +22,10 @@
 <info> Na Irlanda do século XIX, no período da Grande Fome, um guarda irlandês, que tem lutado pelo exército britânico no exterior, decide abandonar seu posto para se reunir com a família. Mesmo tendo experimentado os horrores da guerra, ele fica chocado com a destruição que a fome causou no seu país, gerando certa brutalização das pessoas e até da própria família.</info>
 </item>
 
-<item><title>Bliss: Em Busca da Felicidade</title>
-<link>https://x.filmes.click/m0/d/613911-720p.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/w185/b7BllsQkD6nTkAdtd28UVCmKqVi.jpg</thumbnail>
-<fanart>https://is3-ssl.mzstatic.com/image/thumb/aRKEiUGPq1HLy32UjlKkxA/1200x675.jpg</fanart>
-<info> Uma alucinante história de amor vivida por Greg, recentemente divorciado e demitido, quando ele conhece a misteriosa Isabel, que vive nas ruas e está convencida de que o mundo poluído e deteriorado ao redor deles é só uma simulação virtual. A princípio descrente, Greg descobre que pode haver alguma verdade na louca teoria de Isabel.</info>
-</item>
-
-<item><title>Bohemian Rhapsody</title>
-<link>https://x.filmes.click/m0/d/424694-720p.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/w185/oL3T7lc9NgB3tHP0lhSlyVsRMV2.jpg</thumbnail>
-<fanart>https://seriesemcena.com.br/wp-content/uploads/2019/02/bohemian-rhapsody.jpeg</fanart>
-<info> Freddie Mercury (Rami Malek) e seus companheiros Brian May (Gwilyn Lee), Roger Taylor (Ben Hardy) e John Deacon (Joseph Mazzello) mudam o mundo da música para sempre ao formar a banda Queen, durante a década de 1970. Porém, quando o estilo de vida extravagante de Mercury começa a sair do controle, a banda tem que enfrentar o desafio de conciliar a fama e o sucesso com suas vidas pessoais cada vez mais complicadas.</info>
-</item>
-
-<item><title>Bombay Rose</title>
-<link>https://x.filmes.click/m0/d/587317-720p.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/w185/7tjvICc2jODzESHxCXGLtUgp1gV.jpg</thumbnail>
-<fanart>https://occ-0-2794-2219.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABVixRKwSjDLYI_rOcHA_3eRQ28xkvGGOyTUgAXjOu1LLoRGtBEpcT1gZ6xt6p32i0l_hcjivrs5uwkhcPtLDE2R6FzsX.jpg?r=f4b</fanart>
-<info> Em meio à agitação de uma cidade efervescente e multifacetada, dois sonhadores precisam encarar o dever e a e religião para viver um grande amor.</info>
-</item>
-
 <item><title>Brinquedo Assassino
 ( 2019 )</title>
 <link>https://video.wixstatic.com/video/16f3d4_1a3d66de602c47daa097481a7d553527/720p/mp4/file.mp4</link>
 <thumbnail>https://br.web.img3.acsta.net/c_310_420/pictures/19/05/09/15/04/2523184.jpg</thumbnail>
 <fanart>https://www.geekproject.com.br/wp-content/uploads/2019/02/brinquedo-assassino-chucky-2019.jpg</fanart>
 <info> Andy (Gabriel Bateman) e sua mãe se mudam para uma nova cidade em busca de um recomeço. Preocupada com o desinteresse do filho em fazer novos amigos, Karen (Aubrey Plaza) decide dar a ele de presente de aniversário um boneco tecnológico que, além de ser o companheiro ideal para crianças e propor diversas atividades lúdicas, executa funções da casa sob comandos de voz. Os problemas começam a surgir quando o boneco Chuck se torna extremamente possessivo em relação a Andy e está disposto a fazer qualquer coisa para afastar o garoto das pessoas que o amam.</info>
-</item>
-
-<item><title>Bruxa de Blair</title>
-<link>https://x.filmes.click/m0/d/351211-720p.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/w185/eCfNizChzSh6dBSipXhYBBj9eaY.jpg</thumbnail>
-<fanart>https://nosbastidores.com.br/wp-content/uploads/2021/05/bruxa_de_blair_bastidores.jpg</fanart>
-<info> Um grupo de estudantes universitários se aventuram na floresta de Black Hills para desvendar os mistérios que cercam o desaparecimento da irmã de James, que muitos acreditam estar ligado à lenda da Bruxa de Blair. No início, o grupo está esperançoso, especialmente quando uma dupla de moradores se oferecem para guia-los na floresta. Mas com o cair da noite, o grupo é surpreendido por uma presença ameaçadora e lentamente, eles começam a perceber que a lenda é real e muito mais sinistra do que imaginaram.</info>
-</item>
-
-<item><title>Bumblebee</title>
-<link>https://x.filmes.click/m0/d/424783-720p.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/w300/x9vAcoPsyFQ6m3Re5S9DQSbudyi.jpg</thumbnail>
-<fanart>https://jovemnerd.com.br/wp-content/uploads/2019/02/bumblebee-transformers-reboot.jpg</fanart>
-<info> Refugiado em um ferro-velho na Califórnia, Bumblebee, machucado e sem condição de uso, é encontrado e consertado pela jovem Charlie. Quando Bee ganha vida, porém, ela percebe que seu novo amigo é bem mais do que um simples automóvel.</info>
 </item>
