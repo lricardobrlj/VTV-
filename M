@@ -160,3 +160,19 @@ Após enfrentar os sentinelas no mundo real, Neo, a maior esperança da humanida
 <fanart>https://br.web.img3.acsta.net/newsv7/20/08/11/17/29/3046354.jpg</fanart>
 <info>A maior fábrica de monstros do mundo conta com James Sullivan, um dos monstros mais assustadores, que tem o pelo azul e chifres, além de seu assistente e melhor amigo Mike, um monstro verde de um olho só. Eles têm por missão assustar as crianças, que são consideradas tóxicas pelos monstros e cujo contato com eles seria catastrófico para seu mundo. Porém, ao visitar o mundo dos humanos a trabalho, Mike e Sully conhecem a garota Boo, que acaba sem querer indo parar no mundo dos monstros.</info>
 </item>
+
+<item>
+<title> Mulher-Maravilha 1984 </title>
+<link>https://video.wixstatic.com/video/16f3d4_ba25f9a96f6544e9a129ba558f794e2e/720p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/qDA95ebiy3W3m8hTRB3xZNZVVBM.jpg</thumbnail>
+<fanart>https://br.web.img2.acsta.net/newsv7/20/05/18/22/55/1512808.jpg</fanart>
+<info>
+
+[B] Lançamento: [/B] [COLOR hotpink][B] 2020 [/B][/COLOR]  
+[B] Gênero: [/B] [COLOR hotpink] Fantasia, Ação, Aventura [/COLOR] 
+[B] Duração:[/B] [COLOR hotpink] 151 min. [/COLOR] 
+
+Em 1984, Diana Prince entra em conflito com dois inimigos formidáveis, Maxwell Lord e a Mulher-Leopardo, enquanto reencontra misteriosamente com seu antigo interesse amoroso Steve Trevor.
+
+</info>
+</item>
