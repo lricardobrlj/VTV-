@@ -7,6 +7,22 @@
 <info>Josie (Sophie Turner), uma jovem estudante do ensino médio, estabelece uma estranha amizade com seu vizinho, um homem bem mais velho do que ela. Apesar de sua pouca idade, a garota tem características um tanto quanto misteriosas e ousadas. Aos poucos, ela vai revelando suas verdadeiras intenções com esse relacionamento.</info>
 </item>
 
+<item>
+<title> Sibéria </title>
+<link>https://video.wixstatic.com/video/16f3d4_c13dfe8b261d4841a26c8d7c9c7b052b/720p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/nZC1KuUB1lXoXyA2DogZegHfXe5.jpg</thumbnail>
+<fanart>https://cinemacomrapadura.com.br/imagens/2019/02/20190209-imagem-1.jpg</fanart>
+<info>
+
+[B] Lançamento: [/B] [COLOR hotpink][B] 2018 [/B][/COLOR]  
+[B] Gênero: [/B] [COLOR hotpink] Crime, Romance, Suspense [/COLOR] 
+[B] Duração:[/B] [COLOR hotpink] 105 min. [/COLOR] 
+
+Um comerciante de diamantes viaja da Rússia para a América para vender raras pedras azuis de origem questionável. À medida que seu negócio começa a entrar em colapso, ele passa a se envolver com uma russa, dona de um pequeno café na Sibéria. A paixão cresce e ele não consegue se livrar do negócio de diamantes, deixando brechas para que ambos entrem em colisão num ambiente sem saída.
+
+</info>
+</item>
+
 <item><title>Silêncio Mortal</title>
 <link>https://video.wixstatic.com/video/16f3d4_8ac3f86bbb8248b4a30efc5b1b939087/480p/mp4/file.mp4</link>
 <thumbnail>http://assets.nflxext.com/us/boxshots/hd1080/70063588.jpg</thumbnail>
