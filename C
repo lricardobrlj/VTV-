@@ -30,6 +30,21 @@
 <info> O rico e bem sucedido Will (Sam Claflin) leva uma vida repleta de conquistas, viagens e esportes radicais até ser atingido por uma moto. O acidente o torna tetraplégico, obrigando-o a permanecer em uma cadeira de rodas. A situação o torna depressivo e extremamente cínico, para a preocupação de seus pais (Janet McTeer e Charles Dance). É neste contexto que Louisa Clark (Emilia Clarke) é contratada para cuidar de Will. De origem modesta, com dificuldades financeiras e sem grandes aspirações na vida, ela faz o possível para melhorar o estado de espírito de Will e, aos poucos, acaba se envolvendo com ele.</info>
 </item>
 
+<item>
+<title> Como Hackear Seu Chefe </title>
+<link>https://video.wixstatic.com/video/16f3d4_37b4b2d772364929a1233f0ce1f423e2/1080p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/sXIIGA2VeK1FAhd9c547kcBIryq.jpg</thumbnail>
+<fanart>https://poltronanerd.com.br/wp-content/uploads/2021/05/Filme-Como-Hackear-meu-Chefe.jpg</fanart>
+<info>
+
+[B] Lançamento: [/B] [COLOR hotpink][B] 2021 [/B][/COLOR]  
+[B] Gênero: [/B] [COLOR hotpink] Comédia [/COLOR] 
+[B] Duração:[/B] [COLOR hotpink] 85 min. [/COLOR] 
+
+Sem querer, Victor envia um e-mail comprometedor a seu chefe mala. Com a ajuda da crush do financeiro e seu amigo sem noção, ele tem poucas horas para salvar seu emprego e lidar com um hacker picareta, um site pornô e um mascote chamado Sorrisinho.
+
+</info>
+</item>
 
 <item><title>Com a cor e a coragem 2
 ( 2019 )</title>
