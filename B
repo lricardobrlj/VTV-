@@ -14,11 +14,20 @@ Tomak Bartkowiak (Józef Pawłowski) é um ex-lutador de MMA que acaba caindo em
 </info>
 </item>
 
-<item><title>Batman: Batman Begins</title>
+<item>
+<title> Batman Begins </title>
 <link>https://video.wixstatic.com/video/16f3d4_e36ad42ba71a496799e4254d9f15f77b/480p/mp4/file.mp4</link>
-<thumbnail>http://vortexcultural.com.br/images/2015/11/Batman_Begins_poster.jpg</thumbnail>
-<fanart>https://hips.hearstapps.com/digitalspyuk.cdnds.net/18/41/1539361797-batman-begins-christian-bale.jpg</fanart>
-<info> O jovem Bruce Wayne viaja para o Extremo Oriente, onde recebe treinamento em artes marciais do mestre Henri Ducard, um membro da misteriosa Liga das Sombras. Quando Ducard revela que a verdadeira proposta da Liga é a destruição completa da cidade de Gotham, Wayne retorna à sua cidade com o intuito de livrá-la de criminosos e assassinos. Com a ajuda do mordomo Alfred e do expert Lucius Fox, nasce Batman.</info>
+<thumbnail>https://image.tmdb.org/t/p/w342/1P3ZyEq02wcTMd3iE4ebtLvncvH.jpg</thumbnail>
+<fanart>https://www.tricurioso.com/wp-content/uploads/2020/06/batman-begins-confira-as-melhores-curiosidades-sobre-o-longa-tricurioso.jpg</fanart>
+<info>
+
+[B] Lançamento: [/B] [COLOR hotpink][B] 2005 [/B][/COLOR]  
+[B] Gênero: [/B] [COLOR hotpink] Ação, Crime, Drama [/COLOR] 
+[B] Duração:[/B] [COLOR hotpink] 140 min. [/COLOR] 
+
+Marcado pelo assassinato de seus pais quando ainda era criança, o milionário Bruce Wayne (Christian Bale) decide viajar pelo mundo em busca de encontrar meios que lhe permitam combater a injustiça e provocar medo em seus adversários. Após retornar a Gotham City, sua cidade-natal, ele idealiza seu alter-ego: Batman, um justiceiro mascarado que usa força, inteligência e um arsenal tecnológico para combater o crime.
+
+</info>
 </item>
 
 <item><title>Batman: O Longo Dia das Bruxas: Parte 1
