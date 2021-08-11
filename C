@@ -14,20 +14,29 @@ Desde que Bart tirou Danny da rua, com a idade de 4 anos, sempre o tratou como u
 </info>
 </item>
 
+<item>
+<title> Caminhos de Sangue</title>
+<link>https://video.wixstatic.com/video/16f3d4_fa15598246864a928ba63d163b4db7d2/480p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/62edhdYzdUNKDLL0GUlKbTOwbA7.jpg</thumbnail>
+<fanart>https://mojtv.hr/images/2019-12/bfc3b385-47a1-4bf5-8af0-06dc33.jpg</fanart>
+<info>
+
+[B] Lançamento: [/B] [COLOR hotpink][B] 2019 [/B][/COLOR]  
+[B] Gênero: [/B] [COLOR hotpink] Suspense, Crime [/COLOR] 
+[B] Duração:[/B] [COLOR hotpink] 92 min. [/COLOR] 
+
+Um motorista sem sorte que ganha dinheiro extra como motorista de um traficante de drogas
+de baixo nível, encontra-se em uma situação financeira séria e decide sequestrar o filho do traficante.
+
+</info>
+</item>
+
 <item><title>Clube dos Infiéis Honestos
 ( 2016 )</title>
 <link>https://video.wixstatic.com/video/16f3d4_1fa7b3249a564693b80ca7d2b46041fe/720p/mp4/file.mp4</link>
 <thumbnail>https://images.euassisti.com.br/images/0333732_0.jpeg?width=0&height=450</thumbnail>
 <fanart>https://3.bp.blogspot.com/-5T8benCwJzI/W56wf5O4hYI/AAAAAAAAVzE/pCubyaq9Xqs-WpQnhMBoQe5AL1wE1F9IQCLcBGAs/w1200-h630-p-k-no-nu/club-buenos-infieles_0.jpg</fanart>
 <info> Cansados dos casamentos mornos, quatro amigos de infância decidem criar um clube para pular a cerca. O objetivo: reacender a paixão pelas esposas.</info>
-</item>
-
-<item><title>Caminhos de Sangue
-( 2018 )</title>
-<link>https://video.wixstatic.com/video/16f3d4_fa15598246864a928ba63d163b4db7d2/480p/mp4/file.mp4</link>
-<thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQfhmgbmi5FHxHy2hp8l4gV9c2oY--Amo2DbsA7Mn-uBaUQ6v6K</thumbnail>
-<fanart>https://mojtv.hr/images/2019-12/bfc3b385-47a1-4bf5-8af0-06dc33.jpg</fanart>
-<info> Um motorista azarado ganha dinheiro extra como chofer particular de um traficante de drogas de segunda categoria. Ao passar por dificuldades financeiras, decide sequestrar o filho do traficante e exigir um resgate.</info>
 </item>
 
 <item><title>Como Eu Era Antes de Você
