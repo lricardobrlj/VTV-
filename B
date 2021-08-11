@@ -78,12 +78,20 @@ Um assassinato brutal no Halloween leva o jovem vigilante de Gotham, o Batman, a
 </info>
 </item>
 
-<item><title>Black '47
-( 2018 )</title>
+<item>
+<title> Black ’47</title>
 <link>https://video.wixstatic.com/video/16f3d4_f4f01b87e6ab40dfa934c2dd7ce718c5/480p/mp4/file.mp4</link>
-<thumbnail>https://i.imgur.com/gPTNpOk.jpg</thumbnail>
-<fanart>https://www.galizalivre.com/wp-content/uploads/2019/09/black.jpg</fanart>
-<info> Na Irlanda do século XIX, no período da Grande Fome, um guarda irlandês, que tem lutado pelo exército britânico no exterior, decide abandonar seu posto para se reunir com a família. Mesmo tendo experimentado os horrores da guerra, ele fica chocado com a destruição que a fome causou no seu país, gerando certa brutalização das pessoas e até da própria família.</info>
+<thumbnail>https://image.tmdb.org/t/p/w342/gZiu9RIcMeQLUaDVqQffQTl6bhy.jpg</thumbnail>
+<fanart>https://images-na.ssl-images-amazon.com/images/S/sgp-catalog-images/region_GB/e7zo5-W429ERCYS5M-Full-Image_GalleryBackground-en-US-1579471467499._RI_.jpg</fanart>
+<info>
+
+[B] Lançamento: [/B] [COLOR hotpink][B] 2018 [/B][/COLOR]  
+[B] Gênero: [/B] [COLOR hotpink] Drama, Faroeste [/COLOR] 
+[B] Duração:[/B] [COLOR hotpink] 100 min. [/COLOR] 
+
+Na Irlanda do século XIX, no período da Grande Fome, um guarda irlandês, que tem lutado pelo exército britânico no exterior, decide abandonar seu posto para se reunir com a família. Mesmo tendo experimentado os horrores da guerra, ele fica chocado com a destruição que a fome causou no seu país, gerando certa brutalização das pessoas e até da própria família.
+
+</info>
 </item>
 
 <item>
