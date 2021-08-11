@@ -1,4 +1,20 @@
 <item>
+<title> Raya e o Último Dragão </title>
+<link>https://video.wixstatic.com/video/16f3d4_42ae454336844807861c15f32695c168/720p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/yXrb84zJidCefyhTWHwo4yCDvwz.jpg</thumbnail>
+<fanart>https://lumiere-a.akamaihd.net/v1/images/1920x1080_logo_355fcbfc.png?region=0,0,1920,1080</fanart>
+<info>
+
+[B] Lançamento: [/B] [COLOR hotpink][B] 2021 [/B][/COLOR]  
+[B] Gênero: [/B] [COLOR hotpink] Família, Fantasia, Animação, Ação, Aventura [/COLOR] 
+[B] Duração:[/B] [COLOR hotpink] 107 min. [/COLOR] 
+
+Muito tempo atrás, humanos e dragões viviam juntos em harmonia no mundo de Kumandra. Mas a ameaça de uma força do mal fez com que os dragões se sacrificassem para salvar a humanidade. Agora, 500 anos depois, o perigo ressurge e a solitária guerreira Raya embarca em uma incrível jornada para encontrar o último dragão e salvar seu mundo.
+
+</info>
+</item>
+
+<item>
 <title>Rédeas da Redenção
 ( 2019 )</title>
 <link>https://video.wixstatic.com/video/16f3d4_f87a3b5c0a3d47bfb2a029a2a4c5b729/720p/mp4/file.mp4</link>
