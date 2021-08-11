@@ -30,6 +30,22 @@ Após as sofríveis férias na casa dos tios, Harry Potter se prepara para volta
 </info>
 </item>
 
+<item>
+<title> Harry Potter e o Prisioneiro de Azkaban </title>
+<link>https://video.wixstatic.com/video/16f3d4_b9890f8546384a8086f093bf96e0790a/720p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/1HdMUghqlgOIvbsU9ZtO40IPRzl.jpg</thumbnail>
+<fanart>https://www.proibidoler.com/wp-content/uploads/2019/09/teste-nivel-hard-harry-potter-01.jpg</fanart>
+<info>
+
+[B] Lançamento: [/B] [COLOR hotpink][B] 2004 [/B][/COLOR]  
+[B] Gênero: [/B] [COLOR hotpink] Aventura, Fantasia [/COLOR] 
+[B] Duração:[/B] [COLOR hotpink] 142 min. [/COLOR] 
+
+O 3º ano de ensino na Escola de Magia e Bruxaria de Hogwarts se aproxima. Porém um grande perigo ronda a escola: o assassino Sirius Black fugiu da prisão de Azkaban, considerada até então como à prova de fugas. Para proteger a escola são enviados os Dementadores, estranhos seres que sugam a energia vital de quem se aproxima deles, que tanto podem defender a escola como piorar ainda mais a situação.
+
+</info>
+</item>
+
 <item><title>Hospedagem Mortal
 </title>
 <link>https://video.wixstatic.com/video/16f3d4_a1df233f737c40f18c384b605a498184/720p/mp4/file.mp4</link>
