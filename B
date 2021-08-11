@@ -1,4 +1,20 @@
 <item>
+<title> Bad Boys Para Sempre </title>
+<link>https://video.wixstatic.com/video/16f3d4_8e43628294664e34ab19824e7c5dd15c/720p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/lkWYrzLIclGj56r4NJxuWeisK9R.jpg</thumbnail>
+<fanart>https://observatoriodocinema.uol.com.br/wp-content/uploads/2020/01/bad-boys-para-sempre.jpg</fanart>
+<info>
+
+[B] Lançamento: [/B] [COLOR hotpink][B] 2020 [/B][/COLOR]  
+[B] Gênero: [/B] [COLOR hotpink] Suspense, Ação, Crime [/COLOR] 
+[B] Duração:[/B] [COLOR hotpink] 113 min. [/COLOR] 
+
+Marcus Burnett agora é um inspetor e Mike Lowrey se encontra numa crise de meia-idade. Mas a dupla tem que se juntar novamente quando um mercenário albanês, cujo irmão foi capturado por eles, promete um bônus de vingança justamente quando eles estão prestes a se aposentar.
+
+</info>
+</item>
+
+<item>
 <title> Bartkowiak </title>
 <link>https://video.wixstatic.com/video/16f3d4_b764d18a2a4b4c308af0eb471cf710b0/1080p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/kOVko9u2CSwpU8zGj14Pzei6Eco.jpg</thumbnail>
