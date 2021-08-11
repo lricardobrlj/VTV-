@@ -158,6 +158,22 @@ Desde que se conheceram, em “Velozes & Furiosos 7”, Luke Hobbs (Dwayne Johns
 </info>
 </item>
 
+<item>
+<title> Vingadores Guerra Infinita </title>
+<link>https://video.wixstatic.com/video/16f3d4_ac7d99ccfdb34998908be5e3bc505cd2/720p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/89QTZmn34iwXYeCpVxhC9UrT8sX.jpg</thumbnail>
+<fanart>https://gamehall.com.br/wp-content/uploads/2018/05/vingadores-guerra-infinita.jpg</fanart>
+<info>
+
+[B] Lançamento: [/B] [COLOR hotpink][B] 2018 [/B][/COLOR]  
+[B] Gênero: [/B] [COLOR hotpink] Ação, Aventura, Ficção Científica [/COLOR] 
+[B] Duração:[/B] [COLOR hotpink] 182 min. [/COLOR] 
+
+Homem de Ferro, Thor, Hulk e os Vingadores se unem para combater seu inimigo mais poderoso, o maligno Thanos. Em uma missão para coletar todas as seis pedras infinitas, Thanos planeja usá-las para infligir sua vontade maléfica sobre a realidade.
+
+</info>
+</item>
+
 <item><title>Vingança Fm</title>
 <link>https://video.wixstatic.com/video/16f3d4_eec15b81ce9040af82e5d179f9b345d2/480p/mp4/file.mp4</link>
 <thumbnail>https://i.imgur.com/5GjZXsO.jpg</thumbnail>
