@@ -32,6 +32,22 @@ de baixo nível, encontra-se em uma situação financeira séria e decide seques
 </item>
 
 <item>
+<title>Céu Vermelho-Sangue</title>
+<link>https://video.wixstatic.com/video/16f3d4_d139cc0679fe4c9cb809cf72f4602b8c/1080p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/ky8Fua6PD7FyyOA7JACh3GDETli.jpg</thumbnail>
+<fanart>https://br.web.img2.acsta.net/r_1280_720/newsv7/21/07/26/16/56/2142011.jpg</fanart>
+<info>
+
+[B] Lançamento: [/B] [COLOR hotpink][B] 2021 [/B][/COLOR]  
+[B] Gênero: [/B] [COLOR hotpink] Terror, Suspense, Ação[/COLOR] 
+[B] Duração:[/B] [COLOR hotpink] 121 min. [/COLOR] 
+
+Uma mulher com uma doença misteriosa precisa revelar um segredo obscuro para proteger o filho de terroristas que querem sequestrar o avião em que viajam.
+
+</info>
+</item>
+
+<item>
 <title> Clube dos Infiéis Honestos </title>
 <link>https://video.wixstatic.com/video/16f3d4_1fa7b3249a564693b80ca7d2b46041fe/720p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/w2cqKX8xMp9s5Ng8j0npVGbX770.jpg</thumbnail>
