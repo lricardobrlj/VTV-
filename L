@@ -55,6 +55,22 @@ A jovem Lisbela adora ir ao cinema e vive sonhando com os galãs de Hollywood do
 <info>Em 2024, os mutantes estão em franco declínio, e as pessoas não sabem o real motivo. Uma organização está transformando as crianças mutantes em verdadeiras assassinas. Wolverine, cansado de tudo e a pedido de um cada vez mais enfraquecido Professor Xavier, precisa proteger a jovem e poderosa Laura Kinney, conhecida como X-23. Enquanto isso, o vilão Nathaniel Essex amplia seu projeto de destruição.</info>
 </item>
 
+<item>
+<title> Loucos por Justiça </title>
+<link>https://video.wixstatic.com/video/16f3d4_ee998b302ffa42958c604fb194337e26/720p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/i7LtmfzZ2HCxNBEw0h4Wu2lZTSS.jpg</thumbnail>
+<fanart>https://www.planocritico.com/wp-content/uploads/2021/08/loucos-por-justica-plano-critico-.jpg</fanart>
+<info>
+
+[B] Lançamento: [/B] [COLOR hotpink][B] 2020 [/B][/COLOR]  
+[B] Gênero: [/B] [COLOR hotpink] Ação, Comédia, Drama [/COLOR] 
+[B] Duração:[/B] [COLOR hotpink] 116 min. [/COLOR] 
+
+Markus, um militar destacado, tem que ir para casa com sua filha Mathilde, quando sua esposa morre em um acidente de trem. Parece azar, mas acontece que poderia ter sido um assassinato cuidadosamente orquestrado.
+
+</info>
+</item>
+
 <item><title>Luca
 ( 2021 )</title>
 <link>https://video.wixstatic.com/video/16f3d4_567a1bce9e5c4ddbba023d6a0c8b343c/1080p/mp4/file.mp4</link>
