@@ -103,7 +103,7 @@ Os supervilões Harley Quinn (Margot Robbie), Bloodsport (Idris Elba), Peacemake
 </item>
 
 <item><title>Extermínio
-( 2002 )</title>
+</title>
 <link>https://video.wixstatic.com/video/16f3d4_a8ac429f8722416aadefd0aac196deb1/720p/mp4/file.mp4</link>
 <thumbnail>https://www.cafecomfilme.com.br/media/k2/items/cache/671e1b97d5db31a8bc1d973f463cac5a_XL.jpg</thumbnail>
 <fanart>https://i2.wp.com/cinemacao.com/wp-content/uploads/2016/08/28-days-later-2002-image-1.jpg</fanart>
