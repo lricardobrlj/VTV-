@@ -64,6 +64,22 @@ Uma mulher com uma doença misteriosa precisa revelar um segredo obscuro para pr
 </item>
 
 <item>
+<title> Cidade de Deus </title>
+<link>https://video.wixstatic.com/video/16f3d4_5258bf120a534f76962eaf72fa4f4dab/1080p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/pA70WUs7KHiHltfiBN4XEELOXcS.jpg</thumbnail>
+<fanart>https://ogimg.infoglobo.com.br/in/21632174-e3e-97c/FT1086A/Cidade-de-Deus-foto-arma-cred.-Cesar-Charlone.jpg</fanart>
+<info>
+
+[B] Lançamento: [/B] [COLOR hotpink][B] 2002 [/B][/COLOR]  
+[B] Gênero: [/B] [COLOR hotpink] Drama, Crime [/COLOR] 
+[B] Duração:[/B] [COLOR hotpink] 130 min. [/COLOR] 
+
+Buscapé (Alexandre Rodrigues) é um jovem pobre, negro e muito sensível, que cresce em um universo de muita violência. Buscapé vive na Cidade de Deus, favela carioca conhecida por ser um dos locais mais violentos da cidade. Amedrontado com a possibilidade de se tornar um bandido, Buscapé acaba sendo salvo de seu destino por causa de seu talento como fotógrafo, o qual permite que siga carreira na profissão. É através de seu olhar atrás da câmera que Buscapé analisa o dia-a-dia da favela onde vive, onde a violência aparenta ser infinita.
+
+</info>
+</item>
+
+<item>
 <title> Clube dos Infiéis Honestos </title>
 <link>https://video.wixstatic.com/video/16f3d4_1fa7b3249a564693b80ca7d2b46041fe/720p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/w2cqKX8xMp9s5Ng8j0npVGbX770.jpg</thumbnail>
