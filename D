@@ -23,7 +23,7 @@ Quatro estudantes de medicina que sofrem de insônia são atraídos para um expe
 </item>
 
 <item><title>Descobrindo a Vida
-( 2019 )</title>
+</title>
 <link>https://video.wixstatic.com/video/16f3d4_a8ff8dcc36a443c4ac1949aca38ce51e/480p/mp4/file.mp4</link>
 <thumbnail>https://gfilmes.net/wp-content/uploads/2019/02/zokQMbuBst9z0dP5UKi9EkCSSnV.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w780/b3oAuzWkJ120zXQ32dWUtZ1cc2F.jpg</fanart>
@@ -47,9 +47,25 @@ Din, um jovem estudante e sonhador, e Long, um sarcástico e poderoso dragão qu
 </item>
 
 <item><title>Doom - Aniquilação
-( 2019 )</title>
+</title>
 <link>https://video.wixstatic.com/video/16f3d4_1d55719a0cdc420086be61a42149c54f/720p/mp4/file.mp4</link>
 <thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcStzsZLf43cIVNiEUP_k-uJt2Kxl0sbgRn7HH3uWLxaBFLCAxXd</thumbnail>
 <fanart>https://sm.ign.com/t/ign_in/review/d/doom-annih/doom-annihilation-review_vzuz.1200.jpg</fanart>
 <info> Ao viajar pelo espaço, um grupo de fuzileiros navais responde a uma chamada de socorro vinda de uma base em uma lua alienígena. Lá, eles descobrem que o lugar for tomado por demônios.</info>
+</item>
+
+<item>
+<title> Dora e a Cidade Perdida </title>
+<link>https://video.wixstatic.com/video/16f3d4_6d2d7fbdc79e47ca90d12eeff2f83604/720p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/zn6uvrCTymyl9dYkoU2XDODC8IC.jpg</thumbnail>
+<fanart>https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/11/dora-e-a-cidade-perdida.jpg</fanart>
+<info>
+
+[B] Lançamento: [/B] [COLOR hotpink][B] 2019 [/B][/COLOR]  
+[B] Gênero: [/B] [COLOR hotpink] Aventura, Comédia, Família [/COLOR] 
+[B] Duração:[/B] [COLOR hotpink] 102 min. [/COLOR] 
+
+Ambientado na floresta peruana, o filme narra as aventuras de Dora (Isabella Merced) junto de seu macaco Botas, amigos que acabou de fazer na escola e um misterioso explorador a fim de salvar seus pais de mercenários. Mas Dora também terá de solucionar um grande mistério envolvendo Parapata, uma antiga cidade perdida dos Incas.
+
+</info>
 </item>
