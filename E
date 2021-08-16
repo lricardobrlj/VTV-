@@ -103,17 +103,17 @@ Jack Halsey e sua família esperam realizar a viagem dos sonhos ao participar de
 </item>
 
 <item>
-<title> O Esquadrão Suicida </title>
-<link>https://video.wixstatic.com/video/16f3d4_91d84001386e48c3bb214d0c37a538dc/720p/mp4/file.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/w342/wTS3dS2DJiMFFgqKDz5fxMTri.jpg</thumbnail>
-<fanart>https://www.comboinfinito.com.br/principal/wp-content/uploads/2021/06/O-Esquadrao-Suicida-33.jpg</fanart>
+<title> Explota Explota </title>
+<link>https://video.wixstatic.com/video/16f3d4_fcb3b2dc35014857af4f97450c0f4c15/720p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/4GvZ2HFBe7URP3ByCsBYwmDnmzG.jpg</thumbnail>
+<fanart>https://i0.wp.com/www.arrobanerd.com.br/wp-content/uploads/2021/08/explotaexplota-1.jpg?fit=800%2C450&ssl=1</fanart>
 <info>
 
-[B] Lançamento: [/B] [COLOR hotpink][B] 2021 [/B][/COLOR]  
-[B] Gênero: [/B] [COLOR hotpink] Ação, Aventura, Comédia, Ficção Científica [/COLOR] 
-[B] Duração:[/B] [COLOR hotpink] 132 min. [/COLOR] 
+[B] Lançamento: [/B] [COLOR hotpink][B] 2020 [/B][/COLOR]  
+[B] Gênero: [/B] [COLOR hotpink] Comédia [/COLOR] 
+[B] Duração:[/B] [COLOR hotpink] 116 min. [/COLOR] 
 
-Os supervilões Harley Quinn (Margot Robbie), Bloodsport (Idris Elba), Peacemaker (John Cena) e uma coleção de malucos condenados da prisão de Belle Reve juntam-se à super-secreta e super-obscura Força Tarefa X, enquanto são deixados na remota ilha de Corto Maltese para combater o inimigo.
+A jornada de uma jovem dançarina que luta para trazer cor a um mundo cinza enquanto persegue seu sonho de se tornar uma estrela da TV, contada através dos maiores sucessos da incomparável Raffaella Carrà.
 
 </info>
 </item>
