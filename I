@@ -1,13 +1,30 @@
 <item><title>Inatividade Paranormal 2
-( 2014 )</title>
+</title>
 <link>https://video.wixstatic.com/video/16f3d4_926f383e30864f52a23281c9642f19a6/720p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/7xvLGlzqlMdJi7b2w1SKycsbpVI.jpg</thumbnail>
 <fanart>https://is5-ssl.mzstatic.com/image/thumb/Xg1Ehe8-O5rpqylvtoNfkw/1200x675.jpg</fanart>
 <info>Malcolm está tentando reiniciar a vida ao lado de outra mulher, junto dos dois filhos dela. A família se muda para uma casa nova. Ele permanece com mania de filmar tudo o que acontece à sua volta, com diversas câmeras. Entretanto, não demora muito para que Malcolm volte a ser afetado por acontecimentos sobrenaturais, especialmente quando inicia um caso com uma estranha boneca.</info>
 </item>
 
+<item>
+<title> Infinito </title>
+<link>https://video.wixstatic.com/video/16f3d4_e117fbac28b64a5e8ed2a846fb81301d/720p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/mLvjQ0IIdzZfQzQXULI7sIVxd8V.jpg</thumbnail>
+<fanart>https://i2.wp.com/oquartonerd.com.br/wp-content/uploads/2021/08/4nerd_Site-33.png?fit=1260%2C763&ssl=1</fanart>
+<info>
+
+[B] Lançamento: [/B] [COLOR hotpink][B] 2021 [/B][/COLOR]  
+[B] Gênero: [/B] [COLOR hotpink] Ficção Científica, Ação, Suspense [/COLOR] 
+[B] Duração:[/B] [COLOR hotpink] 106 min. [/COLOR] 
+
+Um jovem perturbado, assombrado por lembranças de duas vidas passadas, depara-se com uma antiga sociedade secreta de indivíduos semelhantes e ousa juntar-se a eles.
+
+</info>
+</item>
+
+
 <item><title>Invocação do Mal 3: A Ordem do Demônio
-( 2021 )</title>
+</title>
 <link>https://video.wixstatic.com/video/16f3d4_d3ebecd8299e43a68f04c5ae82a02a28/720p/mp4/file.mp4</link>
 <thumbnail>https://br.web.img3.acsta.net/pictures/20/08/14/17/35/2504537.jpg</thumbnail>
 <fanart>https://clube-static.clubegazetadopovo.com.br/portal/wp-content/uploads/2021/06/invocacaodomal3_15-696x418-1.jpg</fanart>
