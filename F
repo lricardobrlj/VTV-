@@ -14,12 +14,19 @@ Antes de construir um império de droga, Ferry Bouman regressa a casa numa miss�
 </info>
 </item>
 
-<item><title>Fim dos Tempos
-</title>
+<item>
+<title> Fim dos Tempos </title>
 <link>https://video.wixstatic.com/video/16f3d4_07c03ad2c06743a797b194280c7620b4/720p/mp4/file.mp4</link>
-<thumbnail>https://media.fstatic.com/TCLH-_Mv2WILDtPcbYjeF6ZTafI=/290x478/smart/media/movies/covers/2011/06/bd6314eaf44a21575fc5011142253696_1.jpg</thumbnail>
-<fanart>https://acessocultural.com.br/wp-content/uploads/2021/01/destruicao-final.jpg</fanart>
-<info> Uma ameaça apocalíptica chega do céu trazendo uma série de mortes violentas e inexplicáveis que se espalham pelo país. A causa do fenômeno estarrecente permanece desconhecida. O professor de ciências, Elliot Moore, ao lado de sua esposa Alma e seu colega Julian, tenta escapar do assassino invisível indo para a Pensilvânia, mas logo torna-se evidente que ninguém está fora de perigo.</info>
+<thumbnail>https://image.tmdb.org/t/p/w342/mDdD4CedaLzDOEPqh3GYgtjbgCn.jpg</thumbnail>
+<fanart>https://uploads.jovemnerd.com.br/wp-content/uploads/2020/10/destruicao-total-poster-data-brasil.jpg</fanart>
+<info>
+
+[B] Lançamento: [/B] [COLOR hotpink][B] 2008 [/B][/COLOR]  
+[B] Gênero: [/B] [COLOR hotpink] Suspense, Ficção Científica [/COLOR] 
+[B] Duração:[/B] [COLOR hotpink] 91 min. [/COLOR] 
+
+Uma ameaça apocalíptica chega do céu trazendo uma série de mortes violentas e inexplicáveis que se espalham pelo país. A causa do fenômeno estarrecente permanece desconhecida. O professor de ciências, Elliot Moore, ao lado de sua esposa Alma e seu colega Julian, tenta escapar do assassino invisível indo para a Pensilvânia, mas logo torna-se evidente que ninguém está fora de perigo.
+</info>
 </item>
 
 <item><title>Frozen - Uma Aventura Congelante
