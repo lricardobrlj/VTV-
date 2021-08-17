@@ -1,5 +1,5 @@
 <item><title>Gato Sórdido
-( 2016 )</title>
+</title>
 <link>https://video.wixstatic.com/video/16f3d4_58dffee59bb04a4ba97ffa7cabf550ee/720p/mp4/file.mp4</link>
 <thumbnail>https://assetsgn.nowonline.com.br/assets/p12913258_v_v11_ab.jpg</thumbnail>
 <fanart>https://i.imgur.com/eZkGd7q.jpg</fanart>
@@ -23,9 +23,25 @@ Uma jovem volta à sua cidade natal com a intenção de matar seu pai abusivo ap
 </item>
 
 <item><title>Guerra dos Mundos
-( 2005 )</title>
+</title>
 <link>https://video.wixstatic.com/video/16f3d4_dda8abe97352458a9f237375e39aafa0/720p/mp4/file.mp4</link>
 <thumbnail>https://br.web.img3.acsta.net/c_310_420/medias/nmedia/18/90/84/01/20115678.jpg</thumbnail>
 <fanart>https://www.cinemaescrito.com/wp-content/uploads/2018/07/guerra-dos-mundos-1-910x515.jpg</fanart>
 <info> Ray Ferrier é um estivador divorciado, afastado de seus filhos, que vivem com a mãe. Quando sua ex-esposa deixa as crianças para ele cuidar durante alguns dias, o planeta é atacado por alienígenas que surgem do chão conduzindo tripods e destruindo tudo que encontram pelo caminho. Ray tenta proteger os seus filhos e fugir para Boston para se juntar a sua ex-esposa. Durante o trajeto, enfrenta várias adversidades e ataques.</info>
+</item>
+
+<item>
+<title> Godzilla vs. Kong </title>
+<link>https://video.wixstatic.com/video/16f3d4_f4f7331b96fe456db02380cf44b32a57/720p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/wllzjZxg4ynlAm5xmOICJ2uHOPJ.jpg</thumbnail>
+<fanart>https://observatoriodocinema.uol.com.br/wp-content/uploads/2021/03/5527433.jpg</fanart>
+<info>
+
+[B] Lançamento: [/B] [COLOR hotpink][B] 2021 [/B][/COLOR]  
+[B] Gênero: [/B] [COLOR hotpink] Ação, Aventura, Fantasia [/COLOR] 
+[B] Duração:[/B] [COLOR hotpink] 113 min. [/COLOR] 
+
+Em uma época em que os monstros andam na Terra, a luta da humanidade por seu futuro coloca Godzilla e Kong em rota de colisão que verá as duas forças mais poderosas da natureza no planeta se confrontarem em uma batalha espetacular para as idades. Enquanto Monarch embarca em uma missão perigosa em terreno desconhecido e descobre pistas sobre as origens dos Titãs, uma conspiração humana ameaça tirar as criaturas, boas e más, da face da terra para sempre.
+
+</info>
 </item>
