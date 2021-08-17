@@ -1,6 +1,21 @@
+<item>
+<title> Ferry </title>
+<link>https://video.wixstatic.com/video/16f3d4_9506b4125fac435c8e5b91e0bb929e95/1080p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/w6n1pu9thpCVHILejsuhKf3tNCV.jpg</thumbnail>
+<fanart>https://i0.wp.com/www.ultraverso.com.br/wp-content/uploads/2021/05/Ferry-filme-netflix-critica.jpg?fit=1200%2C675&ssl=1</fanart>
+<info>
+
+[B] Lançamento: [/B] [COLOR hotpink][B] 2021 [/B][/COLOR]  
+[B] Gênero: [/B] [COLOR hotpink] Ação, Crime, Drama [/COLOR] 
+[B] Duração:[/B] [COLOR hotpink] 106 min. [/COLOR] 
+
+Antes de construir um império de droga, Ferry Bouman regressa a casa numa missão de vingança em que a sua lealdade é posta à prova e um amor lhe muda a vida.
+
+</info>
+</item>
 
 <item><title>Fim dos Tempos
-( 2008 )</title>
+</title>
 <link>https://video.wixstatic.com/video/16f3d4_07c03ad2c06743a797b194280c7620b4/720p/mp4/file.mp4</link>
 <thumbnail>https://media.fstatic.com/TCLH-_Mv2WILDtPcbYjeF6ZTafI=/290x478/smart/media/movies/covers/2011/06/bd6314eaf44a21575fc5011142253696_1.jpg</thumbnail>
 <fanart>https://acessocultural.com.br/wp-content/uploads/2021/01/destruicao-final.jpg</fanart>
@@ -8,7 +23,7 @@
 </item>
 
 <item><title>Frozen - Uma Aventura Congelante
-( 2013 )</title>
+</title>
 <link>https://video.wixstatic.com/video/16f3d4_20c66df863124706a210a9b6d3539b1c/720p/mp4/file.mp4</link>
 <thumbnail>https://static.wikia.nocookie.net/filmes/images/9/9d/Frozen-uma-aventura-congelante.jpg</thumbnail>
 <fanart>https://i.ytimg.com/vi/a5bS5mGW0UI/maxresdefault.jpg</fanart>
