@@ -46,12 +46,20 @@ Torturada pelo passado, Elektra (Jennifer Garner) é obcecada por sua morte e se
 </info>
 </item>
 
-<item><title>Elysion
-</title>
+<item>
+<title> Elysium </title>
 <link>https://video.wixstatic.com/video/16f3d4_d1003d0f2470414d921d720d351c8cf1/720p/mp4/file.mp4</link>
-<thumbnail>https://s2.glbimg.com/Ha-YMw7sarP_6fJ7r7GLSZqaS70=/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2019/e/p/qfKzDPStODpx84JE9i0A/elysium-regposter-brazil.jpg</thumbnail>
-<fanart>https://www.thunderwave.com.br/wp-content/uploads/2017/04/92cQf4qI1f8eJt76ljxgasnl59I.jpg</fanart>
-<info> No ano de 2154, os mais ricos vivem em uma estação espacial enquanto o resto da população mora em uma Terra arruinada. Um homem assume a missão de tentar trazer igualdade aos mundos polarizados.</info>
+<thumbnail>https://image.tmdb.org/t/p/w342/2QxAzqKf56IMHMMbPkaIkb3Ul6S.jpg</thumbnail>
+<fanart>https://images.justwatch.com/backdrop/8659701/s1440/elysium</fanart>
+<info>
+
+[B] Lançamento: [/B] [COLOR hotpink][B] 2013 [/B][/COLOR]  
+[B] Gênero: [/B] [COLOR hotpink] Ficção Científica, Ação, Drama, Suspense [/COLOR] 
+[B] Duração:[/B] [COLOR hotpink] 109 min. [/COLOR] 
+
+Em 2159, o mundo é dividido entre dois grupos: o primeiro, riquíssimo, mora na estação espacial Elysium, enquanto o segundo, pobre, vive na Terra, repleta de pessoas e em grande decadência. Por um lado, a secretária do governo Rhodes faz de tudo para preservar o estilo de vida luxuoso de Elysium, por outro, um pobre cidadão da Terra tenta um plano ousado para trazer de volta a igualdade entre as pessoas.
+
+</info>
 </item>
 
 <item>
