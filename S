@@ -93,6 +93,22 @@ Quando um vírus ameaça transformar os híbridos alienígenas amigáveis que ag
 </item>
 
 <item>
+<title> Sobreviva ou Morra Tentando </title>
+<link>https://video.wixstatic.com/video/16f3d4_57252f7adedf4d12a20b5285d6151d23/720p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/raSRcE1lVtwQValPmAmNv46PPei.jpg</thumbnail>
+<fanart>https://nerdbreak.com.br/wp-content/uploads/2021/07/Sobreviva-ou-Morra-Tentando.jpg</fanart>
+<info>
+
+[B] Lançamento: [/B] [COLOR hotpink][B] 2020 [/B][/COLOR]  
+[B] Gênero: [/B] [COLOR hotpink] Ação, Crime, Drama, Suspense [/COLOR] 
+[B] Duração:[/B] [COLOR hotpink] 109 min. [/COLOR] 
+
+Zoe é uma jovem de 17 anos cheia de raiva, lidando com a morte de sua mãe. Quando sua escola é invadida por estudantes armados, ela fará de tudo para enfrentar os agressores e salvar seus colegas.
+
+</info>
+</item>
+
+<item>
 <title>Space Jam Um Novo Legado</title>
 <link>https://video.wixstatic.com/video/16f3d4_6811067937e24cc09ed3575fe6a870c6/1080p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/k4KpzK25KbkHWmj74lrskz2Sfyl.jpg</thumbnail>
