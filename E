@@ -94,12 +94,20 @@ Em Bali, uma blogueira de moda conhece um talentoso sapateiro que mexe com seu c
 </info>
 </item>
 
-<item><title>Era Uma Vez um Boneco de Neve
-</title>
+<item>
+<title> Era Uma Vez Um Boneco de Neve </title>
 <link>https://video.wixstatic.com/video/16f3d4_1978841a1a264cc5bc704cad87091414/1080p/mp4/file.mp4</link>
-<thumbnail>https://media.fstatic.com/ufCV2ppetou32GUT2QkmP6FIX6o=/290x478/smart/media/movies/covers/2020/11/cats1_EBNIQco.jpg</thumbnail>
-<fanart>https://nerdsdagalaxia.com.br/wp-content/uploads/2020/09/Olaf--1024x567.jpg</fanart>
-<info> Era uma Vez um Boneco de Neve é um curta-metragem com Olaf, o boneco de neve de Frozen, em sua origem e procura por identidade nas geladas montanhas ao redor de Arendelle.</info>
+<thumbnail>https://image.tmdb.org/t/p/w342/334CebHp60Kg8xhMnJrrTtgiRxK.jpg</thumbnail>
+<fanart>https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/61E980B9A3285A0A2446051E5D4E3C70E9539E6853D462882E32850D33ECB94A/scale?width=1200&aspectRatio=1.78&format=jpeg</fanart>
+<info>
+
+[B] Lançamento: [/B] [COLOR hotpink][B] 2020 [/B][/COLOR]  
+[B] Gênero: [/B] [COLOR hotpink] Animação, Família, Comédia, Fantasia [/COLOR] 
+[B] Duração:[/B] [COLOR hotpink] 8 min. [/COLOR] 
+
+Os primeiros passos de Olaf conforme ele ganha vida e busca sua identidade nas montanhas nevadas dos arredores de Arendelle.
+
+</info>
 </item>
 
 <item>
