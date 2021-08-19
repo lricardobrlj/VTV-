@@ -14,12 +14,20 @@ O leão Alex (Ben Stiller) é a grande atração do zoológico do Central Park, 
 </info>
 </item>
 
-<item><title>Madagascar 2: A Grande Escapada
-</title>
+<item>
+<title> Madagascar 2: A Grande Escapada </title>
 <link>https://video.wixstatic.com/video/16f3d4_d4e2e7c86bec4e8184a00a51471d134b/720p/mp4/file.mp4</link>
-<thumbnail>https://static.wikia.nocookie.net/dublagempedia/images/0/0b/Dvd-madagascar-2-lacrado-D_NQ_NP_755712-MLB25684591264_062017-F.jpg/revision/latest/top-crop/width/360/height/450?cb=20200318232943&path-prefix=pt-br</thumbnail>
-<fanart>https://occ-0-1723-1722.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABZ1-KmgLkfBGmDE5ta0tnM2dvGe0r7AsEqPYh-eDcn3hT3Ek8BzT4gglV9EtX79e7uN1JqSkvA-XCKFQEBOD5UQ9MciE.jpg?r=176</fanart>
-<info>Alex, Marty e outros animais do jardim zoológico do Central Park encontram uma maneira de fugir para Madagascar quando os pinguins montam um avião destruído. A embarcação precária fica no ar apenas o suficiente para chegar ao continente africano. Na África, os habitantes de Nova York encontram suas próprias espécies pela primeira vez. Quando o continente revela-se um lugar selvagem, Alex e seus companheiros se perguntam se ficar por lá é melhor do que em seu lar no Central Park.</info>
+<thumbnail>https://image.tmdb.org/t/p/w342/j4If0LljCT2v6CZc86ah3kTshDw.jpg</thumbnail>
+<fanart>https://entreterse.com.br/wp-content/uploads/2019/07/Madagascar-2.jpg</fanart>
+<info>
+
+[B] Lançamento: [/B] [COLOR hotpink][B] 2008 [/B][/COLOR]  
+[B] Gênero: [/B] [COLOR hotpink] Família, Animação, Comédia [/COLOR] 
+[B] Duração:[/B] [COLOR hotpink] 89 min. [/COLOR] 
+
+Alex (Ben Stiller), Marty (Chris Rock), Melman (David Schwimmer), Gloria (Jada Pinkett Smith), Rei Julien (Sacha Baron Cohen), Maurice (Cedric the Entertainer), os pinguins e os chimpanzés estão no longínquo litoral de Madagascar. Para deixar o local os pinguins consertam um velho avião de guerra, mas logo em seu 1º voo ele cai. Isto faz com que os animais do zoológico de Nova York tenham que lidar, pela 1ª vez na vida, com espécies semelhantes a eles, só que habituadas à vida selvagem.
+
+</info>
 </item>
 
 <item><title>Madagascar 3 - Os Procurados
