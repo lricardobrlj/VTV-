@@ -1,9 +1,17 @@
-<item><title>Gato Sórdido
-</title>
+<item>
+<title> Gato Sórdido </title>
 <link>https://video.wixstatic.com/video/16f3d4_58dffee59bb04a4ba97ffa7cabf550ee/720p/mp4/file.mp4</link>
-<thumbnail>https://assetsgn.nowonline.com.br/assets/p12913258_v_v11_ab.jpg</thumbnail>
+<thumbnail>https://image.tmdb.org/t/p/w342/y5ylc1PaXNJCdgbad8CTt39sOaO.jpg</thumbnail>
 <fanart>https://i.imgur.com/eZkGd7q.jpg</fanart>
-<info>Um gato mau de boca suja e sua gangue só querem beber, se divertir, comer e xavecar garotas. Em uma de suas aventuras, eles cruzam com humanos e as coisas ficam fora do controle.</info>
+<info>
+
+[B] Lançamento: [/B] [COLOR hotpink][B] 2016 [/B][/COLOR]  
+[B] Gênero: [/B] [COLOR hotpink] Comédia, Animação, Ação [/COLOR] 
+[B] Duração:[/B] [COLOR hotpink] 86 min. [/COLOR] 
+
+Produzido pelo maior estúdio de animação da Turquia, Anima Istambul, ‘Bad Cat’ é um épico de animação para adultos jovens que caracteriza um inesquecível gato mau, Shero e sua abominável gangue em ação. Como os animais que habitam as ruas, Shero e seus amigos estão atrás do que qualquer pessoa na sua vizinhança de Istambul: fazendo deboche com mulheres, procurando comida e uma bebedeira ocasional.
+
+</info>
 </item>
 
 <item>
