@@ -1,9 +1,17 @@
-<item><title>Inatividade Paranormal 2
-</title>
+<item>
+<title> Inatividade Paranormal 2 </title>
 <link>https://video.wixstatic.com/video/16f3d4_926f383e30864f52a23281c9642f19a6/720p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/7xvLGlzqlMdJi7b2w1SKycsbpVI.jpg</thumbnail>
 <fanart>https://is5-ssl.mzstatic.com/image/thumb/Xg1Ehe8-O5rpqylvtoNfkw/1200x675.jpg</fanart>
-<info>Malcolm está tentando reiniciar a vida ao lado de outra mulher, junto dos dois filhos dela. A família se muda para uma casa nova. Ele permanece com mania de filmar tudo o que acontece à sua volta, com diversas câmeras. Entretanto, não demora muito para que Malcolm volte a ser afetado por acontecimentos sobrenaturais, especialmente quando inicia um caso com uma estranha boneca.</info>
+<info>
+
+[B] Lançamento: [/B] [COLOR hotpink][B] 2014 [/B][/COLOR]  
+[B] Gênero: [/B] [COLOR hotpink] Comédia, Terror [/COLOR] 
+[B] Duração:[/B] [COLOR hotpink] 87 min. [/COLOR] 
+
+Malcolm (Marlon Wayans) está tentando reiniciar a vida ao lado de outra mulher, Megan (Jaime Pressly), juntamente com os dois filhos dela, Becky (Ashley Rickards) e Wyatt (Steele Stebbins). Juntos, eles se mudam para uma nova casa. Ele, para variar, permanece com a mania de filmar tudo o que acontece à sua volta, com diversas câmeras. Entretanto, não demora muito para que Malcolm volte a ser afetado por acontecimentos sobrenaturais, especialmente quando inicia um caso com uma estranha boneca.
+
+</info>
 </item>
 
 <item>
@@ -21,7 +29,6 @@ Um jovem perturbado, assombrado por lembranças de duas vidas passadas, depara-s
 
 </info>
 </item>
-
 
 <item><title>Invocação do Mal 3: A Ordem do Demônio
 </title>
