@@ -77,7 +77,7 @@ Clara e Fernanda são irmãs gêmeas, idênticas e muito unidas, porém em decor
 </item>
 
 <item><title>The Flash - O Último Vingador
-( 1990 )</title>
+</title>
 <link>https://video.wixstatic.com/video/16f3d4_35cf24d5372744ca89423a86a1b07d97/360p/mp4/file.mp4</link>
 <thumbnail>https://media.fstatic.com/PCc1yHlNm5qPwodtPO9BCoHIlUk=/290x478/smart/media/movies/covers/2010/12/fffe84f28355fdde212c912fd7836d64.jpg</thumbnail>
 <fanart>https://noticiasdatv.uol.com.br/media/uploads/artigos/the-flash-1990-credito-cbs-grande.jpg</fanart>
@@ -85,7 +85,7 @@ Clara e Fernanda são irmãs gêmeas, idênticas e muito unidas, porém em decor
 </item>
 
 <item><title>Todo Mundo em Pânico 3
-( 2003 )</title>
+</title>
 <link>https://video.wixstatic.com/video/16f3d4_a3c8b05243704cd9adfada6a76240f50/720p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w300/4eGdcLg9dWxUv3dSY7tIz5EX9sz.jpg</thumbnail>
 <fanart>http://3.bp.blogspot.com/-CIYWKoT2TGU/VT5qerpzmII/AAAAAAAAAgk/azEnNp5UKGs/s1600/2.jpg</fanart>
@@ -195,6 +195,22 @@ Optimus Prime encontra seu planeta natal, Cybertron, agora um planeta morto, e d
 </item>
 
 <item>
+<title> Três Homens em Conflito </title>
+<link>https://video.wixstatic.com/video/16f3d4_b0e436590e9b4ba093b93d64b090d000/1080p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/f6CoXpyZRqYJF3lTfxjWIahO6qM.jpg</thumbnail>
+<fanart>https://ogimg.infoglobo.com.br/in/18181842-d23-c44/FT1086A/westernspaghetti.jpg</fanart>
+<info>
+
+[B] Lançamento: [/B] [COLOR hotpink][B] 1966 [/B][/COLOR]  
+[B] Gênero: [/B] [COLOR hotpink] Faroeste [/COLOR] 
+[B] Duração:[/B] [COLOR hotpink] 178 min. [/COLOR] 
+
+Três homens que ganham a vida de forma questionável no velho oeste norte-americano sabem da existência de um magnífico tesouro enterrado; o problema é que cada um conhece apenas uma parte do segredo para encontrá-lo e nenhum deles está disposto a fazer um acordo para dividi-lo. Nesse cenário conflituoso os três tentarão encontrar uma forma de, ao mesmo tempo, descobrir o que os outros sabem e ser o primeiro a chegar ao prêmio.
+
+</info>
+</item>
+
+<item>
 <title>Tróia</title>
 <link>https://video.wixstatic.com/video/16f3d4_2480bcc4ae2f4d1b921376eb5f5e9e28/480p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/om0wXlt8ANcHWE0EJlYjxaUD5Ga.jpg</thumbnail>
@@ -211,7 +227,7 @@ Quando Páris, o príncipe de Troia, se apaixona por Helena, rainha de Esparta, 
 </item>
 
 <item><title>Tropa de Elite
-( 2007 )</title>
+</title>
 <link>https://video.wixstatic.com/video/16f3d4_ed253a4ababa4700aec703e9a979a2b7/720p/mp4/file.mp4</link>
 <thumbnail>https://s2.glbimg.com/hiM7-jubCm1UdYZ4Q42c1KDYMX0=/362x536/https://s2.glbimg.com/gTW5Vt_lxmJFGaSluIRUhKJUG0M=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2021/P/r/BQv2jORCOX9RCPMvTt5A/2020-1332-tropa-de-elite-poster.jpg</thumbnail>
 <fanart>https://cdn.falauniversidades.com.br/wp-content/uploads/2018/09/1820c6be-tropa-de-elite-resenha-resumo-critica.jpg</fanart>
