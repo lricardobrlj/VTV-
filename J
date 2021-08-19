@@ -1,5 +1,21 @@
+<item>
+<title> Jersey Boys: Em Busca da Música </title>
+<link>https://video.wixstatic.com/video/16f3d4_ea6bd2455f304263a22a972f601af624/720p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/kz956Y83YtT6vTyg0Q40mzRe2UM.jpg</thumbnail>
+<fanart>https://br.web.img3.acsta.net/videothumbnails/14/06/03/14/04/169146.jpg</fanart>
+<info>
+
+[B] Lançamento: [/B] [COLOR hotpink][B] 2014 [/B][/COLOR]  
+[B] Gênero: [/B] [COLOR hotpink] Musical, Drama [/COLOR] 
+[B] Duração:[/B] [COLOR hotpink] 134 min. [/COLOR] 
+
+A história de quatro jovens rapazes fora-da-lei de New Jersey, que se juntam e formam o icônico grupo musical dos anos 60, “The Four Seasons”. A história das maiores provações e triunfos do grupo é acompanhada pelas canções que influenciaram uma geração: “Sherry”, “Big Girls Don’t Cry”, “Walk Like a Man”, “Dawn”, “Rag Doll”, “Bye Bye Baby”, “Who Loves You”, entre outras. Estes clássicos estão sendo conhecidos e reconhecidos por uma nova geração de fãs através do musical que marca presença na Broadway há mais de oito anos e que tem corrido algumas das principais salas de espetáculo em todo o mundo.
+
+</info>
+</item>
+
 <item><title>Jexi: Um Celular Sem Filtro
-( 2019 )</title>
+</title>
 <link>https://video.wixstatic.com/video/16f3d4_a385baccbd7a4230a6ef459cc5a2c4d2/480p/mp4/file.mp4</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/lmsKVJbOuSFYzBazWm8djmiCcNg.jpg</thumbnail>
 <fanart>https://vitaminanerd.com.br/wp-content/uploads/2020/03/Jexi-Capa.png</fanart>
@@ -7,7 +23,7 @@
 </item>
 
 <item><title>Jogos Mortais
-( 2004 )</title>
+</title>
 <link>https://video.wixstatic.com/video/16f3d4_d7da793562044cddbea072596ece684b/720p/mp4/file.mp4</link>
 <thumbnail>https://media.fstatic.com/RqQMzPWnN_Ig_jFO6g44FMYe200=/290x478/smart/media/movies/covers/2018/08/Jogos_Mortais.jpg</thumbnail>
 <fanart>https://www.planocritico.com/wp-content/uploads/2015/07/Jogos-Mortais-1.jpg</fanart>
@@ -15,7 +31,7 @@
 </item>
 
 <item><title>Jogos Mortais 2
-( 2005 )</title>
+</title>
 <link>https://video.wixstatic.com/video/16f3d4_12e4a70f4f5f4aa691c34d5207b23e2e/720p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/kkQWU1hjgkqbWqFo6Vfu2V4Qm9f.jpg</thumbnail>
 <fanart>http://images4.wikia.nocookie.net/sawfilms/images/2/26/Sawiipic.jpg</fanart>
@@ -39,7 +55,7 @@ Lindy vive com uma condição rara: ela tem impulsos assassinos esporádicos. Co
 </item>
 
 <item><title>Jumanji
-( 1995 )</title>
+</title>
 <link>https://video.wixstatic.com/video/16f3d4_8346c9ad661c4573bd819c04fe1e0ee6/720p/mp4/file.mp4</link>
 <thumbnail>https://br.web.img3.acsta.net/medias/nmedia/18/96/54/75/20474449.jpg</thumbnail>
 <fanart>https://hqscomcafe.com.br/wp-content/uploads/2020/01/Jumanfi-frases-800x445.jpg</fanart>
