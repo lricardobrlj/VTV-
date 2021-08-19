@@ -94,10 +94,18 @@ Peter Parker está em uma viagem de duas semanas pela Europa, ao lado de seus am
 </info>
 </item>
 
-<item><title>Hospedagem Mortal
-</title>
+<item>
+<title> Hospedagem Mortal </title>
 <link>https://video.wixstatic.com/video/16f3d4_a1df233f737c40f18c384b605a498184/720p/mp4/file.mp4</link>
-<thumbnail>https://ottvsimg.ottvs.com.br/cov/acg.168247/0168247_335.jpg</thumbnail>
+<thumbnail>https://image.tmdb.org/t/p/w342/71utG6eQWDkvVm07d0m3afBpeeT.jpg</thumbnail>
 <fanart>https://i.ytimg.com/vi/1GAtnSAznVo/maxresdefault.jpg</fanart>
-<info>Joyce perde o marido e começa a ter dificuldades financeiras. Para ganhar dinheiro, decide transformar sua propriedade em um tipo de pensão. Ela conhece Bob, um rapaz muito mais novo que aluga um quarto em sua casa.</info>
+<info>
+
+[B] Lançamento: [/B] [COLOR hotpink][B] 2019 [/B][/COLOR]  
+[B] Gênero: [/B] [COLOR hotpink] Suspense, Terror [/COLOR] 
+[B] Duração:[/B] [COLOR hotpink] 81 min. [/COLOR] 
+
+Joyce(Lin Shaye) perde o marido e começa a ter dificuldades financeiras. Para ganhar dinheiro, decide transformar sua propriedade em um tipo de pensão. Ela conhece Bob, um rapaz muito mais novo que aluga um quarto em sua casa.
+
+</info>
 </item>
