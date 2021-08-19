@@ -78,12 +78,20 @@ Lindy vive com uma condição rara: ela tem impulsos assassinos esporádicos. Co
 </info>
 </item>
 
-<item><title>Jumanji
-</title>
+<item>
+<title> Jumanji </title>
 <link>https://video.wixstatic.com/video/16f3d4_8346c9ad661c4573bd819c04fe1e0ee6/720p/mp4/file.mp4</link>
-<thumbnail>https://br.web.img3.acsta.net/medias/nmedia/18/96/54/75/20474449.jpg</thumbnail>
+<thumbnail>https://image.tmdb.org/t/p/w342/vgpXmVaVyUL7GGiDeiK1mKEKzcX.jpg</thumbnail>
 <fanart>https://hqscomcafe.com.br/wp-content/uploads/2020/01/Jumanfi-frases-800x445.jpg</fanart>
-<info>Alan Parrish desapareceu quando era menino e ninguém acredita na história de seu amigo de que ele foi sugado por um jogo. Vinte e seis anos depois, duas crianças acham o jogo no sótão e, quando começam a jogar, Alan é libertado. Mas o jogo ainda não acabou e Alan precisa terminar antes de ser realmente libertado.</info>
+<info>
+
+[B] Lançamento: [/B] [COLOR hotpink][B] 1995 [/B][/COLOR]  
+[B] Gênero: [/B] [COLOR hotpink] Aventura, Fantasia, Família [/COLOR] 
+[B] Duração:[/B] [COLOR hotpink] 100 min. [/COLOR] 
+
+Quando duas crianças encontram e jogam um jogo de tabuleiro mágico, elas soltam um homem preso por décadas – e uma série de perigos que só podem ser detidos ao terminar o jogo.
+
+</info>
 </item>
 
 <item>
