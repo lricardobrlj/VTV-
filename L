@@ -118,10 +118,18 @@ Um menino vive um verão inesquecível à beira-mar na Riviera Italiana repleto 
 </info>
 </item>
 
-<item><title>Lukas
-</title>
+<item>
+<title> Lukas </title>
 <link>https://video.wixstatic.com/video/16f3d4_1375b3a741af489db97c9e128a39db27/480p/mp4/file.mp4</link>
-<thumbnail>https://br.web.img3.acsta.net/pictures/18/07/02/09/55/5510870.jpg</thumbnail>
-<fanart>https://i1.wp.com/imagens.formigaeletrica.com.br/2019/01/lukas-imagem.jpg?fit=720%2C400&ssl=1</fanart>
-<info>Para não perder a custódia de sua filha de oito anos, um segurança de boate é obrigado a colaborar com a polícia. Ele precisa se infiltrar em uma organização holandesa especializada em falsificar dinheiro.</info>
+<thumbnail>https://image.tmdb.org/t/p/w342/xI3aKbmVVQcnTpze5f9gIb5jZZx.jpg</thumbnail>
+<fanart>http://www.c7nema.net/galeria/albums/userpics/10001/Van-Damme-The-Bouncer.jpg</fanart>
+<info>
+
+[B] Lançamento: [/B] [COLOR hotpink][B] 2018 [/B][/COLOR]  
+[B] Gênero: [/B] [COLOR hotpink] Ação, Drama, Suspense [/COLOR] 
+[B] Duração:[/B] [COLOR hotpink] 84 min. [/COLOR] 
+
+A trama segue Lukas (Van Damme), um segurança de boate em seus 50 anos e que luta para criar sua filha de 8 anos. Um dia, depois de uma briga ele acaba na prisão, e sua filha é colocada sob os cuidados dos serviços sociais. Mas as coisas mudam quando a Interpol recruta Lukas para derrubar um líder holandês que opera da Bélgica em troca da custódia de sua filha.
+
+</info>
 </item>
