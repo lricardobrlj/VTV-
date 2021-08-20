@@ -191,6 +191,22 @@ Desde que se conheceram, em “Velozes & Furiosos 7”, Luke Hobbs (Dwayne Johns
 </item>
 
 <item>
+<title> Vem Brincar </title>
+<link>https://video.wixstatic.com/video/16f3d4_6b34afde72d7441ca15654c1d4f0322c/720p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/e98dJUitAoKLwmzjQ0Yxp1VQrnU.jpg</thumbnail>
+<fanart>https://bocadoinferno.com.br/wp-content/uploads/2020/11/Vem-Brincar-2020-1.jpg</fanart>
+<info>
+
+[B] Lançamento: [/B] [COLOR hotpink][B] 2020 [/B][/COLOR]  
+[B] Gênero: [/B] [COLOR hotpink] Terror, Suspense [/COLOR] 
+[B] Duração:[/B] [COLOR hotpink] 96 min. [/COLOR] 
+
+Oliver é um garoto autista. Desesperado por amigos, encontra um refúgio no seu celular e tablet. Quando uma misteriosa criatura se manifesta usando seus aparelhos, os pais precisam fazer tudo para salvar seu filho dessa ameaça.
+
+</info>
+</item>
+
+<item>
 <title> Vingadores Guerra Infinita </title>
 <link>https://video.wixstatic.com/video/16f3d4_ac7d99ccfdb34998908be5e3bc505cd2/720p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/89QTZmn34iwXYeCpVxhC9UrT8sX.jpg</thumbnail>
