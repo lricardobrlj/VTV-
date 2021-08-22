@@ -79,6 +79,22 @@ Vinte e sete anos depois dos eventos que chocaram os adolescentes que faziam par
 </item>
 
 <item>
+<title> Interestelar </title>
+<link>https://video.wixstatic.com/video/16f3d4_f0ff8954b1734f55ad5aeb34d72a811a/1080p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/nCbkOyOMTEwlEV0LtCOvCnwEONA.jpg</thumbnail>
+<fanart>https://www.planocritico.com/wp-content/uploads/2020/09/17-Interestelar_2014.jpg</fanart>
+<info>
+
+[B] Lançamento: [/B] [COLOR hotpink][B] 2014 [/B][/COLOR]  
+[B] Gênero: [/B] [COLOR hotpink] Aventura, Drama, Ficção Científica [/COLOR] 
+[B] Duração:[/B] [COLOR hotpink] 169 min. [/COLOR] 
+
+As reservas naturais da Terra estão chegando ao fim e um grupo de astronautas recebe a missão de verificar possíveis planetas para receberem a população mundial, possibilitando a continuação da espécie. Cooper é chamado para liderar o grupo e aceita a missão sabendo que pode nunca mais ver os filhos. Ao lado de Brand, Jenkins e Doyle, ele seguirá em busca de um novo lar.
+
+</info>
+</item>
+
+<item>
 <title> Invocação do Mal 3 A Ordem do Demônio </title>
 <link>https://video.wixstatic.com/video/16f3d4_d3ebecd8299e43a68f04c5ae82a02a28/720p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/tLmaOXT9rMb17ISQDURKQIu3Okk.jpg</thumbnail>
