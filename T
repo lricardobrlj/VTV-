@@ -84,6 +84,22 @@ Clara e Fernanda são irmãs gêmeas, idênticas e muito unidas, porém em decor
 <info>Barry Allen é um cientista que trabalha na polícia e quando ganha super-poderes, precisa da ajuda de Cristina McGee para se adaptar aos seus novos dons. Além disso tudo, tem que enfrentar uma gangue de motoqueiros que vem infernizando a cidade.</info>
 </item>
 
+<item>
+<title> Titanic </title>
+<link>https://video.wixstatic.com/video/16f3d4_5b030d2b465b4b7682d39b3e564881fd/1080p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg</thumbnail>
+<fanart>https://entreterse.com.br/wp-content/uploads/2019/04/Titanic.jpg</fanart>
+<info>
+
+[B] Lançamento: [/B] [COLOR hotpink][B] 1997 [/B][/COLOR]  
+[B] Gênero: [/B] [COLOR hotpink] Drama, Romance [/COLOR] 
+[B] Duração:[/B] [COLOR hotpink] 194 min. [/COLOR] 
+
+Um artista pobre e uma jovem rica se conhecem e se apaixonam na fatídica jornada do Titanic, em 1912. Embora esteja noiva do arrogante herdeiro de uma siderúrgica, a jovem desafia sua família e amigos em busca do verdadeiro amor.
+
+</info>
+</item>
+
 <item><title>Todo Mundo em Pânico 3
 </title>
 <link>https://video.wixstatic.com/video/16f3d4_a3c8b05243704cd9adfada6a76240f50/720p/mp4/file.mp4</link>
