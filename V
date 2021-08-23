@@ -207,6 +207,22 @@ Oliver é um garoto autista. Desesperado por amigos, encontra um refúgio no seu
 </item>
 
 <item>
+<title> Vilões </title>
+<link>https://video.wixstatic.com/video/16f3d4_0a062cb1cec0473f8695cac2c9362094/720p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/nFDevg9HeRftVxGGkvriABJO2VF.jpg</thumbnail>
+<fanart>https://cinemacomrapadura.com.br/imagens/2020/02/20200306-viloes-critica.jpg</fanart>
+<info>
+
+[B] Lançamento: [/B] [COLOR hotpink][B] 2019 [/B][/COLOR]  
+[B] Gênero: [/B] [COLOR hotpink]  Comédia, Terror, Drama [/COLOR] 
+[B] Duração:[/B] [COLOR hotpink] 90 min. [/COLOR] 
+
+Mickey e Jules são amantes em fuga, rumo ao sul para um novo começo no Sunshine State. Quando seu carro morre após um assalto a um posto de gasolina, eles invadem uma casa próxima em busca de um novo par de rodas. O que eles descobrem, em vez disso, é um segredo obscuro e um par de proprietários que farão de tudo para impedir que ele se espalhe.
+
+</info>
+</item>
+
+<item>
 <title> Vingadores Guerra Infinita </title>
 <link>https://video.wixstatic.com/video/16f3d4_ac7d99ccfdb34998908be5e3bc505cd2/720p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/89QTZmn34iwXYeCpVxhC9UrT8sX.jpg</thumbnail>
