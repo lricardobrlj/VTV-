@@ -31,8 +31,24 @@ Ao longo de uma noite, uma repórter e seu cameraman acompanham um grupo de bomb
 </item>
 
 <item>
+<title> [REC]² Possuídos </title>
+<link>https://video.wixstatic.com/video/16f3d4_d59568471ab241bdaef216c3e304d307/1080p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/83A9LTmRsqmWEfhquZ3cAGoxATp.jpg</thumbnail>
+<fanart>https://www.justwatch.com/images/backdrop/91830286/s640/rec-2-possuidos</fanart>
+<info>
+
+[B] Lançamento: [/B] [COLOR hotpink][B] 2009 [/B][/COLOR]  
+[B] Gênero: [/B] [COLOR hotpink] Suspense, Terror [/COLOR] 
+[B] Duração:[/B] [COLOR hotpink] 84 min. [/COLOR] 
+
+Há 15 minutos a polícia não tem qualquer contato com as pessoas que estão presas dentro de um edifício em quarentena. Ninguém sabe o que aconteceu lá dentro. Neste momento, Dr. Owen e uma unidade da SWAT resolvem entrar no prédio para descobrir qual é a situação do local e desenvolver um antídoto através da coleta de sangue da jovem Medeiros.
+
+</info>
+</item>
+
+<item>
 <title>Rédeas da Redenção
-( 2019 )</title>
+</title>
 <link>https://video.wixstatic.com/video/16f3d4_f87a3b5c0a3d47bfb2a029a2a4c5b729/720p/mp4/file.mp4</link>
 <thumbnail>https://br.web.img3.acsta.net/pictures/20/05/11/20/56/1632281.jpg</thumbnail>
 <fanart>https://cenasdecinema.com/wp-content/uploads/2020/07/Redeas-do-destino_destaque1.jpg</fanart>
@@ -41,7 +57,7 @@ Ao longo de uma noite, uma repórter e seu cameraman acompanham um grupo de bomb
 
 <item>
 <title>Rei dos Ladrões
-( 2018 )</title>
+</title>
 <link>https://video.wixstatic.com/video/16f3d4_132b1efbfe3e44dbba7abb81da41fa9d/480p/mp4/file.mp4</link>
 <thumbnail>https://static.wikia.nocookie.net/dublagempedia/images/c/ca/Ladroes.jpg/revision/latest?cb=20201111170210&path-prefix=pt-br</thumbnail>
 <fanart>https://cdn-images.rtp.pt/EPG/imagens/40250_60954_28325.png?amp;w=270</fanart>
@@ -50,7 +66,7 @@ Ao longo de uma noite, uma repórter e seu cameraman acompanham um grupo de bomb
 
 <item>
 <title>Resgate no Oeste
-( 2016 )</title>
+</title>
 <link>https://video.wixstatic.com/video/16f3d4_34a479fa73a7449a97b429873edc9b89/720p/mp4/file.mp4</link>
 <thumbnail>https://media.fstatic.com/7213QXQPV4lN_TYyzPYDF3cdT1s=/290x478/smart/media/movies/covers/2016/04/traded_t195329.jpg</thumbnail>
 <fanart>https://a2filmesblog.files.wordpress.com/2019/01/maxresdefault-e1547114668350.jpg?w=1200&h=675&crop=1</fanart>
@@ -59,7 +75,7 @@ Ao longo de uma noite, uma repórter e seu cameraman acompanham um grupo de bomb
 
 <item>
 <title>Resident Evil: A Vingança
-( 2017 )</title>
+</title>
 <link>https://video.wixstatic.com/video/16f3d4_c1d3ebc6ebbd4305b76de6ff276bd641/720p/mp4/file.mp4</link>
 <thumbnail>https://i.imgur.com/XYPJ1zT.jpg</thumbnail>
 <fanart>https://www.aumanack.etc.br/wp-content/uploads/2017/06/15155618702207-t1200x480.jpg</fanart>
@@ -84,7 +100,7 @@ Conheça Alice, uma jovem com deficiência auditiva que, após uma suposta visit
 
 <item>
 <title>Rua do Medo: 1994 - Parte 1
-( 2021 )</title>
+</title>
 <link>https://video.wixstatic.com/video/16f3d4_8727c9daec4d47b7b0ccc99ac1b57a50/1080p/mp4/file.mp4</link>
 <thumbnail>https://br.web.img3.acsta.net/pictures/21/06/28/15/53/0645594.jpg</thumbnail>
 <fanart>https://entreterse.com.br/wp-content/uploads/2021/07/Rua-do-Medo-1994-%E2%80%93-Parte-1.jpg</fanart>
@@ -93,11 +109,27 @@ Conheça Alice, uma jovem com deficiência auditiva que, após uma suposta visit
 
 <item>
 <title>Rua do Medo: 1978 - Parte 2
-( 2021 )</title>
+</title>
 <link>https://video.wixstatic.com/video/16f3d4_23f1096a34ab40a8ae9bc8d13dea4a20/720p/mp4/file.mp4</link>
 <thumbnail>https://i1.wp.com/trilhadomedo.com/wp-content/uploads/2021/07/rua-do-medo-1978.jpg?fit=426%2C597&ssl=1</thumbnail>
 <fanart>https://cinepop.com.br/wp-content/uploads/2021/07/rua-do-medo-1978-1.jpg</fanart>
 <info>Stine e acompanha um grupo de adolescentes que descobrem eventos aterrorizantes sobre sua cidade, onde há gerações acontecem assassinatos brutais. Todos essas mortes parecem estar conectadas e eles podem ser as próximas vítimas. O segundo longa se passa em um acampamento onde jovens das cidades de Shadyside e Sunnyvale se encontram e descobrem que as duas cidades estão unidas por esse mistério.</info>
+</item>
+
+item>
+<title>Rua do Medo: 1666 - Parte 3</title>
+<link>https://video.wixstatic.com/video/16f3d4_663132ab77794ca3913664eb07b628e8/720p/mp4/file.mp4</link>
+<thumbnail>https://i2.wp.com/trilhadomedo.com/wp-content/uploads/2021/06/Rua-do-Medo-1666-%E2%80%93-Parte-3.jpg?resize=426%2C597&ssl=1</thumbnail>
+<fanart>https://bolavip.com/__export/1626270538759/sites/bolavip/img/2021/07/14/rua-do-medo-1666.jpg_1902800913.jpg</fanart>
+<info>
+
+[B] Lançamento: [/B] [COLOR hotpink][B] 2021 [/B][/COLOR]  
+[B] Gênero: [/B] [COLOR hotpink] Suspense, Drama, Terror, Fantasia [/COLOR] 
+[B] Duração:[/B] [COLOR hotpink] 114 min. [/COLOR] 
+
+De volta a 1666, Deena descobre a verdade sobre Sarah Fier. Em 1994, os amigos lutam para sobreviver e pelo futuro de Shadyside.
+
+</info>
 </item>
 
 <item>
