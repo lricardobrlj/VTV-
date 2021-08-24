@@ -1,5 +1,5 @@
 <item><title>Paciente Zero
-( 2018 )</title>
+</title>
 <link>https://video.wixstatic.com/video/16f3d4_ad7a901e399b4c4291cf77676fe42395/720p/mp4/file.mp4</link>
 <thumbnail>https://br.web.img3.acsta.net/pictures/18/07/23/12/46/5346134.jpg</thumbnail>
 <fanart>https://i2.wp.com/www.ahoradomedo.com.br/wp-content/uploads/2018/07/patient_zero_078_9b_still_20151204_grd01_r709_legal.1001_r.jpg?fit=4200%2C2215&ssl=1</fanart>
@@ -7,7 +7,7 @@
 </item>
 
 <item><title>Pais Muito Loucos
-( 2020 )</title>
+</title>
 <link>https://video.wixstatic.com/video/16f3d4_73653aa9eeac430d83637d452d06de42/720p/mp4/file.mp4</link>
 <thumbnail>https://media.fstatic.com/RaaY-84zuqx_KoDB5n557UbaqpU=/290x478/smart/media/movies/covers/2020/01/6000x4000bb_uuenk2C.jpg</thumbnail>
 <fanart>https://ottvsimg.ottvs.com.br/ban/uni.135518/looke_1010_670.jpg</fanart>
@@ -15,7 +15,7 @@
 </item>
 
 <item><title>Paixão Real
-( 2018 )</title>
+</title>
 <link>https://video.wixstatic.com/video/16f3d4_89afcfd45ecd44229a8837e3e8541fb4/720p/mp4/file.mp4</link>
 <thumbnail>https://br.web.img2.acsta.net/pictures/18/10/17/19/54/4491168.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/hY4pg0j6YtP2jrSaGu5ZTLwmO5E.jpg</fanart>
@@ -38,8 +38,24 @@
 </info>
 </item>
 
+<item>
+<title> Pantera Negra  </title>
+<link>https://video.wixstatic.com/video/16f3d4_af7939fbdb794744a41f282c412de4a1/720p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/2yQUnpc1BXgesJrfcdoRa6jTAnA.jpg</thumbnail>
+<fanart>https://www.comboinfinito.com.br/principal/wp-content/uploads/2019/08/pantera-negra.jpg</fanart>
+<info>
+
+[B] Lançamento: [/B] [COLOR hotpink][B] 2018 [/B][/COLOR]  
+[B] Gênero: [/B] [COLOR hotpink]  Ação, Aventura, Fantasia, Ficção Científica [/COLOR] 
+[B] Duração:[/B] [COLOR hotpink] 134 min. [/COLOR] 
+
+O príncipe T’Challa retorna a Wakanda para ser coroado rei. Assumindo o manto de Pantera Negra, ele vai à caça de um vilão que roubou um precioso metal de seu país.
+
+</info>
+</item>
+
 <item><title>Pássaro do Oriente
-( 2019 )</title>
+</title>
 <link>https://video.wixstatic.com/video/16f3d4_0949b0e29af04363b589dc8fc41371b2/720p/mp4/file.mp4</link>
 <thumbnail>https://viureview.com.br/images/filmes4/Passaro-do-oriente.jpg</thumbnail>
 <fanart>https://i.ytimg.com/vi/VqNmZyNgKJg/maxresdefault.jpg</fanart>
@@ -47,7 +63,7 @@
 </item>
 
 <item><title>PéPequeno
-( 2018 )</title>
+</title>
 <link>https://video.wixstatic.com/video/16f3d4_73cc7a4f599a408aad3ae18fe6312d37/480p/mp4/file.mp4</link>
 <thumbnail>https://pipocamoderna.com.br/wp-content/uploads/2018/04/pepequeno.jpg</thumbnail>
 <fanart>https://clube-static.clubegazetadopovo.com.br/portal/wp-content/uploads/2020/04/materiasrepositorio-1538071807.jpeg</fanart>
@@ -102,7 +118,7 @@ O pirata Jack Sparrow tem seu navio saqueado e roubado pelo capitão Barbossa e 
 </item>
 
 <item><title>Poderes Extraordinários
-( 2018 )</title>
+</title>
 <link>https://video.wixstatic.com/video/16f3d4_dc703b62cae4497c8afcbb869f515660/720p/mp4/file.mp4</link>
 <thumbnail>https://media.fstatic.com/viSw32G6WDnD5-fvmWSHK2oDL6c=/290x478/smart/media/movies/covers/2020/01/value_pxpKK6u.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w1280/xHftIYll65N6Ho0IjH7q1O2OYw8.jpg</fanart>
@@ -181,7 +197,7 @@ Sam (Nicholas D’Agosto) tem um estranho pressentimento que as pessoas com quem
 </item>
 
 <item><title>Primos
-( 2019 )</title>
+</title>
 <link>https://video.wixstatic.com/video/16f3d4_d74a1c0ffc8149a68bc4a35146391316/720p/mp4/file.mp4</link>
 <thumbnail>https://www.filmelgbt.com/wp-content/uploads/2020/06/QcodabOq0uG0anrzPjlqwusr5Q.jpg</thumbnail>
 <fanart>https://www.filmelgbt.com/wp-content/uploads/2020/06/Primos-2019-1.jpg</fanart>
@@ -189,7 +205,7 @@ Sam (Nicholas D’Agosto) tem um estranho pressentimento que as pessoas com quem
 </item>
 
 <item><title>Procurando Nemo
-( 2003 )</title>
+</title>
 <link>https://video.wixstatic.com/video/16f3d4_b1d953653ce14bf59c60155e9ffaf668/720p/mp4/file.mp4</link>
 <thumbnail>https://i.imgur.com/2dbPDSN.jpg</thumbnail>
 <fanart>https://studiosol-a.akamaihd.net/uploadfile/letras/playlists/4/d/2/0/4d20accd9fca426db85def8267fdabc0.jpg</fanart>
@@ -197,7 +213,7 @@ Sam (Nicholas D’Agosto) tem um estranho pressentimento que as pessoas com quem
 </item>
 
 <item><title>Próxima Fase: Fugindo de Rancala
-( 2019 )</title>
+</title>
 <link>https://video.wixstatic.com/video/16f3d4_1c20a23f8e144dc6a354c5fa8122d31f/720p/mp4/file.mp4</link>
 <thumbnail>https://media.fstatic.com/pPRkmmvTOoudLQ6i6-AE1o5Od7s=/290x478/smart/media/movies/covers/2020/01/p17695687_v_v8_ab.jpg</thumbnail>
 <fanart>https://i.imgur.com/24mVi1w.jpg</fanart>
