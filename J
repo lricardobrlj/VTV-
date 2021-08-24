@@ -63,6 +63,22 @@ O detetive Eric Matthews consegue prender Jigsaw, o qual está morrendo. O que e
 </item>
 
 <item>
+<title> John Wick 2 – Um Novo Dia para Matar </title>
+<link>https://video.wixstatic.com/video/16f3d4_6ffba3505b854ab6a66260667eb029cc/720p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/k36UzsRQaY6E055cdYPdYbyREer.jpg</thumbnail>
+<fanart>https://cdn.tlc-massive.com/shain/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=85&ImageId=%27208236.jpg%27&ImageUrl=%27208236.jpg%27&EntityType=%27Item%27&EntityId=%2718117%27&Width=1920&Height=1080&device=web_browser&subscriptions=Anonymous</fanart>
+<info>
+
+[B] Lançamento: [/B] [COLOR hotpink][B] 2017 [/B][/COLOR]  
+[B] Gênero: [/B] [COLOR hotpink]  Suspense, Ação, Crime [/COLOR] 
+[B] Duração:[/B] [COLOR hotpink] 122 min. [/COLOR] 
+
+Por causa de uma promessa antiga, John Wick viaja para Roma com o objetivo de ajudar um velho amigo a derrubar uma organização secreta, perigosa e mortal de assassinos procurados em todo o mundo
+
+</info>
+</item>
+
+<item>
 <title>Jolt Fúria Fatal</title>
 <link>https://video.wixstatic.com/video/16f3d4_a95804a4e1224d6788fe83e2e2e6fdeb/720p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/gYZAHan5CHPFXORpQMvOjCTug4E.jpg</thumbnail>
