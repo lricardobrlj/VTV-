@@ -95,6 +95,22 @@ O detetive Eric Matthews consegue prender Jigsaw, o qual está morrendo. O que e
 </item>
 
 <item>
+<title> John Wick: De Volta ao Jogo  </title>
+<link>https://video.wixstatic.com/video/16f3d4_07022a5f6bc14a5497ea58d88f5b385a/720p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/rboZslo3eQWKBQ3QvlO6wGV0J3K.jpg</thumbnail>
+<fanart>https://4.bp.blogspot.com/-pPzNDA499Ms/W2ukCIAYbGI/AAAAAAAABbA/HuqFnJavc7I2YQfVnBkE6OE_2SRvX6WDgCLcBGAs/s1600/De%2BVolta%2Bao%2BJogo.jpg</fanart>
+<info>
+
+[B] Lançamento: [/B] [COLOR hotpink][B] 2014 [/B][/COLOR]  
+[B] Gênero: [/B] [COLOR hotpink] Ação, Suspense [/COLOR] 
+[B] Duração:[/B] [COLOR hotpink] 101 min. [/COLOR] 
+
+John Wick é um lendário assassino de aluguel aposentado, lidando com o luto após perder o grande amor de sua vida. Quando um gângster invade sua casa, mata seu cachorro e rouba seu carro, ele é forçado a voltar à ativa e inicia sua vingança.
+
+</info>
+</item>
+
+<item>
 <title> John Wick 2 – Um Novo Dia para Matar </title>
 <link>https://video.wixstatic.com/video/16f3d4_6ffba3505b854ab6a66260667eb029cc/720p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/k36UzsRQaY6E055cdYPdYbyREer.jpg</thumbnail>
