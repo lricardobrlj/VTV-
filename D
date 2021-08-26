@@ -63,6 +63,22 @@ Tanjiro Kamado, junto com Inosuke Hashibira, um garoto criado por javalis que us
 </item>
 
 <item>
+<title> Desafiando Gigantes  </title>
+<link>https://video.wixstatic.com/video/16f3d4_31fe1a7c243045d690c61e81a32d4634/720p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/sb59Xr3ckkUH7r6EtCZC9EBV5JB.jpg</thumbnail>
+<fanart>https://boanoticia.org.br/wp-content/uploads/2021/02/2006_facing_the_giants_002-1024x576-2.jpg</fanart>
+<info>
+
+[B] Lançamento: [/B] [COLOR hotpink][B] 2006 [/B][/COLOR]  
+[B] Gênero: [/B] [COLOR hotpink] Drama [/COLOR] 
+[B] Duração:[/B] [COLOR hotpink] 111 min. [/COLOR] 
+
+Técnico do Shiloh Eagles há seis anos, Grant Taylor (Alex Kendrick) nunca conseguiu levar sua equipe ao título da temporada. Além do mau desempenho no trabalho, Grant deve enfrentar outros problemas graves em casa e seu estado psicológico e moral nunca esteve tão abatido. Quando tudo parece estar prestes a ir por água abaixo, uma intervenção misteriosa muda o seu destino.
+
+</info>
+</item>
+
+<item>
 <title> Descobrindo a Vida </title>
 <link>https://video.wixstatic.com/video/16f3d4_a8ff8dcc36a443c4ac1949aca38ce51e/480p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/zO7RaaBEgMtVOUAI5TpcWKn4fEi.jpg</thumbnail>
