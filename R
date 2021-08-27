@@ -15,6 +15,22 @@ Rango (Johnny Depp) é um camaleão da cidade grande que vai parar, após um aci
 </item>
 
 <item>
+<title> Rampage Destruição Total  </title>
+<link>https://video.wixstatic.com/video/16f3d4_ffb2e519bec84674956e83fc107c082a/720p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/yeRW8JhHqQznEdOUe97dLWnyeEq.jpg</thumbnail>
+<fanart>https://i2.wp.com/www.portaldonerd.com.br/wp-content/uploads/2018/04/rampageintposters-imagem01.jpg</fanart>
+<info>
+
+[B] Lançamento: [/B] [COLOR hotpink][B] 2018 [/B][/COLOR]  
+[B] Gênero: [/B] [COLOR hotpink] Ação [/COLOR] 
+[B] Duração:[/B] [COLOR hotpink] 107 min. [/COLOR] 
+
+Davis Okoye é um primatologista, um homem recluso que compartilha um vínculo inabalável com George, um gorila muito inteligente que está sob seus cuidados desde o nascimento. Quando um experimento genético desonesto é feito em um grupo de predadores que inclui o primata, os animais se transformam em monstros que destroem tudo em seu caminho. Agora, Okoye precisa conseguir um antídoto e impedir que seu amigo provoque uma catástrofe global.
+
+</info>
+</item>
+
+<item>
 <title> Raya e o Último Dragão </title>
 <link>https://video.wixstatic.com/video/16f3d4_42ae454336844807861c15f32695c168/720p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/yXrb84zJidCefyhTWHwo4yCDvwz.jpg</thumbnail>
