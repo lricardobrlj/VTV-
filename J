@@ -237,3 +237,19 @@ Quatro anos após o fechamento do Jurassic World, um vulcão prestes a entrar em
 
 </info>
 </item>
+
+<item>
+<title> Justiça em Família  </title>
+<link>https://video.wixstatic.com/video/16f3d4_9af5768d2df7435c9190585a9698dd3e/720p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/wrwhbYVJK3O85tRLrkVjCXZniIJ.jpg</thumbnail>
+<fanart>https://observatoriodocinema.uol.com.br/wp-content/uploads/2021/07/justica-em-familia-divulgacao.jpg</fanart>
+<info>
+
+[B] Lançamento: [/B] [COLOR hotpink][B] 2021 [/B][/COLOR]  
+[B] Gênero: [/B] [COLOR hotpink] Ação, Suspense, Drama [/COLOR] 
+[B] Duração:[/B] [COLOR hotpink] 110 min. [/COLOR] 
+
+Ele perdeu o amor de sua vida por causa da ganância da indústria farmacêutica. Agora, sua filha está órfã e a justiça não chega. Por enquanto.
+
+</info>
+</item>
