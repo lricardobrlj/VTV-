@@ -64,6 +64,22 @@ Steve Rogers é um jovem que participa de experiências visando a criação do s
 </item>
 
 <item>
+<title> Capitão América: Guerra Civil </title>
+<link>https://video.wixstatic.com/video/16f3d4_b76e79da4ab644008517f57e5b21757c/720p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/lS5XvvUcJy5rJcbmBeX1GPoMnWJ.jpg</thumbnail>
+<fanart>https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/cropped-Guerra-Civil-1.jpg</fanart>
+<info>
+
+[B] Lançamento: [/B] [COLOR hotpink][B] 2016 [/B][/COLOR]  
+[B] Gênero: [/B] [COLOR hotpink]  Aventura, Ação, Ficção Científica [/COLOR] 
+[B] Duração:[/B] [COLOR hotpink]  137 min. [/COLOR] 
+
+O ataque de Ultron fez com que os políticos buscassem algum meio de controlar os super-heróis, já que seus atos afetam toda a humanidade. Tal decisão coloca o Capitão América em rota de colisão com Tony Stark, o Homem de Ferro.
+
+</info>
+</item>
+
+<item>
 <title>Céu Vermelho-Sangue</title>
 <link>https://video.wixstatic.com/video/16f3d4_d139cc0679fe4c9cb809cf72f4602b8c/1080p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/ky8Fua6PD7FyyOA7JACh3GDETli.jpg</thumbnail>
