@@ -132,6 +132,22 @@ Um artista pobre e uma jovem rica se conhecem e se apaixonam na fatídica jornad
 </info>
 </item>
 
+<item>
+<title> Todo Mundo em Pânico </title>
+<link>https://video.wixstatic.com/video/16f3d4_7138bdef1f2d48ee8f9db1203da110d3/1080p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/p1Z8hvlqgrIRD9GIZvWTo3z0nDl.jpg</thumbnail>
+<fanart>https://cdn.tlc-massive.com/shain/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=85&ImageId=%27168338.jpg%27&ImageUrl=%27168338.jpg%27&EntityType=%27Item%27&EntityId=%276105%27&Width=1920&Height=1080&device=web_browser&subscriptions=Anonymous</fanart>
+<info>
+
+[B] Lançamento: [/B] [COLOR hotpink][B] 2000 [/B][/COLOR]  
+[B] Gênero: [/B] [COLOR hotpink]  Comédia [/COLOR] 
+[B] Duração:[/B] [COLOR hotpink]  88 min. [/COLOR] 
+
+Depois do assassinato de uma bela colega de classe, um grupo de adolescentes desorientados descobre que há um assassino entre eles. A heroína Cindy Campbell e a sua turma de amigos tentam se proteger do perigo, mas Gail Hailstorm, uma repórter irritante, simplesmente não os deixa em paz.
+
+</info>
+</item>
+
 <item><title>Todo Mundo em Pânico 3
 </title>
 <link>https://video.wixstatic.com/video/16f3d4_a3c8b05243704cd9adfada6a76240f50/720p/mp4/file.mp4</link>
