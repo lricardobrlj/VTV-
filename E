@@ -47,6 +47,22 @@ Um filme sombrio de super-heróis de inspiração urbana, detalhando as façanha
 </item>
 
 <item>
+<title> Eu os Declaro Marido e… Larry </title>
+<link>https://video.wixstatic.com/video/16f3d4_a67159dd08fe4e9097f6e148d7435b69/1080p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/ejOubGftk2MPrUoYoQ18dsSkae4.jpg</thumbnail>
+<fanart>https://acessocultural.com.br/wp-content/uploads/2020/08/filme-eu-os-declaro-marido-e-larry.jpg</fanart>
+<info>
+
+[B] Lançamento: [/B] [COLOR hotpink][B] 2007 [/B][/COLOR]  
+[B] Gênero: [/B] [COLOR hotpink]  Comédia, Romance [/COLOR] 
+[B] Duração:[/B] [COLOR hotpink]  115 min. [/COLOR] 
+
+Chuck Levine (Adam Sandler) e Larry Valentine (Kevin James) são o orgulho do Corpo de Bombeiros do Brooklyn, sendo também muito amigos e dispostos a ajudar um ao outro. Chuck é agradecido a Larry por ter salvo sua vida no trabalho e só pensa em curtir a vida. Já Larry é preocupado com o futuro e, devido a problemas burocráticos, não consegue colocar seus dois filhos como beneficiários de seu seguro de vida. Devido a isso Larry pede a Chuck que seja seu parceiro em alguns formulários, sendo que ninguém mais saberá disto. Entretanto uma burocrata zeloso desconfia do casal, o que faz com que eles tenham que se revelar para a cidade e improvisar como um apaixonado casal, que vive sob o mesmo teto.
+
+</info>
+</item>
+
+<item>
 <title>Em um Bairro de Nova York</title>
 <link>https://video.wixstatic.com/video/16f3d4_e664fa5f5d664977bb8915a25144d276/720p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/57stjvmmKTEsscXfWmFHsFoISq5.jpg</thumbnail>
