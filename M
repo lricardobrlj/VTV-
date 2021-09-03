@@ -238,6 +238,22 @@ João Guilherme Estrella (Selton Mello) nasceu em uma família de classe média 
 </info>
 </item>
 
+<item>
+<title> Miraculous World – Xangai, a Lenda de Lady Dragon </title>
+<link>https://video.wixstatic.com/video/16f3d4_585435ca02a644d18c5ddb6b6728e1aa/1080p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/t7cPk3hTF3X8IMZr0hPAG0cVLTI.jpg</thumbnail>
+<fanart>https://i1.wp.com/anmtv.com.br/wp-content/uploads/as-aventuras-de-ladybug-gloob-1.jpg?resize=800%2C400&ssl=1</fanart>
+<info>
+
+[B] Lançamento: [/B] [COLOR hotpink][B] 2021 [/B][/COLOR]  
+[B] Gênero: [/B] [COLOR hotpink]  Animação, Comédia, Família, Aventura [/COLOR] 
+[B] Duração:[/B] [COLOR hotpink]  56 min. [/COLOR] 
+
+ Logo que chega a Xangai para visitar um tio, Ladybug tem a bolsa roubada com Tikki dentro. Na tentativa de recuperá-lo, ela descobre que Gabriel Agreste também está na cidade em busca de um poderoso artefato.
+
+</info>
+</item>
+
 <item><title>Miss Bala
 </title>
 <link>https://video.wixstatic.com/video/16f3d4_d7124a6edce946ba9052f3967e278375/480p/mp4/file.mp4</link>
