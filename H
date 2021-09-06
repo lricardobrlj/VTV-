@@ -271,6 +271,22 @@ Peter Parker está em uma viagem de duas semanas pela Europa, ao lado de seus am
 </item>
 
 <item>
+<title> Homem de Ferro </title>
+<link>https://video.wixstatic.com/video/16f3d4_3b1a9e4705344977939193d695ac528f/720p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/imYhKyT1tjFX3QLgzwIDa7JZhxi.jpg</thumbnail>
+<fanart>https://entreterse.com.br/wp-content/uploads/2019/09/Homem-de-Ferro-2008-r.jpg</fanart>
+<info>
+
+[B] Lançamento: [/B] [COLOR hotpink][B] 2008 [/B][/COLOR]  
+[B] Gênero: [/B] [COLOR hotpink]  Ação, Ficção Científica, Aventura [/COLOR] 
+[B] Duração:[/B] [COLOR hotpink]  126 min. [/COLOR] 
+
+Tony Stark (Robert Downey Jr.) é um industrial bilionário, que também é um brilhante inventor. Ao ser sequestrado ele é obrigado por terroristas a construir uma arma devastadora mas, ao invés disto, constrói uma armadura de alta tecnologia que permite que fuja de seu cativeiro. A partir de então ele passa a usá-la para combater o crime, sob o alter-ego do Homem de Ferro.
+
+</info>
+</item>
+
+<item>
 <title> Homem de Ferro 3 </title>
 <link>https://video.wixstatic.com/video/16f3d4_9994ebb6fab44d408bf04e28f629f3b8/720p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/C7MZwRTjvEy7gkWcLJeBGZFE1w.jpg</thumbnail>
