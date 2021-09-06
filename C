@@ -159,6 +159,38 @@ Cansados dos casamentos mornos, quatro amigos de infância decidem criar um club
 </item>
 
 <item>
+<title> Com a cor e a coragem 2 </title>
+<link>https://video.wixstatic.com/video/16f3d4_b44e246b843a4971b8cc39865581e39c/720p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/xq3gCQrMuQxGZwKlVLC4GtvGQxJ.jpg</thumbnail>
+<fanart>https://is3-ssl.mzstatic.com/image/thumb/Video123/v4/25/59/7d/25597d5e-1cc3-62b2-08ef-7f8766673e08/88664_MLSA_BR_UndercoverBrother2_3840x2160.lsr/1200x675.jpg</fanart>
+<info>
+
+[B] Lançamento: [/B] [COLOR hotpink][B] 2019 [/B][/COLOR]  
+[B] Gênero: [/B] [COLOR hotpink] Comédia, Ação [/COLOR] 
+[B] Duração:[/B] [COLOR hotpink] 85 min. [/COLOR] 
+
+Continuação do filme de 2002. Dezesseis anos depois de ficarem presos em uma avalanche, o irmão do herói disfarçado, Lionel, enfrenta uma ameaça para a comunidade negra e o mundo: a extrema lucidez.
+
+</info>
+</item>
+
+<item>
+<title> Com Amor, Simon </title>
+<link>https://video.wixstatic.com/video/16f3d4_ce5a9134793649c98e44c91c269f184e/720p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/qwGowTpFQTgCcByfoP2xzXVReGl.jpg</thumbnail>
+<fanart>https://www.tribernna.com/wp-content/uploads/2019/03/Header.png</fanart>
+<info>
+
+[B] Lançamento: [/B] [COLOR hotpink][B] 2018 [/B][/COLOR]  
+[B] Gênero: [/B] [COLOR hotpink]  Comédia, Drama, Romance [/COLOR] 
+[B] Duração:[/B] [COLOR hotpink]  110 min. [/COLOR] 
+
+Aos 17 anos, Simon Spier (Nick Robinson) aparentemente leva uma vida comum, mas sofre por esconder um grande segredo: nunca revelou ser gay para sua família e amigos. E tudo fica mais complicado quando ele se apaixona por um dos colegas de escola, anônimo, com quem troca confidências diariamente via internet.
+
+</info>
+</item>
+
+<item>
 <title> Como Eu Era Antes de Você </title>
 <link>https://video.wixstatic.com/video/16f3d4_bb35ecedbf5e4c3cbd525b60d20e11e7/480p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/3WMts1hmXf7pjqtw7IPtTCf1OYw.jpg</thumbnail>
@@ -201,22 +233,6 @@ Sem querer, Victor envia um e-mail comprometedor a seu chefe mala. Com a ajuda d
 [B] Duração:[/B] [COLOR hotpink] 101 min. [/COLOR] 
 
 Em um mundo onde humanos e super-heróis coexistem, um policial solitário e uma detetive brilhante se unem para acabar com um plano para roubar superpoderes.
-
-</info>
-</item>
-
-<item>
-<title> Com a cor e a coragem 2 </title>
-<link>https://video.wixstatic.com/video/16f3d4_b44e246b843a4971b8cc39865581e39c/720p/mp4/file.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/w342/xq3gCQrMuQxGZwKlVLC4GtvGQxJ.jpg</thumbnail>
-<fanart>https://is3-ssl.mzstatic.com/image/thumb/Video123/v4/25/59/7d/25597d5e-1cc3-62b2-08ef-7f8766673e08/88664_MLSA_BR_UndercoverBrother2_3840x2160.lsr/1200x675.jpg</fanart>
-<info>
-
-[B] Lançamento: [/B] [COLOR hotpink][B] 2019 [/B][/COLOR]  
-[B] Gênero: [/B] [COLOR hotpink] Comédia, Ação [/COLOR] 
-[B] Duração:[/B] [COLOR hotpink] 85 min. [/COLOR] 
-
-Continuação do filme de 2002. Dezesseis anos depois de ficarem presos em uma avalanche, o irmão do herói disfarçado, Lionel, enfrenta uma ameaça para a comunidade negra e o mundo: a extrema lucidez.
 
 </info>
 </item>
