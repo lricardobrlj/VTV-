@@ -127,6 +127,22 @@ As reservas naturais da Terra estão chegando ao fim e um grupo de astronautas r
 </item>
 
 <item>
+<title> Invocação do Mal </title>
+<link>https://video.wixstatic.com/video/16f3d4_7ed95a64805e497fa6bb8ccdff59f8cd/720p/mp4/file.mp4</link>
+<thumbnail>https://video.wixstatic.com/video/16f3d4_7ed95a64805e497fa6bb8ccdff59f8cd/720p/mp4/file.mp4</thumbnail>
+<fanart>hhttps://img.ibxk.com.br/2021/04/30/30085357399035.jpg</fanart>
+<info>
+
+[B] Lançamento: [/B] [COLOR hotpink][B] 2013 [/B][/COLOR]  
+[B] Gênero: [/B] [COLOR hotpink]  Terror, Suspense [/COLOR] 
+[B] Duração:[/B] [COLOR hotpink]  112 min. [/COLOR] 
+
+Harrisville, Rhode Island, Estados Unidos, 1968. Os investigadores paranormais Ed e Lorraine Warren trabalham para ajudar uma família aterrorizada por uma presença sombria em sua fazenda. Forçados a confrontar uma entidade poderosa, os Warrens se vêem presos no caso mais aterrorizante de suas vidas. Baseado numa história real.
+
+</info>
+</item>
+
+<item>
 <title> Invocação do Mal 2 </title>
 <link>https://video.wixstatic.com/video/16f3d4_d4adf0e6200443e58a0c040ffd1be3cd/720p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/16kR95yBmFlf3sveibocl7ND83V.jpg</thumbnail>
