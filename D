@@ -176,6 +176,22 @@ Em um mundo transformado, no qual as criaturas não dependiam mais da magia para
 </item>
 
 <item>
+<title> Dolittle </title>
+<link>https://video.wixstatic.com/video/16f3d4_7551df3825e8496e8a581014f9f88194/1080p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/tsa2NZ3QzR6zHg2e20yJfSOhUnS.jpg</thumbnail>
+<fanart>https://entreterse.com.br/wp-content/uploads/2020/02/dolittle-2020.jpg</fanart>
+<info>
+
+[B] Lançamento: [/B] [COLOR hotpink][B] 2020 [/B][/COLOR]  
+[B] Gênero: [/B] [COLOR hotpink]  Família, Fantasia, Aventura [/COLOR] 
+[B] Duração:[/B] [COLOR hotpink]  101 min. [/COLOR] 
+
+O Dr. Dolittle vive com uma variedade de animais exóticos e conversa com eles diariamente. Quando a jovem rainha Victoria fica doente, o excêntrico médico e seus amigos peludos embarcam em uma aventura épica em uma ilha mítica para encontrar a cura.
+
+</info>
+</item>
+
+<item>
 <title> Doom – Aniquilação </title>
 <link>https://video.wixstatic.com/video/16f3d4_1d55719a0cdc420086be61a42149c54f/720p/mp4/file.mp4</link>
 <thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcStzsZLf43cIVNiEUP_k-uJt2Kxl0sbgRn7HH3uWLxaBFLCAxXd</thumbnail>
