@@ -127,6 +127,22 @@ As reservas naturais da Terra estão chegando ao fim e um grupo de astronautas r
 </item>
 
 <item>
+<title> Invocação do Mal 2 </title>
+<link>https://video.wixstatic.com/video/16f3d4_d4adf0e6200443e58a0c040ffd1be3cd/720p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/16kR95yBmFlf3sveibocl7ND83V.jpg</thumbnail>
+<fanart>https://super.abril.com.br/wp-content/uploads/2018/07/invocaccca7acc83o-do-mal-2-poster-main-2.jpg</fanart>
+<info>
+
+[B] Lançamento: [/B] [COLOR hotpink][B] 2026 [/B][/COLOR]  
+[B] Gênero: [/B] [COLOR hotpink]  Terror, Suspense [/COLOR] 
+[B] Duração:[/B] [COLOR hotpink]  134 min. [/COLOR] 
+
+Sete anos após os eventos de Invocação do Mal (2013), Lorraine (Vera Farmiga) e Ed Warren (Patrick Wilson) desembarcam na Inglaterra para ajudar uma família atormentada por uma manifestação poltergeist na filha. A trama é baseada no caso Enfield Poltergeist, registrado no final da década de 1970.
+
+</info>
+</item>
+
+<item>
 <title> Invocação do Mal 3 A Ordem do Demônio </title>
 <link>https://video.wixstatic.com/video/16f3d4_d3ebecd8299e43a68f04c5ae82a02a28/720p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/tLmaOXT9rMb17ISQDURKQIu3Okk.jpg</thumbnail>
