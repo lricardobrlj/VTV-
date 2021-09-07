@@ -1,5 +1,5 @@
 <item><title>Na Mira do Perigo
-( 2021 )</title>
+</title>
 <link>https://video.wixstatic.com/video/16f3d4_8a57fae509ec4c209ef34485527e5d55/720p/mp4/file.mp4</link>
 <thumbnail>https://media.fstatic.com/3DiGJWSB-UNvDN9UDa8PnNXMsfA=/290x478/smart/media/movies/covers/2021/04/Poster-Na-Mira-do-Perigo64x94-scaled.jpg</thumbnail>
 <fanart>https://cinepop.com.br/wp-content/uploads/2021/01/marksman_xlg.jpg</fanart>
@@ -7,9 +7,25 @@
 </item>
 
 <item><title>Nadando com Homens
-( 2018 )</title>
+</title>
 <link>https://video.wixstatic.com/video/16f3d4_d8ee62286fc64e16bb6c5a4cd9638150/480p/mp4/file.mp4</link>
 <thumbnail>https://fr.web.img3.acsta.net/pictures/18/03/02/14/41/0182318.jpg</thumbnail>
 <fanart>https://br.web.img2.acsta.net/pictures/18/04/17/10/40/3445478.jpg</fanart>
 <info>Afogado na crise da meia-idade, Eric Scott encontra uma saída para sua ordinária rotina juntando-se a uma equipe amadora de nado sincronizado. Conforme o balé aquático melhora, Eric encontra a coragem para mudar sua vida.</info>
+</item>
+
+<item>
+<title> Nomadland Sobreviver na América </title>
+<link>https://video.wixstatic.com/video/16f3d4_6949990bd81749d9a9fa63017bf9a1f7/720p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/589uhtJOujc72fgNl6HcMYJS64D.jpg</thumbnail>
+<fanart>https://740901.smushcdn.com/1942053/wp-content/uploads/sites/7/2021/04/NomadlandTop10.jpg</fanart>
+<info>
+
+[B] Lançamento: [/B] [COLOR hotpink][B] 2021 [/B][/COLOR]  
+[B] Gênero: [/B] [COLOR hotpink]  Drama [/COLOR] 
+[B] Duração:[/B] [COLOR hotpink]  107 min. [/COLOR] 
+
+Após o colapso econômico de uma cidade na zona rural de Nevada, nos Estados Unidos, Fern, uma mulher de 60 anos, entra em sua van e parte para a estrada, vivendo uma vida fora da sociedade convencional como uma nômade moderna.
+
+</info>
 </item>
