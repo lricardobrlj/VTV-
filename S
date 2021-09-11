@@ -47,6 +47,22 @@ Após se reencontrarem e reativarem a Mistérios S.A., Fred, Daphne, Salsicha, V
 </item>
 
 <item>
+<title> Scooby-Doo! Halloween </title>
+<link>https://video.wixstatic.com/video/16f3d4_933a149635d64e068b31c4c2e989108a/1080p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/bs3p45IGZUZyqkHa4WLaiSk7xO9.jpg</thumbnail>
+<fanart>https://seriesemcena.com.br/wp-content/uploads/2020/10/100272131-p18851673_i_h8_aa-1024x576.jpg</fanart>
+<info>
+
+[B] Lançamento: [/B] [COLOR hotpink][B] 2020 [/B][/COLOR]  
+[B] Gênero: [/B] [COLOR hotpink]  Família, Animação, Suspense, Comédia [/COLOR] 
+[B] Duração:[/B] [COLOR hotpink]  76 min. [/COLOR] 
+
+Scooby-Doo e a equipe se reúnem novamente para resolver o mistério de proporções gigantescas e salvar a Baía Cristal.
+
+</info>
+</item>
+
+<item>
 <title> Scooby! O Filme </title>
 <link>https://video.wixstatic.com/video/16f3d4_efcc973e1a8a4e2d801f9e4e70d4711f/720p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/p7RjlzDLV4KksrWtyve1Rg40nLv.jpg</thumbnail>
