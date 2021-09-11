@@ -207,6 +207,38 @@ Jack Halsey e sua família esperam realizar a viagem dos sonhos ao participar de
 </item>
 
 <item>
+<title> Esquadrão Trovão </title>
+<link>https://video.wixstatic.com/video/16f3d4_aa9e40b298124612a36b4d3bd95fa56d/1080p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/Aej7rR73kpAKce6XXBLeqijAwPD.jpg</thumbnail>
+<fanart>http://woomagazine.com.br/wp-content/uploads/2021/04/Esquadrao-Trovao-2-1.jpg</fanart>
+<info>
+
+[B] Lançamento: [/B] [COLOR hotpink][B] 2021 [/B][/COLOR]  
+[B] Gênero: [/B] [COLOR hotpink] Ação, Aventura, Comédia [/COLOR] 
+[B] Duração:[/B] [COLOR hotpink] 107 min. [/COLOR] 
+
+Duas amigas de infância se reencontram e acabam formando uma dupla de super-heroínas quando uma delas cria uma fórmula que dá superpoderes a pessoas comuns.
+
+</info>
+</item>
+
+<item>
+<title> Esticando a Festa </title>
+<link>https://video.wixstatic.com/video/16f3d4_d8dfc3c60db8423998d3e152bfd767db/1080p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/1bkcOEt4zvc5tBl6xFxTbkSqhEQ.jpg</thumbnail>
+<fanart>https://oquartonerd.com.br/wp-content/uploads/2021/08/4nerd_Site-50.png</fanart>
+<info>
+
+[B] Lançamento: [/B] [COLOR hotpink][B] 2021 [/B][/COLOR]  
+[B] Gênero: [/B] [COLOR hotpink]  Fantasia, Comédia, Drama [/COLOR] 
+[B] Duração:[/B] [COLOR hotpink]  109 min. [/COLOR] 
+
+ A vida de Cassie é uma grande festa, até que ela morre em um acidente. Agora, essa jovem popular tem a chance de voltar à Terra e consertar seus erros.
+
+</info>
+</item>
+
+<item>
 <title> Explota Explota </title>
 <link>https://video.wixstatic.com/video/16f3d4_fcb3b2dc35014857af4f97450c0f4c15/720p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/4GvZ2HFBe7URP3ByCsBYwmDnmzG.jpg</thumbnail>
