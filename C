@@ -350,6 +350,22 @@ O remake de Convenção das Bruxas, clássico de fantasia dos anos 1990, acompan
 </item>
 
 <item>
+<title> Coraline e o Mundo Secreto </title>
+<link>https://video.wixstatic.com/video/16f3d4_7c43234b205a4fb7824fdd86e4ac5328/1080p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/805EGizPf6LnFVPGReaa44sBqJr.jpg</thumbnail>
+<fanart>https://cosmonerd.com.br//uploads/2021/02/coraline-e-o-mundo-secreto.jpg</fanart>
+<info>
+
+[B] Lançamento: [/B] [COLOR hotpink][B] 2009 [/B][/COLOR]  
+[B] Gênero: [/B] [COLOR hotpink]  Animação, Família, Fantasia [/COLOR] 
+[B] Duração:[/B] [COLOR hotpink]  100 min. [/COLOR] 
+
+Entediada em sua nova casa, a pequena Coraline descobre uma porta secreta que contém um mundo parecido com o dela, porém melhor em muitas maneiras. Coraline se encanta com a descoberta, mas logo descobre que há algo de errado quando seus pais alternativos tentam mantê-la eternamente nesse mundo paralelo.
+
+</info>
+</item>
+
+<item>
 <title> Cores da Justiça </title>
 <link>https://video.wixstatic.com/video/16f3d4_4e6a73f88fb843b48e188d8926186602/720p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/8O76234aBjceZCEOWmpnj7hnhtv.jpg</thumbnail>
