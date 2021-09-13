@@ -164,6 +164,22 @@ Depois do assassinato de uma bela colega de classe, um grupo de adolescentes des
 </item>
 
 <item>
+<title> Todo Poderoso </title>
+<link>https://video.wixstatic.com/video/16f3d4_6244a0e6a6ec424fb3d17d3f613c1e68/1080p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/wcA8udbEqqU5tPzsyqyZCDX6OwI.jpg</thumbnail>
+<fanart>https://imagem.natelinha.uol.com.br/grande/O-filme-Todo-Poderoso_5a23ef42a11b7a7dd2c36942472eadddac4a0930.jpeg</fanart>
+<info>
+
+[B] Lançamento: [/B] [COLOR hotpink][B] 2003 [/B][/COLOR]  
+[B] Gênero: [/B] [COLOR hotpink] Fantasia, Comédia [/COLOR] 
+[B] Duração:[/B] [COLOR hotpink] 101 min. [/COLOR] 
+
+Bruce Nolan (Jim Carrey) é um jornalista que tem um bom emprego na TV e uma bela namorada, Grace (Jennifer Aniston). Num acesso de fúria ele começa a xingar e questionar Deus e seu modo de fazer tudo funcionar, o que faz com que ele próprio (Morgan Freeman) resolva descer à Terra como um homem comum e lhe entregar o poder de comandar o planeta da forma como desejar durante um dia. É quando Bruce percebe o quão difícil é ser Deus e tomar conta de tudo o que ocorre no planeta.
+
+</info>
+</item>
+
+<item>
 <title> Tom & Jerry O Filme </title>
 <link>https://video.wixstatic.com/video/16f3d4_9a310783d7ed43d38f754aa6f459bb80/1080p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/9NvYyM8H6d5KAVGqpyFV9YPO5cU.jpg</thumbnail>
