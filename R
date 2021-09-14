@@ -234,6 +234,22 @@ Alice e os sobreviventes da catástrofe de Raccon tentam chegar ao Alasca, atrav
 </item>
 
 <item>
+<title> Resident Evil 4 Recomeço</title>
+<link>https://video.wixstatic.com/video/16f3d4_cee133ed4c01483c9801ea30bb8d265a/720p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/diPrexFmSxHylFEoxVXta0Ok3hw.jpg</thumbnail>
+<fanart>https://1.bp.blogspot.com/-smL8k2UkIgY/V8ZhiTLvlhI/AAAAAAAAIf8/hqmBX_FZ03c6aJo10R0UZ8gLjrQ9lcmpQCLcB/s1600/389536.jpg</fanart>
+<info>
+
+[B] Lançamento: [/B] [COLOR hotpink][B] 2010 [/B][/COLOR]  
+[B] Gênero: [/B] [COLOR hotpink] Ação, Aventura, Terror, Ficção Científica [/COLOR] 
+[B] Duração:[/B] [COLOR hotpink] 97 min. [/COLOR] 
+
+Em um mundo dominado por mortos-vivos, Alice continua sua batalha para salvar sobreviventes. Sua batalha se intensifica e ela recebe a ajuda de um velho amigo. Em Los Angeles, pode existir um lugar para salvar-se, mas a cidade foi invadida por mortos-vivos.
+
+</info>
+</item>
+
+<item>
 <title>Resident Evil: A Vingança
 </title>
 <link>https://video.wixstatic.com/video/16f3d4_c1d3ebc6ebbd4305b76de6ff276bd641/720p/mp4/file.mp4</link>
