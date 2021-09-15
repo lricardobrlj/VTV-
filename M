@@ -206,12 +206,20 @@ Um agente do FBI e um oficial do Estado da Flórida se unem para investigar uma 
 </info>
 </item>
 
-<item><title>Meios-irmãos
-</title>
+<item>
+<title> Meios-irmãos </title>
 <link>https://video.wixstatic.com/video/16f3d4_45f0b0a063524c69a99048032a85dbb6/720p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/ziKSNo9yVx50FYhJg0aPvCAzKbD.jpg</thumbnail>
-<fanart>https://capas-silver.com/wp-content/uploads/2021/07/CAPA-DVD-MEIOS-IRMAOS.jpg</fanart>
-<info>Renato, um executivo mexicano da aviação, fica chocado ao saber que tem um meio-irmão americano que ele nunca conheceu, o espírito livre Asher. Eles são forçados a fazer uma viagem juntos, traçando o caminho que seu pai fez do México aos Estados Unidos.</info>
+<fanart>https://i.pinimg.com/originals/bf/a1/c1/bfa1c1a1d861cc98235203a891cfa963.jpg</fanart>
+<info>
+
+[B] Lançamento: [/B] [COLOR hotpink][B] 2020 [/B][/COLOR]  
+[B] Gênero: [/B] [COLOR hotpink] Comédia, Drama [/COLOR] 
+[B] Duração:[/B] [COLOR hotpink] 96 min. [/COLOR] 
+
+Renato, um executivo mexicano da aviação, fica chocado ao saber que tem um meio-irmão americano que ele nunca conheceu, o espírito livre Asher. Eles são forçados a fazer uma viagem juntos, traçando o caminho que seu pai fez do México aos Estados Unidos.
+
+</info>
 </item>
 
 <item><title>Memórias de Verão
