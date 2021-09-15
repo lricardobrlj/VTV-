@@ -222,12 +222,20 @@ Renato, um executivo mexicano da aviação, fica chocado ao saber que tem um mei
 </info>
 </item>
 
-<item><title>Memórias de Verão
-</title>
+<item>
+<title> Memórias de Verão </title>
 <link>https://video.wixstatic.com/video/16f3d4_dc9f1d4908184b1e8b3a9d3ea5d0fd7e/1080p/mp4/file.mp4</link>
-<thumbnail>https://ondebaixa.com/imagens/memorias-de-verao-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
-<fanart>https://i0.wp.com/www.ultraverso.com.br/wp-content/uploads/2021/07/Memorias-de-Verao-filme-Netflix-critica.jpg?fit=1200%2C675&ssl=1</fanart>
-<info>Nesta história sobre amadurecimento e amores de verão, Deniz quer encontrar sua paixão de infância nas férias, mas acaba envolvido em um triângulo amoroso.</info>
+<thumbnail>https://image.tmdb.org/t/p/w342/1TEpYgCvHmbhboMi1pdR1Voz5y3.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/3wkITxU2bCk/maxresdefault.jpg</fanart>
+<info>
+
+[B] Lançamento: [/B] [COLOR hotpink][B] 2021 [/B][/COLOR]  
+[B] Gênero: [/B] [COLOR hotpink] Romance, Drama [/COLOR] 
+[B] Duração:[/B] [COLOR hotpink] 101 min. [/COLOR] 
+
+Nas férias de verão, o adolescente Deniz tenta conquistar o crush da infância e acaba envolvido em um triângulo amoroso.
+
+</info>
 </item>
 
 <item>
