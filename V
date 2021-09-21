@@ -367,7 +367,7 @@ Após os eventos devastadores de “Vingadores: Guerra Infinita”, o universo e
 <item>
 <title> Vixen O Filme </title>
 <link>https://video.wixstatic.com/video/16f3d4_13c6bc4895f146aea8033ca82ee79b2e/1080p/mp4/file.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/w342/gYbCpjAsyJ0uO0rKcvJ295INZZp.jpg</thumbnail>
+<thumbnail>https://image.tmdb.org/t/p/w342/5A52QYVaZFGWZnXeNfvMOrnd49E.jpg</thumbnail>
 <fanart>https://cdn.ome.lt/6yzw-qL3RWYNzemUNDArl4DUc9s=/1200x630/smart/extras/conteudos/Vixen_S02E01_pub1_092816-812x522.jpg</fanart>
 <info>
 
@@ -376,6 +376,22 @@ Após os eventos devastadores de “Vingadores: Guerra Infinita”, o universo e
 [B] Duração:[/B] [COLOR hotpink] 75 min. [/COLOR] 
 
 Vixen é baseada na personagem da DC Mari McCabe / Vixen, uma super-heroína que combate o crime, com a habilidade de conseguir reproduzir qualquer poder de qualquer animal que já habitou a Terra. Se passa no mesmo universo fictício de Arrow, Flash, e Legends of Tomorrow.
+
+</info>
+</item>
+
+<item>
+<title> Vovó Babá </title>
+<link>https://video.wixstatic.com/video/16f3d4_ce955e9fa85e4eafa85f1178112db3f3/1080p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/lmNUnDSxVgNbC5jDBzliK4eh7jx.jpg</thumbnail>
+<fanart>https://cdn.tlc-massive.com/shain/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=85&ImageId=%27251955.jpg%27&ImageUrl=%27251955.jpg%27&EntityType=%27Item%27&EntityId=%2726703%27&Width=1920&Height=1080&device=web_browser&subscriptions=Anonymous</fanart>
+<info>
+
+[B] Lançamento: [/B] [COLOR hotpink][B] 2020 [/B][/COLOR]  
+[B] Gênero: [/B] [COLOR hotpink] Comédia [/COLOR] 
+[B] Duração:[/B] [COLOR hotpink] 104 min. [/COLOR] 
+
+Em Vovó Babá, chegou a vez de Karin (Maren Kroymann) e Gerhard (Heiner Lauterbach) virarem avós de aluguel. Sem terem vivido a experiência anteseles se deparam com uma série de desafios e eventos hilários que passam a acontecer em meio à convivência com os pequenos.
 
 </info>
 </item>
