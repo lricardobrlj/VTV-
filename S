@@ -47,6 +47,22 @@ Após se reencontrarem e reativarem a Mistérios S.A., Fred, Daphne, Salsicha, V
 </item>
 
 <item>
+<title> Scooby-Doo Encontra Coragem: Diretamente de Lugar Nenhum </title>
+<link>https://video.wixstatic.com/video/16f3d4_9cbf874ed8e148888101fdfd46c74923/1080p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/kIzMlyaIFWWkFDVbla2O10kYe1b.jpg</thumbnail>
+<fanart>https://irs.www.warnerbros.com.br/hero-banner-v2-tablet-jpeg/movies/media/browser/SD_MEETS_COURAGE_SF_H_DD_4320x1080_300dpi_BR_0.jpg</fanart>
+<info>
+
+[B] Lançamento: [/B] [COLOR hotpink][B] 2021 [/B][/COLOR]  
+[B] Gênero: [/B] [COLOR hotpink] Animação, Comédia, Suspense, Família, Fantasia [/COLOR] 
+[B] Duração:[/B] [COLOR hotpink] 72 min. [/COLOR] 
+
+Uma luz mística vindo de um OVNI causa grande confusão em uma cidade do interior. Quando pessoas começam a desaparecer, Scooby Doo e a turma são chamados para resolverem o mistério que pode ser maior do que eles imaginam.
+
+</info>
+</item>
+
+<item>
 <title> Scooby-Doo! Halloween </title>
 <link>https://video.wixstatic.com/video/16f3d4_933a149635d64e068b31c4c2e989108a/1080p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/bs3p45IGZUZyqkHa4WLaiSk7xO9.jpg</thumbnail>
