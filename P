@@ -39,6 +39,22 @@
 </item>
 
 <item>
+<title> Pânico na Ilha </title>
+<link>https://video.wixstatic.com/video/16f3d4_24fedc960b1d4ff7959253de5da64fdb/720p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/pJ4Zli3BgJc8gWETHDdaEwkjLbj.jpg</thumbnail>
+<fanart>http://1.bp.blogspot.com/-E8QTT9bw44A/TbXuwPfdnrI/AAAAAAAAA48/gle3fDG636k/w1200-h630-p-k-no-nu/P%25C3%25A2nico%2Bna%2BIlha.jpg</fanart>
+<info>
+
+[B] Lançamento: [/B] [COLOR hotpink][B] 2004 [/B][/COLOR]  
+[B] Gênero: [/B] [COLOR hotpink] Comédia, Terror [/COLOR] 
+[B] Duração:[/B] [COLOR hotpink] 104 min. [/COLOR] 
+
+Quando um assassino em série interrompe a diversão no elegante Coconut Beach Resort de Coconut Pete – um paraíso hedonista para os swingers – cabe à equipe do clube parar a violência … ou pelo menos escondê-la!
+
+</info>
+</item>
+
+<item>
 <title> Pantera Negra  </title>
 <link>https://video.wixstatic.com/video/16f3d4_af7939fbdb794744a41f282c412de4a1/720p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/2yQUnpc1BXgesJrfcdoRa6jTAnA.jpg</thumbnail>
