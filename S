@@ -166,6 +166,22 @@ Nick Hume (Kevin Bacon) é funcionário administrativo feliz com a sua vida. Iss
 </item>
 
 <item>
+<title> Sequestro Internacional </title>
+<link>https://video.wixstatic.com/video/16f3d4_94d6d7c0257a41b1b4014bb5cbcbe190/720p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/jay8E3DtnFgVfeDInMOOHxVUfn3.jpg</thumbnail>
+<fanart>https://cdn.tlc-massive.com/shain/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=85&ImageId=%27242898.jpg%27&ImageUrl=%27242898.jpg%27&EntityType=%27Item%27&EntityId=%2725106%27&Width=1920&Height=1080&device=web_browser&subscriptions=Anonymous</fanart>
+<info>
+
+[B] Lançamento: [/B] [COLOR hotpink][B] 2019 [/B][/COLOR]  
+[B] Gênero: [/B] [COLOR hotpink] Ação, Aventura, Suspense [/COLOR] 
+[B] Duração:[/B] [COLOR hotpink] 107 min. [/COLOR] 
+
+Um americano é sequestrado depois que um amigo o convida para ir ao Cairo para falar sobre os recentes levantes de militantes. Sua esposa vai para a cidade após ouvir a notícia, determinada a trazê-lo de volta.
+
+</info>
+</item>
+
+<item>
 <title> Sete Homens e Um Destino </title>
 <link>https://video.wixstatic.com/video/16f3d4_830223c13eb645f99f715ee6a86f9dd9/720p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/fV45HAC5kxY2fbUKKT2vNyYDZNr.jpg</thumbnail>
