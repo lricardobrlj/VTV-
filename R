@@ -356,7 +356,7 @@ Conheça Alice, uma jovem com deficiência auditiva que, após uma suposta visit
 <info>Stine e acompanha um grupo de adolescentes que descobrem eventos aterrorizantes sobre sua cidade, onde há gerações acontecem assassinatos brutais. Todos essas mortes parecem estar conectadas e eles podem ser as próximas vítimas. O segundo longa se passa em um acampamento onde jovens das cidades de Shadyside e Sunnyvale se encontram e descobrem que as duas cidades estão unidas por esse mistério.</info>
 </item>
 
-item>
+<item>
 <title>Rua do Medo: 1666 - Parte 3</title>
 <link>https://video.wixstatic.com/video/16f3d4_663132ab77794ca3913664eb07b628e8/720p/mp4/file.mp4</link>
 <thumbnail>https://i2.wp.com/trilhadomedo.com/wp-content/uploads/2021/06/Rua-do-Medo-1666-%E2%80%93-Parte-3.jpg?resize=426%2C597&ssl=1</thumbnail>
