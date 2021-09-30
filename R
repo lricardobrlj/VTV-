@@ -1,15 +1,15 @@
 <item>
-<title> Rango  </title>
-<link>https://video.wixstatic.com/video/16f3d4_4c42e9422520453c9d3a665f745bcb7d/720p/mp4/file.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/w342/dwsHEw5IWOx6cjrgAsMPlYm0J6h.jpg</thumbnail>
-<fanart>https://www.cafecomfilme.com.br/images/filmes/0916/rangotop.jpg</fanart>
+<title> Rambo IV </title>
+<link>https://video.wixstatic.com/video/16f3d4_05336890989d4948a979fb2630f8912b/480p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/n8oAmmvqPF2PQuUn7p73wdbgciU.jpg</thumbnail>
+<fanart>https://wallpaperaccess.com/full/1794443.jpg</fanart>
 <info>
 
-[B] Lançamento: [/B] [COLOR hotpink][B] 2011 [/B][/COLOR]  
-[B] Gênero: [/B] [COLOR hotpink] Animação, Comédia, Família, Faroeste, Aventura [/COLOR] 
-[B] Duração:[/B] [COLOR hotpink] 111 min. [/COLOR] 
+[B] Lançamento: [/B] [COLOR hotpink][B] 2008 [/B][/COLOR]  
+[B] Gênero: [/B] [COLOR hotpink] Ação, Suspense [/COLOR] 
+[B] Duração:[/B] [COLOR hotpink] 92 min. [/COLOR] 
 
-Rango (Johnny Depp) é um camaleão da cidade grande que vai parar, após um acidente, em pleno velho oeste, na cidade de Poeira no deserto do Mojave, na Califórnia. De uma hora para outra, sua rotina de animal de estimação mudou radicalmente e agora ele precisa deixar a vida “camuflada” para enfrentar os perigos existentes no mundo real, fazendo com que ele vivencie a experiência de fazer amigos, conhecer inimigos e até, quem sabe, se tornar um herói.
+John Rambo leva uma vida simples e solitária. Até que surgem dois missionários que desejam levar alimentos e remédios às pessoas afetadas pela guerra civil na fronteira com a Birmânia. Rambo aceita a proposta de levá-los pelo rio. Mas 10 dias depois os missionários foram capturados. Agora Rambo deve participar da operação de resgate.
 
 </info>
 </item>
@@ -58,6 +58,22 @@ Um homem constrói uma armadura e sai em uma matança desenfreada. O tédio da v
 [B] Duração:[/B] [COLOR hotpink]  93 min. [/COLOR] 
 
 O violento anti-herói Bill Williamson tem um plano para mudar o mundo se vingando dos ricos e dilacerando Washington. Ele faz alguns reféns e os usa como plataforma política para disseminar sua mensagem e acordar a humanidade. É hora de destruir o sistema, e a mudança não vai acontecer de forma pacífica.
+
+</info>
+</item>
+
+<item>
+<title> Rango  </title>
+<link>https://video.wixstatic.com/video/16f3d4_4c42e9422520453c9d3a665f745bcb7d/720p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/dwsHEw5IWOx6cjrgAsMPlYm0J6h.jpg</thumbnail>
+<fanart>https://www.cafecomfilme.com.br/images/filmes/0916/rangotop.jpg</fanart>
+<info>
+
+[B] Lançamento: [/B] [COLOR hotpink][B] 2011 [/B][/COLOR]  
+[B] Gênero: [/B] [COLOR hotpink] Animação, Comédia, Família, Faroeste, Aventura [/COLOR] 
+[B] Duração:[/B] [COLOR hotpink] 111 min. [/COLOR] 
+
+Rango (Johnny Depp) é um camaleão da cidade grande que vai parar, após um acidente, em pleno velho oeste, na cidade de Poeira no deserto do Mojave, na Califórnia. De uma hora para outra, sua rotina de animal de estimação mudou radicalmente e agora ele precisa deixar a vida “camuflada” para enfrentar os perigos existentes no mundo real, fazendo com que ele vivencie a experiência de fazer amigos, conhecer inimigos e até, quem sabe, se tornar um herói.
 
 </info>
 </item>
