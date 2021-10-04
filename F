@@ -30,6 +30,22 @@ Uma ameaça apocalíptica chega do céu trazendo uma série de mortes violentas 
 </item>
 
 <item>
+<title> Free Guy Assumindo o Controle </title>
+<link>https://video.wixstatic.com/video/16f3d4_7c3966d36927456eba1871c1cfef5e69/720p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/jXlGeLOg2RKHmV9CinVaIB4ijKU.jpg</thumbnail>
+<fanart>https://t.ctcdn.com.br/XuNSS4NeHqL3KVbRjgAvOuf0RvU=/0x248:2082x1419/1400x788/smart/i487544.jpeg</fanart>
+<info>
+
+[B] Lançamento: [/B] [COLOR hotpink][B] 2021 [/B][/COLOR]  
+[B] Gênero: [/B] [COLOR hotpink] Comédia, Ação, Aventura, Ficção Científica [/COLOR] 
+[B] Duração:[/B] [COLOR hotpink] 115 min. [/COLOR] 
+
+Um caixa de banco preso a uma entediante rotina tem sua vida virada de cabeça para baixo quando ele descobre que é personagem em um brutalmente realista vídeo game de mundo aberto. Agora ele precisa aceitar sua realidade e lidar com o fato de que é o único que pode salvar o mundo.
+
+</info>
+</item>
+
+<item>
 <title> Frozen: Uma Aventura Congelante </title>
 <link>https://video.wixstatic.com/video/16f3d4_20c66df863124706a210a9b6d3539b1c/720p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/qWFgaDLfiLtsFIEa8fcbmP2SIp9.jpg</thumbnail>
