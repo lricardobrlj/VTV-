@@ -371,6 +371,22 @@ Três homens que ganham a vida de forma questionável no velho oeste norte-ameri
 </item>
 
 <item>
+<title> Triplo X </title>
+<link>https://video.wixstatic.com/video/16f3d4_8c79e296f4e445a49e308a7a39f1c8d5/720p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/pidUN1PgLjSld1OX22j6RycK7qd.jpg</thumbnail>
+<fanart>https://images5.alphacoders.com/705/705847.jpg</fanart>
+<info>
+
+[B] Lançamento: [/B] [COLOR hotpink][B] 2002 [/B][/COLOR]  
+[B] Gênero: [/B] [COLOR hotpink] Ação, Aventura, Suspense [/COLOR] 
+[B] Duração:[/B] [COLOR hotpink] 124 min. [/COLOR] 
+
+O ex-atleta de extremos esportes Xander ” XXX” Cage, famoso por suas acrobacias que desafiam a morte, é convencido de que ele possa ter sucesso onde outros espiões convencionais falharam. Xander é recrutado pelo agente Gibbons para se tornar um tipo diferente de agente secreto. Alistado em uma perigosa missão secreta, ele precisa usar todas as suas habilidades extremas para combater o inimigo.
+
+</info>
+</item>
+
+<item>
 <title>Tróia</title>
 <link>https://video.wixstatic.com/video/16f3d4_2480bcc4ae2f4d1b921376eb5f5e9e28/480p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/om0wXlt8ANcHWE0EJlYjxaUD5Ga.jpg</thumbnail>
