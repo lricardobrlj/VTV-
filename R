@@ -403,6 +403,22 @@ Quando Cristina Lopez, uma repórter mexicana-americana, vai para sua terra nata
 </item>
 
 <item>
+<title> Rocky: Um Lutador </title>
+<link>https://video.wixstatic.com/video/16f3d4_6dd26399b63a4e92961738e1fdee9b2d/720p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/wJ5rLUltZALHgM0hPUcnfrJehA7.jpg</thumbnail>
+<fanart>https://www.cineset.com.br/wp-content/uploads/2015/04/70Bt5CDjX5BUoO4GPyBhjPAnOfV.jpg</fanart>
+<info>
+
+[B] Lançamento: [/B] [COLOR hotpink][B] 1976 [/B][/COLOR]  
+[B] Gênero: [/B] [COLOR hotpink] Drama, Ação [/COLOR] 
+[B] Duração:[/B] [COLOR hotpink] 119 min. [/COLOR] 
+
+Rocky Balboa, um pequeno boxeador da classe trabalhadora da Filadélfia, é arbitrariamente escolhido para lutar contra o campeão dos pesos pesados, Apollo Creed, quando o adversário do invicto lutador agendado para a luta é ferido. Durante o treinamento com o mal-humorado Mickey Goldmill, Rocky timidamente começa um relacionamento com Adrian, a invisível irmã de Paulie, seu amigo empacotador de carne.
+
+</info>
+</item>
+
+<item>
 <title>Rogai por Nós</title>
 <link>https://video.wixstatic.com/video/16f3d4_0d1d9f3fae5646e8a5a7b03f19d63e4a/720p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/zduyzcjyahZtP4fGZE6789h04IM.jpg</thumbnail>
