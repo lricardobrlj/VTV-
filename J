@@ -207,6 +207,22 @@ Num futuro distante, boa parte da população é controlada por um regime totali
 </item>
 
 <item>
+<title> Jogos Vorazes Em Chamas </title>
+<link>https://video.wixstatic.com/video/16f3d4_e9f59648cd894cc1b8005e81415c818b/1080p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/m1lky5ftnhLRpkoYWKssH8qvlRU.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w342/m1lky5ftnhLRpkoYWKssH8qvlRU.jpg</fanart>
+<info>
+
+[B] Lançamento: [/B] [COLOR hotpink][B] 2013 [/B][/COLOR]  
+[B] Gênero: [/B] [COLOR hotpink] Aventura, Ação, Ficção Científica [/COLOR] 
+[B] Duração:[/B] [COLOR hotpink] 146 min. [/COLOR] 
+
+Após saírem vencedores da última edição dos Jogos Vorazes, as atitudes desafiadoras de Katniss e Peeta acabam inspirando uma rebelião contra a opressiva Capital. No entanto, os dois são obrigados a participarem de uma edição especial do torneio, o Massacre Quaternário, que acontece apenas a cada 25 anos, e reúne vencedores das edições anteriores.
+
+</info>
+</item>
+
+<item>
 <title> John Wick: De Volta ao Jogo  </title>
 <link>https://video.wixstatic.com/video/16f3d4_07022a5f6bc14a5497ea58d88f5b385a/720p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/rboZslo3eQWKBQ3QvlO6wGV0J3K.jpg</thumbnail>
