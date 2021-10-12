@@ -509,6 +509,22 @@ Com o retorno do Imperador Palpatine, todos voltam a temer seu poder e, com isso
 </item>
 
 <item>
+<title> Super-Herói: O Filme </title>
+<link>https://video.wixstatic.com/video/16f3d4_d2c03a42aa7b4fd0ab4dc168b40f6e05/720p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/1eft9sS79hbo8aXnwwmvBXr6AWm.jpg</thumbnail>
+<fanart>https://rotacult.com.br/wp-content/uploads/2017/07/Super-Her%C3%B3i-O-Filme.jpg</fanart>
+<info>
+
+[B] Lançamento: [/B] [COLOR hotpink][B] 2008 [/B][/COLOR]  
+[B] Gênero: [/B] [COLOR hotpink] Ação, Comédia, Ficção Científica [/COLOR] 
+[B] Duração:[/B] [COLOR hotpink] 85 min. [/COLOR] 
+
+Rick Riker é um estudante comum do colegial. Porém, ao ser mordido por uma libélula geneticamente modificada ganha superpoderes. Agora sua missão é proteger a cidade das mãos do malvado Hourglass, que suga a vida de suas vítimas.
+
+</info>
+</item>
+
+<item>
 <title> Superbad É Hoje </title>
 <link>https://video.wixstatic.com/video/16f3d4_2e5039eb365c4e9b93ead67e18ac547c/720p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/aqr4CdX6eeA5UkVAJzKZMs7FeEw.jpg</thumbnail>
