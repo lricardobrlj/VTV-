@@ -397,3 +397,19 @@ Para alegrar um colega em crise, um grupo de professores de ensino médio decide
 
 </info>
 </item>
+
+<item>
+<title> Dupla Explosiva </title>
+<link>https://video.wixstatic.com/video/16f3d4_34e79f13f49648bab912cb9f47f12409/720p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/oogzn0EmTSkR2x3Khw7Muswwcpk.jpg</thumbnail>
+<fanart>https://nerdbreak.com.br/wp-content/uploads/2017/08/dupla-explosiva-001.jpg</fanart>
+<info>
+
+[B] Lançamento: [/B] [COLOR hotpink][B] 2017 [/B][/COLOR]  
+[B] Gênero: [/B] [COLOR hotpink] Suspense, Comédia, Crime, Ação [/COLOR] 
+[B] Duração:[/B] [COLOR hotpink] 118 min. [/COLOR] 
+
+ O principal guarda-costas do mundo (Ryan Reynolds) possui um novo cliente: um assassino de aluguel (Samuel L. Jackson) que precisa testemunhar na Corte Internacional de Justiça. Por anos eles estavam em lados opostos de um tiro, mas agora eles estão presos juntos. Eles precisam colocar as diferenças de lado para chegarem ao julgamento a tempo.
+
+</info>
+</item>
