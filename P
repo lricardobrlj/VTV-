@@ -253,8 +253,7 @@ O pirata Jack Sparrow tem seu navio saqueado e roubado pelo capitão Barbossa e 
 <info>Will e Elizabeth estão prestes a se casar quando o lendário pirata Davy Jones, comandante de um invencível navio assombrado, aparece para cobrar uma dívida do capitão Jack Sparrow, amigo do casal. Agora, a única chance de Sparrow se livrar de uma maldição de Jones é encontrando o baú da morte.</info>
 </item>
 
-<item><title>Pocahontas 
-( 1995 )</title>
+<item><title>Pocahontas </title>
 <link>https://video.wixstatic.com/video/16f3d4_e5dba131ba0147a5857e51a141774fb9/720p/mp4/file.mp4</link>
 <thumbnail>https://i.imgur.com/PCSaBOl.jpg</thumbnail>
 <fanart>https://www.planocritico.com/wp-content/uploads/2018/08/232-Pocahondas-1994.jpg</fanart>
@@ -267,6 +266,22 @@ O pirata Jack Sparrow tem seu navio saqueado e roubado pelo capitão Barbossa e 
 <thumbnail>https://media.fstatic.com/viSw32G6WDnD5-fvmWSHK2oDL6c=/290x478/smart/media/movies/covers/2020/01/value_pxpKK6u.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w1280/xHftIYll65N6Ho0IjH7q1O2OYw8.jpg</fanart>
 <info>Uma mulher (Gugu Mbatha-Raw) é forçada a fugir quando suas habilidades sobre-humanas são descobertas. Anos depois de ter abandonado a sua família, o único lugar que ela deixou para esconder é em casa.</info>
+</item>
+
+<item>
+<title> Pokémon, o Filme Segredos da Selva </title>
+<link>https://video.wixstatic.com/video/16f3d4_de659bdfb19b4601ab73611eed12c7e4/1080p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/szrcgoMk7BJeSFJS41lMiyNPnf3.jpg</thumbnail>
+<fanart>https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2021/10/pokemon-o-filme-selva.jpg</fanart>
+<info>
+
+[B] Lançamento: [/B] [COLOR hotpink][B] 2020 [/B][/COLOR]  
+[B] Gênero: [/B] [COLOR hotpink] Animação, Aventura [/COLOR] 
+[B] Duração:[/B] [COLOR hotpink] 98 min. [/COLOR] 
+
+ A história do novo filme se passa na Floresta Okoya, um paraíso Pokémon protegido por leis estritas que proíbem visitantes de pisar na área. O filme é centrado em Coco, um menino que foi criado por Pokémon e também se considera um, tratando o Pokémon Mítico Zarude como seu pai. Ash e Pikachu encontram Coco durante uma aventura.
+
+</info>
 </item>
 
 <item>
