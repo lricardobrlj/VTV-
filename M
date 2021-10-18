@@ -590,12 +590,20 @@ Em uma perigosa tarefa para recuperar plutônio roubado, Ethan Hunt opta por sal
 </info>
 </item>
 
-<item><title>Mortal Kombat
-</title>
+<item>
+<title> Mortal Kombat </title>
 <link>https://video.wixstatic.com/video/16f3d4_9d223fa33e9a478fb1ab239d8553d2b8/1080p/mp4/file.mp4</link>
-<thumbnail>https://br.web.img3.acsta.net/pictures/21/03/31/18/22/5366148.png</thumbnail>
-<fanart>https://portalcinerama.com.br/wp-content/uploads/2021/04/20210218-mortal-kombat-movie-poster-new-cropped-hed-1257294-1024x576-1.jpeg</fanart>
-<info>O lutador de MMA Cole Young não conhece sua herança, nem sabe o motivo do Imperador da Exoterra ter enviado seu melhor guerreiro, Sub-Zero, para ir atrás dele. Temendo pela segurança de sua família, ele se une a outros heróis para proteger a Terra.</info>
+<thumbnail>https://image.tmdb.org/t/p/w342/ijvC2w2yANsfgLT3LMu2zFr0fxh.jpg</thumbnail>
+<fanart>https://multiversomais.com/wp-content/uploads/2021/05/MK.jpg</fanart>
+<info>
+
+[B] Lançamento: [/B] [COLOR hotpink][B] 2021 [/B][/COLOR]  
+[B] Gênero: [/B] [COLOR hotpink] Ação, Fantasia, Aventura [/COLOR] 
+[B] Duração:[/B] [COLOR hotpink] 110 min. [/COLOR] 
+
+ O lutador de MMA Cole Young deve treinar para liberar seu verdadeiro poder para unir-se aos maiores campeões mundiais contra inimigos da Exoterra em uma batalha decisiva pelo universo.
+
+</info>
 </item>
 
 <item><title>Mortal Kombat
