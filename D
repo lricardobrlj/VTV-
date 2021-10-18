@@ -207,6 +207,38 @@ Ralph está cansado de ser desprezado no seu próprio jogo de fliperama. Para ga
 </item>
 
 <item>
+<title> Deu a Louca na Chapeuzinho </title>
+<link>https://video.wixstatic.com/video/16f3d4_cb01140c020045edbb1707bf9db6dfee/1080p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/rsScGMpLG1XzY0MWNeRUVsPlBU5.jpg</thumbnail>
+<fanart>http://alissoncavalcante.com/wp-content/uploads/2020/12/97i5zrV5Kmhi3NYJ7PzcfHmMNx8.jpg</fanart>
+<info>
+
+[B] Lançamento: [/B] [COLOR hotpink][B] 2005 [/B][/COLOR]  
+[B] Gênero: [/B] [COLOR hotpink] Animação, Comédia, Família, Crime [/COLOR] 
+[B] Duração:[/B] [COLOR hotpink] 80 min. [/COLOR] 
+
+A tranquilidade da vida na floresta é alterada quando um livro de receitas é roubado. Os suspeitos do crime são Chapeuzinho Vermelho, o Lobo Mau, o Lenhador e a Vovó, mas cada um deles conta uma história diferente sobre o ocorrido. Cabe então ao inspetor Nick Pirueta investigar o caso e descobrir a verdade.
+
+</info>
+</item>
+
+<item>
+<title> Deu a Louca na Chapeuzinho 2 </title>
+<link>https://video.wixstatic.com/video/16f3d4_cd98694cfeab4797be92311f8b7e179a/720p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/7gDPL7IajxEr9rrXCESmyovsbDG.jpg</thumbnail>
+<fanart>https://i0.wp.com/rbngames.com.br/wp-content/uploads/2016/11/Deu-a-Louca-na-Chapeuzinho-2-RBN-Games.jpg</fanart>
+<info>
+
+[B] Lançamento: [/B] [COLOR hotpink][B] 2011 [/B][/COLOR]  
+[B] Gênero: [/B] [COLOR hotpink] Comédia, Animação, Família [/COLOR] 
+[B] Duração:[/B] [COLOR hotpink] 86 min. [/COLOR] 
+
+ Dessa vez nossa heroína está treinando com uma organização secreta quando é chamada para ajudar a Agência de Espionagem Feliz Para Sempre a descobrir o paradeiro de João e Maria que desapareceram misteriosamente. A grande confusão começa quando Chapeuzinho percebe que terá que se unir ao sem noção do Lobo Mau, a corajosa Vovózinha e ao pilhado esquilo Ligeirinho para salvar as crianças. Deu a Louca na Chapeuzinho 2 é uma comédia que vai agradar toda família.
+
+</info>
+</item>
+
+<item>
 <title> Deuses do Egito </title>
 <link>https://video.wixstatic.com/video/16f3d4_125e900e9364413cbc8d8263479dbe34/720p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/4xJb2Nll3vHKztHVasHwf6603MB.jpg</thumbnail>
