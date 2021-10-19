@@ -303,6 +303,22 @@ Uma jovem mulher assombrada por uma tragédia em seu passado se vinga nos homens
 </item>
 
 <item>
+<title> Blade Trinity </title>
+<link>https://video.wixstatic.com/video/16f3d4_e04172f92d0a4f67ba15e9756fde5af9/1080p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/nTTQYwvhM0pJLJV9Z78TK9R4lZM.jpg</thumbnail>
+<fanart>https://picfiles.alphacoders.com/762/76247.jpg</fanart>
+<info>
+
+[B] Lançamento: [/B] [COLOR hotpink][B] 2004 [/B][/COLOR]  
+[B] Gênero: [/B] [COLOR hotpink] Ação, Terror, Fantasia [/COLOR] 
+[B] Duração:[/B] [COLOR hotpink] 113 min. [/COLOR] 
+
+  Blade, agora um homem procurado pelo FBI, deve unir forças com os Nightstalkers para enfrentar seu inimigo mais desafiador ainda: Drácula.
+
+</info>
+</item>
+
+<item>
 <title> Bright Alma de Samurai </title>
 <link>https://video.wixstatic.com/video/16f3d4_bca6a63c38834fd19df5b86cccd0b56e/1080p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/3TWRvY9XkDiFFcr72n0vs0oc0Vg.jpg</thumbnail>
