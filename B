@@ -303,6 +303,22 @@ Uma jovem mulher assombrada por uma tragédia em seu passado se vinga nos homens
 </item>
 
 <item>
+<title> Blade O Caçador de Vampiros </title>
+<link>https://video.wixstatic.com/video/16f3d4_27c54668cc434f6a94ec51cd92476818/1080p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/zyivyoXd6zP09tS1PP7b35sB84h.jpg</thumbnail>
+<fanart>https://images.squarespace-cdn.com/content/v1/59123c2603596e4dfb104ee2/1545968596889-CDZ32JO78JO6CN3P42MM/%28Thoughts+On%29+Blade.jpg</fanart>
+<info>
+
+[B] Lançamento: [/B] [COLOR hotpink][B] 1998 [/B][/COLOR]  
+[B] Gênero: [/B] [COLOR hotpink] Terror, Ação [/COLOR] 
+[B] Duração:[/B] [COLOR hotpink] 120 min. [/COLOR] 
+
+  Após ser contaminado pelo sangue de uma criatura das trevas, Blade transformou-se num guerreiro imortal, metade-homem, metade-vampiro. Desde então, ele dedica-se a caçar o líder dos mortos-vivos Deacon Frost e seus asseclas, que estão planejando um grande plano para aumentar sua dominação sobre a raça humana.
+
+</info>
+</item>
+
+<item>
 <title> Blade Trinity </title>
 <link>https://video.wixstatic.com/video/16f3d4_e04172f92d0a4f67ba15e9756fde5af9/1080p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/nTTQYwvhM0pJLJV9Z78TK9R4lZM.jpg</thumbnail>
