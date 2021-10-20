@@ -255,6 +255,22 @@ Bek (Brenton Thwaites) é um mortal pacato que se considera apenas mais um solda
 </item>
 
 <item>
+<title> Diga Que Não É Verdade </title>
+<link>https://video.wixstatic.com/video/16f3d4_76aa60d6999245349146b11224b94205/1080p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/lNPWzOFvhtIhTfwnkLykwQ3OIsa.jpg</thumbnail>
+<fanart>http://s2.glbimg.com/vyDe7g1OwfpVH2oc2r4h-Xt21A4=/s.glbimg.com/og/rg/f/original/2015/01/13/mtg.jpg</fanart>
+<info>
+
+[B] Lançamento: [/B] [COLOR hotpink][B] 2001 [/B][/COLOR]  
+[B] Gênero: [/B] [COLOR hotpink] Comédia, Romance [/COLOR] 
+[B] Duração:[/B] [COLOR hotpink] 95 min. [/COLOR] 
+
+  Jo (Heather Graham) e Gilly (Chris Klein) são dois jovens apaixonados que descobrem um terrível segredo: eles na verdade são irmãos por parte de mãe. Para não cometer incesto, eles terminam se separando. Porém, quando Gilly descobre que na verdade houve um erro e que eles não são irmãos, ele parte para encontrar Jo e impedir que ela se case com outro homem.
+
+</info>
+</item>
+
+<item>
 <title>Din e o Dragão Genial</title>
 <link>https://video.wixstatic.com/video/16f3d4_238842b5d83e4199b7c363886b09c26d/1080p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/hNhGNWn4Z9S77cOuYn2ZWfC9E7b.jpg</thumbnail>
