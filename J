@@ -447,6 +447,22 @@ Frank trabalha como capitão de um barco em uma atração turística totalmente 
 </item>
 
 <item>
+<title> Jurassic World: O Mundo dos Dinossauros </title>
+<link>https://video.wixstatic.com/video/16f3d4_07c76319818a42b494385ca9839114a1/1080p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/dsnQBbJ9FM68uibzVxlknFcyFYJ.jpg</thumbnail>
+<fanart>http://tudo.extra.com.br/imagens/2014/11/jurassic-world-mundo-dinossauros.jpg</fanart>
+<info>
+
+[B] Lançamento: [/B] [COLOR hotpink][B] 2015 [/B][/COLOR]  
+[B] Gênero: [/B] [COLOR hotpink] Ação, Aventura, Ficção Científica, Suspense [/COLOR] 
+[B] Duração:[/B] [COLOR hotpink] 125 min. [/COLOR] 
+
+  O Jurassic Park, localizado na ilha Nublar, enfim está aberto ao público. Com isso, as pessoas podem conferir shows acrobáticos com dinossauros e até mesmo fazer passeios bem perto deles, já que agora estão domesticados. Entretanto, a equipe chefiada pela doutora Claire passa a fazer experiências genéticas com estes seres, de forma a criar novas espécies. Uma delas adquire inteligência bem mais alta, logo se tornando uma grande ameaça para a existência humana.
+
+</info>
+</item>
+
+<item>
 <title> Jurassic World Reino Ameaçado  </title>
 <link>https://video.wixstatic.com/video/16f3d4_2926cb1ab0d847b7bc3fc242d034b9ce/720p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/b3CuByY3v7qz9aq4rayIMeAMemy.jpg</thumbnail>
