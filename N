@@ -15,6 +15,22 @@
 </item>
 
 <item>
+<title> No Jogo do Amor </title>
+<link>https://video.wixstatic.com/video/16f3d4_07c76319818a42b494385ca9839114a1/1080p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/aa6cxHyZpbczm4EekCVUHZH7lg0.jpg</thumbnail>
+<fanart>https://i2.wp.com/cenasdecinema.com/wp-content/uploads/2021/10/No-jogo-do-amor_interno2.jpg</fanart>
+<info>
+
+[B] Lançamento: [/B] [COLOR hotpink][B] 2021 [/B][/COLOR]  
+[B] Gênero: [/B] [COLOR hotpink] Comédia, Romance, Drama [/COLOR] 
+[B] Duração:[/B] [COLOR hotpink] 88 min. [/COLOR] 
+
+  Depois de uma experiência de troca de casais, quatro amigos chegam a uma cabana de praia remota para enfrentar as consequências e encarar as verdades.
+
+</info>
+</item>
+
+<item>
 <title> Nomadland Sobreviver na América </title>
 <link>https://video.wixstatic.com/video/16f3d4_6949990bd81749d9a9fa63017bf9a1f7/720p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/589uhtJOujc72fgNl6HcMYJS64D.jpg</thumbnail>
