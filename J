@@ -415,6 +415,22 @@ Frank trabalha como capitão de um barco em uma atração turística totalmente 
 </item>
 
 <item>
+<title> Jurassic Park O Mundo Perdido </title>
+<link>https://video.wixstatic.com/video/16f3d4_c81df6a355064b599b741704f9b71d6f/1080p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/gkF6JPfru2FEIP9du7QyHVLSOzu.jpg</thumbnail>
+<fanart>https://images7.alphacoders.com/114/thumb-1920-1144753.jpg</fanart>
+<info>
+
+[B] Lançamento: [/B] [COLOR hotpink][B] 1997 [/B][/COLOR]  
+[B] Gênero: [/B] [COLOR hotpink] Aventura, Ação, Ficção Científica [/COLOR] 
+[B] Duração:[/B] [COLOR hotpink] 129 min. [/COLOR] 
+
+  John Hammond chama o teórico do caos Ian Malcolm à sua casa para dar algumas notícias aterradoras: enquanto quase tudo em Jurassic Park foi destruído, seus engenheiros parecem ter um segundo local, onde outros dinossauros estão escondidos. Aparentemente, os dinossauros na segunda ilha estão vivos e bem e até se acasalando. Hammond quer que Malcolm observe e documente as criaturas antes que mercenários cheguem até eles.
+
+</info>
+</item>
+
+<item>
 <title> Jurassic World Reino Ameaçado  </title>
 <link>https://video.wixstatic.com/video/16f3d4_2926cb1ab0d847b7bc3fc242d034b9ce/720p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/b3CuByY3v7qz9aq4rayIMeAMemy.jpg</thumbnail>
