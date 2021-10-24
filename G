@@ -1,4 +1,20 @@
 <item>
+<title> G.I. Joe Retaliação </title>
+<link>https://video.wixstatic.com/video/16f3d4_5703a994d476455ea60f638b906d8922/720p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/pMDcTdeuAtCPJKee8YdOP7Y8ElT.jpg</thumbnail>
+<fanart>http://www.cineset.com.br/wp-content/uploads/2014/08/g-i-joe-e28093-retaliac3a7c3a3o-g-i-joe-retaliation.jpg</fanart>
+<info>
+
+[B] Lançamento: [/B] [COLOR hotpink][B] 2013 [/B][/COLOR]  
+[B] Gênero: [/B] [COLOR hotpink] Ficção Científica, Aventura, Ação, Suspense [/COLOR] 
+[B] Duração:[/B] [COLOR hotpink] 110 min. [/COLOR] 
+
+  Um acordo entre as grandes potências define a redução das ogivas nucleares no mundo todo, mas os Estados Unidos, comandados pela organização Cobra, desconsideram o acerto e dão ínicio a um plano de proporções alarmantes. Enquanto isso, seguindo as ordens do presidente americano (Jonathan Pryce), o esquadrão de elite G.I. Joe é acusado de traição e, após ser atacado brutalmente, tem vários de seus integrantes mortos em combate. Agora, os poucos que sobreviveram vão contar com a ajuda do criador dos G.I. Joe, Joe Colton (Bruce Willis), para, liderados por Roadblock (Dwayne Johnson), revidar o ataque em grande estilo.
+
+</info>
+</item>
+
+<item>
 <title> G.I. Joe Origens Snake Eyes </title>
 <link>https://video.wixstatic.com/video/16f3d4_78a67261d14040c281e84533120adecc/720p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/6IxMW3939dOCjzenwzkWEjgICVq.jpg</thumbnail>
