@@ -223,6 +223,22 @@ Oliver é um garoto autista. Desesperado por amigos, encontra um refúgio no seu
 </item>
 
 <item>
+<title> Veneza </title>
+<link>https://video.wixstatic.com/video/16f3d4_28abf273d0af443bae9065ed8593925e/1080p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/1gKl7CcugzxsrnSLAm4Pr8O6jnb.jpg</thumbnail>
+<fanart>https://i2.wp.com/telaviva.com.br/wp-content/uploads/2021/05/veneza.jpg</fanart>
+<info>
+
+[B] Lançamento: [/B] [COLOR hotpink][B] 2021 [/B][/COLOR]  
+[B] Gênero: [/B] [COLOR hotpink] Drama, Comédia, Romance [/COLOR] 
+[B] Duração:[/B] [COLOR hotpink] 91 min. [/COLOR] 
+
+  Reencontrar o único homem que amou é o sonho de Gringa, dona de um bordel no interior do Brasil. Mesmo cega e muito doente, ela insiste em realizar seu último desejo: ir até Veneza para pedir perdão ao amante que abandonou décadas atrás. Para levá-la à cidade italiana, Tonho, Rita e as outras moças que trabalham para Gringa idealizam um fantástico plano com a ajuda de uma trupe circense.
+
+</info>
+</item>
+
+<item>
 <title> Venom </title>
 <link>https://video.wixstatic.com/video/16f3d4_2aeedd50e7894a02a509ecb933f5c53a/720p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/qZK4LSj7crL6RNGUfD1LSJioA4u.jpg</thumbnail>
