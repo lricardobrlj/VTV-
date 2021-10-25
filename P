@@ -199,6 +199,22 @@ Na segunda metade do século XXI, as fontes de energia de origem fóssil estão 
 </item>
 
 <item>
+<title> Perfeição Insondável </title>
+<link>https://video.wixstatic.com/video/16f3d4_6bac8056237146038ed597d44fff4ddf/1080p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/hSKTSIUNb4XXkwcNJkhgXwqr27w.jpg</thumbnail>
+<fanart>https://observatoriodocinema.uol.com.br/wp-content/uploads/2021/06/perfeicao-insondavel-divulgacao-4.jpg</fanart>
+<info>
+
+[B] Lançamento: [/B] [COLOR hotpink][B] 2020 [/B][/COLOR]  
+[B] Gênero: [/B] [COLOR hotpink] Terror, Suspense, Ficção Científica [/COLOR] 
+[B] Duração:[/B] [COLOR hotpink] 87 min. [/COLOR] 
+
+  Liberty, uma jovem socialmente estranha de 16 anos, retorna de dois meses no acampamento para uma introdução surpresa do noivo de sua mãe, John Smith, cujo charme, inteligência e beleza pintam o quadro de um homem perfeito demais para ser humano.
+
+</info>
+</item>
+
+<item>
 <title> Perseguição na Neve </title>
 <link>https://video.wixstatic.com/video/16f3d4_079cfdf6b56a420a9d09d8225baa1a4f/1080p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/oT35GfMeRGZzhfdCrztpdkMi4OG.jpg</thumbnail>
