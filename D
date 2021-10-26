@@ -478,3 +478,18 @@ Para alegrar um colega em crise, um grupo de professores de ensino médio decide
 </info>
 </item>
 
+<item>
+<title> Duro de Matar </title>
+<link>https://video.wixstatic.com/video/16f3d4_dfb459c143384c83adde51f5a7f1c40f/1080p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/rauTKnFle1sp4aXjtYgx4tCWNiK.jpg</thumbnail>
+<fanart>https://observatoriodocinema.uol.com.br/wp-content/uploads/2017/03/durodematar.jpg</fanart>
+<info>
+
+[B] Lançamento: [/B] [COLOR hotpink][B] 1988 [/B][/COLOR]  
+[B] Gênero: [/B] [COLOR hotpink] Ação, Suspense [/COLOR] 
+[B] Duração:[/B] [COLOR hotpink] 131 min. [/COLOR] 
+
+  John McClane é um detetive de Nova York que está indo a Los Angeles para se encontrar com sua esposa, que trabalha em uma empresa japonesa. Porém, ao chegar no prédio onde ela trabalha, percebe que o edifício está sendo assaltado por um bando de terroristas e decide atrapalhar seus planos para resgatar sua mulher.
+
+</info>
+</item>
