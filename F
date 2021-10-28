@@ -124,3 +124,19 @@ De volta à infância de Elsa e Anna, as duas garotas descobrem uma história do
 
 </info>
 </item>
+
+<item>
+<title> Fúria de Titãs 2 </title>
+<link>https://video.wixstatic.com/video/16f3d4_d6bd3df106c84e238ff29445f08a93f4/1080p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/9yyAOtBlWlMBOAUp2lWTRytVgOG.jpg</thumbnail>
+<fanart>http://4.bp.blogspot.com/-MEi1SL13qpQ/T3aH6TFV3EI/AAAAAAAABA4/1Zwf-PeLovk/s1600/Furia3.jpg</fanart>
+<info>
+
+[B] Lançamento: [/B] [COLOR hotpink][B] 2012 [/B][/COLOR]  
+[B] Gênero: [/B] [COLOR hotpink] Fantasia, Aventura [/COLOR] 
+[B] Duração:[/B] [COLOR hotpink] 100 min. [/COLOR] 
+
+  Dez anos depois de derrotar o Kraken, Perseu vive em paz com seu filho Helios. Mas os Deuses perdem o controle sobre os Titãs, que estão presos. Perseu é chamado novamente, agora para resgatar seu pai, Zeus, vencer os Titãs e salvar a humanidade.
+
+</info>
+</item>
