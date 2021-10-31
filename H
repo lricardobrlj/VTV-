@@ -429,3 +429,19 @@ Bruce Banner é um cientista e trabalha ao lado de sua grande paixão, a bela Be
 
 </info>
 </item>
+
+<item>
+<title> Hypnotic </title>
+<link>https://video.wixstatic.com/video/16f3d4_2ee200ffce0147bcb95127bd527ff040/1080p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/miEj4kNc4efZ5WbPJqWl1UXWrvS.jpg</thumbnail>
+<fanart>https://www.whats-on-netflix.com/wp-content/uploads/2021/10/psychological-thriller-starring-kate-siegel-hypnotic-is-coming-to-netflix-in-october-2021-scaled.jpg</fanart>
+<info>
+
+[B] Lançamento: [/B] [COLOR hotpink][B] 2021 [/B][/COLOR]  
+[B] Gênero: [/B] [COLOR hotpink] Suspense, Drama [/COLOR] 
+[B] Duração:[/B] [COLOR hotpink] 88 min. [/COLOR] 
+
+  Sentindo-se bloqueada na vida pessoal e profissional, Jenn busca ajuda na hipnoterapia, mas descobre que se envolveu em um jogo mental mortífero.
+
+</info>
+</item>
