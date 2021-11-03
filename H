@@ -159,6 +159,22 @@ Harry Potter e seus amigos Rony Weasley e Hermione Granger seguem à procura das
 </item>
 
 <item>
+<title> Hellboy II O Exército Dourado </title>
+<link>https://video.wixstatic.com/video/16f3d4_74ee1c57cf034dc998ce0e531a6e67dc/1080p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/2ZFnYUkYDlwJQvODkQ0JyTRZDSO.jpg</thumbnail>
+<fanart>https://nosbastidores.com.br/wp-content/uploads/2021/03/critica_hellboy_II_o_exercito_dourado_bastidores.jpg</fanart>
+<info>
+
+[B] Lançamento: [/B] [COLOR hotpink][B] 2008 [/B][/COLOR]  
+[B] Gênero: [/B] [COLOR hotpink] Ação, Aventura, Suspense, Fantasia [/COLOR] 
+[B] Duração:[/B] [COLOR hotpink] 120 min. [/COLOR] 
+
+  Hellboy, sua namorada Liz e Abe Sapien enfrentam uma grande batalha quando um príncipe do submundo tenta recuperar a Terra. Cansado de viver à sombra dos seres humanos, o Príncipe Nuada tenta despertar um exército de máquinas assassinas para libertar as criaturas de fantasia na Terra. Apenas Hellboy pode deter o príncipe sombrio e impedir a aniquilação da humanidade.
+
+</info>
+</item>
+
+<item>
 <title> Hellboy </title>
 <link>https://video.wixstatic.com/video/16f3d4_999dd46e1a1c465e8fb3684d85539aa0/720p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/lmh8wXm6f3z7wcRqQ8NSXrB8tMQ.jpg</thumbnail>
