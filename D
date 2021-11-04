@@ -255,6 +255,22 @@ Bek (Brenton Thwaites) é um mortal pacato que se considera apenas mais um solda
 </item>
 
 <item>
+<title> Diário Proibido </title>
+<link>https://video.wixstatic.com/video/16f3d4_0135c31f7127483ebd664edaf24e133d/1080p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/3cJs5LE54c9efaKAwmIQmmn53eF.jpg</thumbnail>
+<fanart>https://media.gazetadopovo.com.br/2009/10/ca0d9a6c9c9e0db42bb28838127c1588-gpLarge.jpg</fanart>
+<info>
+
+[B] Lançamento: [/B] [COLOR hotpink][B] 2008 [/B][/COLOR]  
+[B] Gênero: [/B] [COLOR hotpink] Drama, Romance [/COLOR] 
+[B] Duração:[/B] [COLOR hotpink] 102 min. [/COLOR] 
+
+  Valére (Belén Fabra) é uma jovem empresária de sucesso, que tem uma intensa vida sexual. Ela possui um diário, onde costuma escrever suas confissões mais íntimas. Decidida a não seguir qualquer convenção moral, ela passa a trabalhar como prostituta de luxo por mera curiosidade. Desta forma ela conhece um universo oculto, tendo acesso ao lado obscuro do sexo e das relações íntimas.
+
+</info>
+</item>
+
+<item>
 <title> Diga Que Não É Verdade </title>
 <link>https://video.wixstatic.com/video/16f3d4_76aa60d6999245349146b11224b94205/1080p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/lNPWzOFvhtIhTfwnkLykwQ3OIsa.jpg</thumbnail>
