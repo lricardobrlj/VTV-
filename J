@@ -95,6 +95,22 @@ Elisabeth e John-John vivem na mesma cidade, mas em mundos completamente diferen
 </item>
 
 <item>
+<title> Jogo Perigoso </title>
+<link>https://video.wixstatic.com/video/16f3d4_31224c72f6374b548756260c042d1df0/1080p/mp4/file.mp4</link>
+<thumbnail>https://static.wikia.nocookie.net/quibi/images/e/ed/Most_Dangerous_Game_Poster_S1.jpg/revision/latest?cb=20200405043734</thumbnail>
+<fanart>https://thestreamable.com/media/pages/news/quibi-renews-most-dangerous-game-creator-looking-to-package-as-feature-film/993a8aee84-1633461647/69203_thumb_jpg_h_960_540.jpg</fanart>
+<info>
+
+[B] Lançamento: [/B] [COLOR hotpink][B] 2021 [/B][/COLOR]  
+[B] Gênero: [/B] [COLOR hotpink] Aventura, Drama, Ação [/COLOR] 
+[B] Duração:[/B] [COLOR hotpink] 127 min. [/COLOR] 
+
+  Desesperado para cuidar de sua esposa grávida antes que uma doença terminal possa tirar sua vida, Dodge Maynard aceita uma oferta para participar de um jogo mortal onde ele logo descobre que não é o caçador … mas a presa.
+
+</info>
+</item>
+
+<item>
 <title> Jogos Mortais </title>
 <link>https://video.wixstatic.com/video/16f3d4_d7da793562044cddbea072596ece684b/720p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/7EPDYnjcy4cP4Ldy3qFApySOdNh.jpg</thumbnail>
